@@ -1,0 +1,35 @@
+---
+title: "Morbid honorifics"
+date: "2022-09-09"
+slug: "morbid-honorifics"
+tags: []
+description: ""
+---
+
+When a person succumbs to the mortal coil and passes away, we have in all cultures words of varying degrees of formality and respect to refer to this posthumous state.
+
+Japanese being the focal point of this blog and seeing as Elizabeth II just recently passed away, it may be useful to know a few of these words, that also popped up in Japanese media covering of the event.
+
+The regular word for the process in Japanese is  死 (shi, "death") and the verb is 死ぬ (shinu, "to die"). These are however just as blunt as "die" and "death" are in English, hence there are politer alternatives.
+
+When a monarch dies the word 崩御 (hougyo, lit. "honourable collapse"), if it's a member of the nobility then it's 薨去 (koukyo, "left (into) mortality") and if it's merely a formal way of reporting the matter then there's 死去 (shikyo, "left by death"), which can apply to any member of society. The latter kanji in the last two is 去, lit. "to leave", which in turn is related to kinetic verbs in Japanese that mean "to die", such as yuku/iku (逝く, "to pass away"), homophone with 行く ("to go"). These two are combined in the polite word 逝去 (seikyo, "death/passing"), that combines yuku and and 去 to produce it. I have only found a few Youtuber use it in this context.
+
+If it's the verb however, then the most formal way of saying this is 亡くなる (naku-naru, "to become perished"), the word could to be related to the adverb 無く (naku, "nothing") thus giving an etymological background to this term. The most reverential form of this verb is お無くなりになる (o-naku-nari-ni-naru, lit. "becoming honourably perished").
+
+崩御 and 薨去 are also mentioned in the Book of Rites, which itself established the direct protocol for how to refer to the deaths of aristocracy and monarchs.
+
+There also exists expressions such as お隠れになる (o-kakure ni naru, "to have honourably become hidden"), which thus far as I could see from my research isn't used for the Queen.
+
+Thus explained, thus can we move on to the main topic of the article.
+
+The Japanese news media reporting on the late monarch's passing uses mostly the term shikyo (死去), which sounds neutral without sounding informal, but there are also quite a few such as the Ministry of Foreign Affairs of Japan's website that uses not only hougyo (崩御), but an honorific version of it gohougyo (御崩御), literally repeating the last kanji, which in itself is an archaic honorific usage. Likewise did the Prime Minister of Japan's official site. As well as a few other sites.
+
+Vogue's Japanese sister-site uses 崩御 as well, as in a translation from the original English article.
+
+BBC News Japan is one of the news media that uses shikyo (死去) as well as naku-naru (亡くなる), when reporting on not just the matter, but also translating the official royal news regarding Elizabeth II's passing.  
+
+last updated: 2026-01-26
+
+**myriadleaves.eu 2026**
+
+朱

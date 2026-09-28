@@ -1,0 +1,127 @@
+---
+title: "Emperor's New Clothes Comparison - 1960 - 1980s"
+date: "2021-04-10"
+slug: "emperors-new-clothes-comparison-1960-1980s"
+tags: []
+description: ""
+---
+
+Thus we reach the final leg of our journey through the comparison of the various Japanese  translations of Andersen's The Emperor's New Clothes, wherewith we now are covering those translations occurring during the 1960s and 1980s - meeting a person who we covered in the previous article, Oohata and a new face, namely Ookubo Yuu.
+
+Oohata's second translation is from 1965 and Ookubo's is from 1982.
+
+There are marked differences between the two and also the latter of the two translators repeating a pattern of demoting the Emperor of the story to a lesser monarchical office.
+
+The Emperor (or the King Who Cried "Alas, Emperor Never More!")
+
+Both emperors use the elderly pronoun washi (わし), whereof Ookubo's kingly version uses watashi (わたし) when the monarch is acting proper and regal-like.
+
+Quoth Oohata:
+
+「なるほど、それはおもしろい着物だわい」と、皇帝はお考えになりました。 「その着物をこのわしがきたら、この国の、どの男がじぶんの役目に向いていないか、みつけることができようというものじゃ。りこう者とばか者との区別もできる。そうだ、さっそく、その織り物をおらせにゃならん、」
+
+"Naruhodo, sore wa omoshiroi kimono da wai" to, koutei wa okangae ni narimashita. "Sono kimono wo kono washi ga kitara, kono kuni no, dono otoko ga jibun no yakume ni muiteinai ka, mitsukeru koto ga dekiyou to iu mono ja. Rikou-mono to baka-mono to no kubetsu mo dekiru. Souda, sassoku, sono orimono wo orase nya naran!"
+
+"I see, that is a most fascinating piece of clothing, zounds!" thought His Majesty the Emperor. "If I were to wear such a robe then I should be able to determine which men in my realm are fit and able for their position. I could distinguish the clever ones from the foolish ones. Why, yes! Right away, I'll jolly well have that textile produced!"
+
+Comparing this to his previous rendering of the Emperor musing to himself, there is little changed in terms of His Majesty sounding like an ageing gentleman. He does use more colloquialism such as nya for ni wa, essentially akin to "which is" or "by which," in English. He does not however appear to be wanting to sound or look feline, despite the semblance to the Japanese onomatopoeia for "meow" (にゃ, "nya").
+
+Quoth Ookubo:
+
+「そんな布があるのか。わくわくするわい。」と、服が大好きな王さまは思いました。「もしわしがその布でできた服を着れば、けらいの中からやく立たずの人間や、バカな人間が見つけられるだろう。それで服が見えるかしこいものばかり集めれば、この国ももっとにぎやかになるにちがいない。さっそくこの布で服を作らせよう。」
+
+"Sonna nuno ga aru no ka. Wakuwaku suru wai," fuku ga daisuki na ou-sama wa omimashita. "Moshi washi ga sono nuno dekita fuku wo kireba, kerai no naka kara yakutatazu no ningne ya, baka na ningen ga mitsukerareru darou. Sore de fuku ga mieru kashikoi mono no bakari atsumereba, kono mo motto nigiyaka ni naru ni chigai nai. Sassoku kono nuno de fuku wo tsukurareseyou."
+
+"So it is that kind of cloth, I see. I am jolly well most thrilled!" thought the King, who loved clothes so very much. "Perhaps if I were to wear such clothes then I should be able to tell apart which of my servants were useful and which were idiots. Thus I would be able to gather those wise and without fail notice, furthermore, notice whom are busy.  I shall have them produce the clothes from the fabric, right away!"
+
+Also here the demoted monarch sounds like a giddy old regent, replete with wai, a particularly notable emphatic particle from the Hiroshima dialect and also recurring in the speech of oldsters in fiction, hence my translation of it as the equally old fashioned "jolly." Oohata's Emperor also uses wai.
+
+Later on, Ookubo's demoted monarch uses watashi:
+
+「まさしくそうであるな。この布がすばらしいのは、わたしもみとめるところであるぞ。」 "Masashiku sou de aru na. Kono ninu ga subarashii no wa, watashi mo mitomeru tokoro de aru zo" "That is truly so, indeed. If these clothes be so splendid then I shall ascertain them myself!"
+
+He uses watashi a few other times afterwards, giving him the sound and air of a stately individual unlike his internal monologues with washi. These are however not as regal-sounding as chin nor yo, which historically and prominently in fiction have been used by royalty and nobility.
+
+The Old Minister:
+
+The Old Minister is simply called the Daijin ("cabinet minister") and as seen in Oohata's newer translation:
+
+「おお、神さま！」大臣は考えました。 「わしは、おろか者なのかしらん。そんなことは思いもよらぬことだ。また、だれも知ってはならんことだ。わしが役目に向いとらんというのか。いかん、織り物がみえませんなぞと、いうわけにはいかんぞ。」
+
+"Oo, kamisama!" daijin wa kangaemashita. "Washi wa, orokamono nan no kashiran. Sonna koto wa omoi mo yokaranu koto da. Mata, dare mo shitte wa naran koto da. Washi ga yakume ni muitoran to iu no ka . Ikan, orimono ga miemasennazoto, iu wake ni wa ikan zo."
+
+"Oh, my Lord God!" thought the Cabinet Minister. "Am I, perhaps, a simpleton? There is no reason for me to think this! Moreover, no one must know of this. Am I not cut out for my profession? Shan't be, I can't say 'Why, good sirs, I am not able to see it,' I absolutely shan't!"
+
+Reappearing in this passage is muiteinai (向いていない, "is not fit for a job/position"), in the guise of muitoran, a more old fashioned rendition of it with toran, a contraction of teoran, itself the colloquial gerund negation of oru, a synonym to iru ("to be"), but prevalent in dialects and elderly speech as well as ordinarily seen as the humble existential verb.
+
+Quoth Ookubo:
+
+「大変なことじゃ。」と大臣は思いました。自分はバカなのだろうか、と首をかしげました。でもそう思いたくありませんでした。大臣はまわりを見まわしました。
+
+"Taihen na koto ja." to daijin wa omoimashita. Jibun wa baka na no darou ka, to kubi wo kashigemashita. Demo sou omoitaku arimasendeshita. Daijin wa mawari wo miwarimashita.
+
+"'This is most ghastly!' thought the Cabinet Minister. That he himself was perhaps an idiot, he would certainly get sacked, he thought. However, he did not wish to think like that. The Cabinet Minister walked about and took a closer inspection."
+
+Little to no direct here, apart from the brief exclamatory reaction which runs through most of the story. Of what can be seen, however, he uses generic elderly speech, closely resembling the Hiroshima dialect, such as seen with the sentence ending copula ja, corresponding to the standard da or dearu.
+
+The Swindlers:
+
+As previous articles in this series have shown, the pair are known for not just their ability to present questionable articles of clothing that reveals the vocational competence of the observer, but also for being as linguistically slick as anguilline critters.
+
+Thus, when the pair wish for His Majesty to disrobe himself and don the newly "made" ones:
+
+Quoth Oohata's new translation:
+
+「陛下、おそれながら、お召し物をおぬぎあそばされますよう。」と、ぺてん師もはいいました。 「手まえどもも、つつしんで、この大鏡のまえで、新しいお召し物を、お着せ申しあげるでございましょう。」
+
+"Heika, osorenagara, omeshimono wo onugi asobasaremasuyou." to, petenshi mo wa iimashita. "Temae-domo mo, tsutsushinde, kono ookagami no mae de, atarashii omeshimono wo, okisemoushiageru de gozaimashou."
+
+"If we may be as bold to ask, Your Majesty, if You would deign to unrind Yourself of Your Majesty's current Imperial Raiment." said the Swindlers. "We worthless lot may then most humbly, in front of that grand mirror, clothe Your Majesty in this new Imperial raiment, if the Majesty so wishes, most noble sire!"
+
+As in his last translation the Swindlers use the archaic humble pronoun temae in its plural form temae-domo, lit. "the humble thing before the hand." I also mentioned previously, that it is nowadays used as a derogatory second person pronoun with the sense of "you bastard," in English.
+
+Quoth Ookubo:
+
+「どうか王さま、ただいまおめしになっている服をおぬぎになって下さいませんか？」 (…) 「よろしければ、大きなかがみの前で王さまのお着がえをお手伝いしたいのです。」
+
+"Douka ousama, tadaima omeshi ni natteiru fuku wo onugi ni natte kudasaimasenka?" (:::) "Yoroshikereba, ookina kagami no mae de ousama no okigae wo otetsudai itashitai no desu."
+
+"Please, King, if You would deign to gracious declothe Yourself of your favourite robes?" (:::) "If it so pleases His Majesty, would the King then place Himself in front of the large mirror, then we may be able to assist the King in dressing the King in the new Royal Clothes."
+
+Much more of a standard fair in terms of politeness, though we see a few o-ni-naru constructions, i.e. "the gentleman/madam does X", such as omeshi-ni-natteiru (to clothe, to fancy), and onugininatte (to dress oneself). It is not as self-abasing as Oohata's with moushiageru (to humbly perform; to humbly express) being the auxiliary verb, where this one uses itasu ("to humbly do"), which is the standard way of forming a humble verbal construction, where itasu also typically becomes the suppletive humble auxiliary verb instead of the like of the ordinary suru ("to do"), in neutral/informal speech.
+
+Both of them are ennobled in the original with the title of væverjunker, and likewise Oohata and Ookubo translate these titles:
+
+Oohata: orimono kizoku (織り物貴族, "Weaver Noble") Ookubo: oukoku tokubetsu hataorishi 王国とくべつはた織り士, "Special Weaving Experts to the Kingdom")
+
+Thus Oohata does it literally and Ookubo elaborates on their courtly profession as serving as the His Majesty's official tailors.
+
+"But he wears nothing at all!":
+
+We then for the last time reach this part of the article where the words of a child brings the imperial clothing illusion crashing down.
+
+Quoth Oohata: 「だけど、なんにも着てやしないじゃないの。」 "Dakedo, nanni mo kite yashinai janai no." "However, he ain't wearing anything at all at all!"
+
+A colloquial rendition and sounds like a child could have said it, though do note that ~yashinai janai (lit. "does not" + "it is not"), needn't imply a double negation as in English, but merely serves to strengthen the contents of the statement.
+
+Oohata, however, renders it utterly literally:
+
+「でも、王さま、はだかだよ。」 "Demo, ousama, hataka da yo." "But, the King is naked!"
+
+Which was the translation choice of some of his predecessors.
+
+Final remarks:
+
+Thus we round off well over a century of translations of a monarch whose predilection for clothing, changing vicissitudes of offices of monarch-hood, going from emperor to king and then to even greater titles, and duplicitous tailors.
+
+I will in the future perhaps write an article in regards to the dizzying amount of honorific expressions that are used in these, but for now this concludes our odyssey of the translations of this particular fairy-tale spanning from 1888 to 1982.
+
+Thank you for being the literary travelling companion - and no that is not a reference to an upcoming project.
+
+心から、ブロッゴポストをご耽読くださいましてありがとうございます, 皆々様 Thank you very much, for having thoroughly read these blog-posts, ladies and gentlemen!
+
+last updated: 2026-01-26
+
+**myriadleaves.eu 2026**
+
+朱

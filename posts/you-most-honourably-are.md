@@ -1,0 +1,85 @@
+---
+title: "You most honourably are being!"
+date: "2020-11-19"
+slug: "you-most-honourably-are"
+tags: []
+description: ""
+---
+
+Japanese has, as mentioned in some of my other articles, various ways of expressing respectful existential verbs, i.e. second person or third person "to be," or, rather, the verbs are not conjugated after grammatical number since such aspect is not a part of the Japanese language. What infers the number or rather party to whom one is referring to in the speech is determined by whether or not the register that you are using is humble (kenjougo) speech or respectful (sonkeigo) speech.
+
+Thus, we are to cover in this article the several ways of referring to a second or third party in the sonkeigo register of polite speech (keigo). I shall cover the four most common ways of doing this, and will then in a future article highlight the more obscure ones. I will also add to the explanations of each verb some examples from Japanese fiction of their usage.
+
+Irassharu (いらっしゃる)  - "The honourable personage is/doing/going"
+
+This verb is originally one denoting to move, go or in other ways performing an action that involves said motion. It stems from an older passive conjugation of the verb iru (入る, to enter), unrelated to the existential verb iru (いる also written as 居る), which in turn stems from the same root as the humble existential verb oru (おる, which is also written as 居る).
+
+It seems that irassharu was preferred over orareru due to the latter being generated from what was perceived as a humble verb and thus unfitting for decorous reference to the second and third parties.
+
+Freeza: 素直になったほうがいいとおもいますよ あなたが殺すぐらいわけにはありません おふたりにいらっしゃるんでしょ？ どちらかの人からききだせばいいことですから
+
+Sunao ni natta hou ga ii to omoimasuyo Anata ga korosugurai wake ni wa arimasen O-futari ni irassharundesho? Dochira ka no hito kara kikidaseba ii koto desu kara
+
+"I should think that being obedient is a good thing, I have no reason to actually kill you. I take it that there are two gentlemen over there? Why, I would think it nice to know some information in regards to this."
+
+Nail: ではそうするがいい……
+
+De wa sou suru ga ii ... ...
+
+"Then, try your worst..." (Dragon Ball, volume 24)
+
+The space-tyrant and real-estate agent, Freeza, is all times putting on airs to seem as polite as possible, even when he is fuming with anger or beaming with arrogance. Here he uses irassharu in a way of mocking the heroes of the story. To which Nail, the guardian of the Eldest, will have none of.
+
+Orareru (おられる) - "The honourable personage is"
+
+As mentioned above this is derived from the humble verb oru, which is then put into the passive construction that is another way of rendering a verb a sonkeigo one. Some dialects, notably the Kyoutou one, uses oru as its standard existential verb and as such orareru is used there more than irassharu, hence it could be posited that orareru stems from the dialect, which during the Edo period was a prestige dialect.
+
+殿はそういうお人だ……… なによりもお家の安泰を願っておられたお方だ……… Tono wa souiu o hito da .... Nani yori mo o-ie no antai o negatte orareta o-kata da ... "Our Lord is one such personage. He is one who wisheth above aught else the peace and security for the noble House!" (Kagemusha Tokugawa Ieyasu, volume 2)
+
+In the manga Kagemusha Tokugawa Ieyasu ("Shadow Warrior - Tokugawa Ieyasu") by Tetsuo Ohara of Hokuto no Ken ("Fist of the North Star") fame, based off a series of historical novels by the author Keiichirou Ryuu, shows the intricate if fictitious relationship between real-life warlord and Shogun Ieyasu Tokugawa and his body double. Here it is Tokugawa's most trusted retainer, Tadakatsu Honda, who in a conversation with the body-double speaks of the wishes and personality of Tokugawa, where he uses orareru to signify the indicative form of the verb negau ("to wish") in its -te (continuative form), therefore orareru has also a greater predominance in period dramas and stories like this.
+
+Oide (おいで)- "The honourable personage is/going."
+
+This is ultimately derived from the fuller sonkeigo verb oide ni naru (おいでになる, "to honourably be), itself derived from ideru (出る, "to enter").
+
+Examples of usage:
+
+よく来たな　デンデ 最長老さまはおおよその成りゆきを知っておいでだ… Yoku kita na Dende. Saichourou-sama wa ooyoso no nariyuki o shitte oide da... "You have arrived, Dende. His Lordship, Supreme Eldest, is cognisant of your arrival." (Dragon Ball volume 22)
+
+Vahfriz： 国王と王妃とどちらに似ておいでだろうか？ Kokuou to ouhi to dochira ni nite oide darou ka? "Who does His Highness resemble the most? The King or the Queen Consort?"
+
+Daryun： しい…て　言えば王妃様の方でしょうか？ Shii ... te ieba oihi-sama no hou deshou ka? "I... If I were to say then I would say Her Highness, the Queen Consort, no?"
+
+Vahfriz： うむ　そうか Umu souka "Yes, Hm."
+
+なるほど Naruhodo "I see."
+
+国王陛下には似ておられぬか Kokuou heika ni wa nite orarenu ka "His Highness does not resemble His Majesty." (The Heroic Legend of Arslan, Volume 1)
+
+In the above, especially in Arslan by Hiromu Arakawa, based off the self-same book by Yoshiki Nakada and also co-authoring the manga-version, we see both oide and orareru in action, namely the former works as a respectful way of expressing "doing," hence "does resemble" or "resembling" in the context of this excerpt. Orarenu here literally means "is not (resembling)", but we would use do-support in this sentence since it sounds more natural in English.
+
+Friend of the Buddha： この中ですか　この中でどういう苦行をなさっておいでなのですか？ Kono naka desu ka Kono naka douiu kugyou wo nasatte oide na no desu ka? "Within this thing, you say. What manner of punishment does he conduct within it?"
+
+Beggar： ハゲタカにご自分のからだをつつかせていらっしゃるんです Hagetaka ni gojibun no karada o tsutsukasete irassharundesu "The vultures come and peck upon his honourable body."
+
+Friend of the Buddha： なんですって？ Nandesutte? "I beg your pardon!?"
+
+Beggar： 中にはーー　ハゲカタがたくさんいましてね　仙人はそのまん中でねておられるのですよ Naka ni wa – hagetaka ga takusan imashite ne Sennin ha sono mannaka de nete orareru no desu "Within its centre – There are plenty of vultures there. The hermits sleep within the middlemost part of it." (Buddha, Volume 5)
+
+We see in these quotes from the above excerpt of Tezuka's landmark comic version of the life of Buddha, oide, orareru and irassharu in action, all for the most part express "doing something" in the active sense, or vaguely "being," hence it is difficult to pin down their actual English counterparts and highlight them in the translation below.
+
+Gozaru (Gozaimasu) (ござる・ございます) - "The honourable personage is"
+
+Technically not a verb referring to animate states of being, such as is the case with iru, but a form of the verb aru which describes a non-animate state of being such as that of rocks, dead animals and so on. In some dialects nevertheless aru is used on an equal level of animation as iru is, therefore gozaru - the beautified version - is used also in most cases in standard Japanese - presumably also as a catch-all honorific, where you do not need to think about which existential verb to use.
+
+騎士見習いスパークに御座います　カシュー陛下も御健勝のことと存じます Kishi minarai Spâku ni gozaimasu Kashû heika mo gokenshou no koto to zonjimasu "This mere knight-in-learning Spark is here. I have most humbly heard of your august health, Your Majesty, King Kashu." (Lodostou Senki Eiyuu Kishi Den, volume 1)
+
+Here the main character, an energetic if eager knight-in-training, Spark, is in the audience of the king of his nation, thus he addresses himself and His Majesty in adequate terms. "Gozaimasu" here works as a decorous if humble way of saying "I am", but it can also mean "you are" or "it is" depending on context since it is literally the honorific version of most verbs meaning "to be."
+
+As mentioned I shall post more upon this topic later.
+
+last updated: 2026-01-26
+
+**myriadleaves.eu 2026**
+
+朱

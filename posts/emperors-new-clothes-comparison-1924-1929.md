@@ -1,0 +1,149 @@
+---
+title: "Emperor's New Clothes Comparison - 1924 - 1929"
+date: "2021-03-16"
+slug: "emperors-new-clothes-comparison-1924-1929"
+tags: []
+description: ""
+---
+
+Thus we enter a new decade of translations and a new round of analyses that either have the Emperor of the story be demoted to mere king or have him keep his empire.
+
+We thus acquaint ourselves with three new translations, this time by two translators: Kusuyama Masao's two versions from the 1920s (one being also from 1924), whereof one of these being used as the official H. C. Andersen tourist-centre's translation into Japanese, and Mitaku Fusako's translation from 1929.
+
+I was unable to date the latest of Kusuyama's translations, unfortunately, for chronologically it seems to be from a few years later than his first one, if the fact that it was used in a later 1965 release is taken into consideration.
+
+It is worth noting that Kusuyama's two versions differ significantly in terms of linguistic style and how he renders the titles and terms of the story, where it seems that the latter of the translations have more had a focus on gearing it towards a younger audience and turning down some of the otherwise difficult words.
+
+The Emperor:
+
+Kusuyama's oldest translation gives the Emperor's title as tenshi-sama (天子さま, "Lord Child of Heaven"), as noted before the ancient term for the Chinese emperor being viewed as a manner of divine monarch. He and Mitaka Fusako however opt for the much more common koutei (皇帝), that has less an archaic sound and corresponds to the modern Japanese word for non-Japanese emperors - the word itself stemming ultimately from the title of the first emperor of China.
+
+Already one can sense a change in mood from Kusuyama in terms of rendering the Imperial title of office in a less arcane light and in a more modern term, also so that the younger readership may be able to follow and understand the action in the story itself much better.
+
+How does this monarch then act in these three versions?
+
+Kusuyama's initial translation gives us these first lines from the Emperor:
+
+「なるほどそれは調法な着物だな。わたしがそれを着れば、この國で誰が身分に相應しない人物であるか見つけ出すことも出来るし、利口と馬鹿の見わけもつくわけだ。よし、さっそくその織物を織らせることにしよう。」
+
+"Naruhodo sore wa chouhou na kimono dana. Watashi ga sore wo kireba, kono kuni ga jibun ni fusuwashinai jinbutsu dearu mitsukedashu koto mo dekiru shi, rikou to baka no miwake mo tsukuwakeda. Yoshi, sassoku sono orimono wo oraseru koto ni shiyou."
+
+"I see, that is a most useful thing, indeed. If I were to wear such a thing, then I would be able to locate who in my kingdom are unfit personages, thus locating the bright from the stupid. Yes! I shall right away have them weave me this textile!"
+
+Watashi, the gender-neutral if aloof, in fiction, pronoun is used for his self-reference. Not chin nor yo, which would correspond to a more regal sound of diction. His speech patterns are otherwise standard masculine language - such as is witnessed by the masculine emphatic particle na.
+
+His subsequent translation renders this line as:
+
+「なるほど、それは大した着物だな。」 と、皇帝はかんがえました。 「それをおれが着れば、いったいこの國のどの役人が、つとめにむかないやくざものであるか分るし、りこうものとばかもののみわけもつくわけだ。よし、さっそく、その着物をおらせることにしよう。」
+
+"Naruhodo, sore wa taishita kimono dana." to, koutei wa kangaemashita. "Sore wo ore ga kireba, ittai kono kuni no dono yakunin ga, tsutome ni mukanai yakuzamono de aru wakarushi, rikoumono to bakamono no mi wake mo tsuku wake da. Yoshi, sassoku, sono kimono wo oraseru koto ni shiyou."
+
+"I see, that is quite formidable clothing." thought the Emperor to himself. "If I wore this, then I would know who on Earth in my kingdom are ne'er-do-wells, who're the clever and who are idiots. Yes, I will right away have them make me this textile."
+
+Quite a prominent switch of mood, he goes from watashi in the initial translation to straight up ore, the rough informal male first person pronoun, thus giving him a much more less-stately aura, but the diction is still old-fashioned, i.e. no mi, "for the sake of", which is more formal way of expression intention. Yakuzamono does not necessarily here refer to criminals as much as just ruffians or ne'er-do-wells, it is nevertheless related to the homophone.
+
+The term translated as "bright" and "clever" in the above quotes is literally using rikou (利口) as its basis. Literally consisting of kanji meaning "profit" and "mouth" (hence, "to speak") it can variously mean "well-behaved," "shrewd" or even "obedient"; much fittingly and literally it also means "to be good with words," but its multivalent nature means that context dictates the precise meaning and since it is contrasted to baka (ばか), "fool/idiot", I thought the choice of "bright"/"clever" fitting.
+
+Another thing that is worth of note is that in Kusuyama's final translation, rikou is spelled in hiragana (りこう), i.e. one of the two kana syllabary, the other being katakana, hence it is easier for a younger reader to read the word rather than the kanji itself, which may be difficult.
+
+Mitaku gives us:
+
+『それはきっと結構な着物であらう。』と、皇帝はお考へになりました。 『もし、朕がそれを着たら、わが國の如何なる人間が、その職に適してゐるかが分るし、また賢い者と愚か者との區別もつかう、さうだ。その織物をすゞと織らせねばならぬ。』
+
+"Sore wa kitto kekkou na kimono de arou." to, koutei wa okanagaeninarimashita. "Moshi, chin ga sore wo kitara, wagakuni no ikanaru ningen ga, sono shoku ni tekishite iru ka ga wakarushi, mata kashikoimono to orokamono tono kubetsu mo tukau, souda. Sono orimono wo suzu to orasenebanaranu."
+
+"Methinketh that a most wonderful garment." contemplated the Emperor unto himself. "Mayhaps, if We were to wear such an item, We would be able to determine whether any ilk of people within Our Kingdom are fit for their stations, whether they were prudent or fatuous individuals, indeed. We verily must have that textile produced for Us!"
+
+If Kusuyama was modern and contemporary in his tone then Mitaku gives us an Emperor who speaks like a monarch of the ancient past, replete with chin, traditionally rendered akin to the Royal We in English, but more correctly being a first-person singular pronoun reserved for royals, that does not connote any grammatical plurality. He also used wagakuni (我が國, "Our Country"), which is highly formal, but fitting with his style of speech, where he also see the archaic negation nu used in orasenebanaranu ("it must be weaved") versus that of modern orasenebanaranai, where nai is the negation.
+
+The narrator also uses the o-ninaru construction for the Emperor's thinking or contemplation, thus kangaeta (thought) becomes okangaeninarimasita (the sir/madam thought), this being the utmost polite sonkeigo manner of rendering the verb, literally, "most honourably became the thought" thus removing the agency from the sentence, as is part of the usual strategy of politeness through distancing of the grammatical person or subject.
+
+The Minister:
+
+The old and trustworthy minister is across the board rendered as daijin (大臣, "cabinet minister"), which will set the trend for subsequent translations up to our days.
+
+Speech-wise, we see Kusuyama in the first translation render the minister as such:
+
+でも大臣はかう思ひました。「やれやれ、おれはそんなにばかなのかなあ。おれはさうは思はなかった。誰きもそれがわかる筈はあるまい。おれは大臣の職に相應しない人間なのかな。いや、おれには織物が見えなかったなどと人にいってはなるまいぞ。」
+
+Demo daijin ha kou omoimashita. "Yare yare, ore wa sonnani baka no kanaa. Ore wa sou wa omowanakatta. Dare kimo sore ga wakaru hazu wa arumai. Ore wa daijin no shoku ni fusuwashinai ningen nano kana. Iya, ore ni wa orimono ga mienakatta nado hito ni itte wa narumai zo."
+
+However, the cabinet minister thought to himself. "Damn it, am I really such an idiot. I can't have thought so. No one shall know the gist of this. That I am a man, who is unfit for the office of Cabinet Minister. No, I will not tell anyone at all that I can't see the textile."
+
+Two things of note, he uses ore and uses the alternate if formal volitional negative -mai ("will not") for arumai (will not be) and narumai (will not become). In his later translation the Minister has a similar manner of speaking, but initially uses washi, primarily used as the generic geriatric pronoun, before switching to ore in his internal monologue.
+
+Mitaku gives us this Minister,
+
+『それは大變だ！　私はそんなに馬鹿なのかしら。今までさうとは思ってゐなかったか。しかし、この事は誰にも知らせたくない。それとも、私は自分の役目に適してゐないのか知ら。さうだ、織物が見えなかったなどとは、誰にも話さない事にしよう。』と、大臣は考へました。
+
+"Sore wa taihen da! Washi wa sonna ni baka na no kashira. Ima made sou to wa omotte inakatta. Shikashi, kono koto wa dare ni mo shirasetakunai. Soretomo, washi wa jibun no yakume ni tekishite inai no kashira. Souda, orimono ga mienakatta nado to wa, dare ni mo hanasanai koto ni shiyou." to daijin wa kangaemashita.
+
+"This is most dreadful! Am I forsooth a fool? I have not thought myself as such up until now. But, no one shall know of this. Otherwise I shan't be worthy of my station. Yea, I to say that I cannot see the textile is something I shan't!" thought the cabinet minister to himself.
+
+He uses washi, written with the character for watashi - thus denoting a properness, but it's also derived from said pronoun - and kashira, an emphatic particle that denotes doubt, akin to our question-mark, but is otherwise part of modern standard female language. Otherwise he speaks standard male language, that lacks the formal -mai  negative volitional forms.
+
+The Swindlers:
+
+Kusuyama and Mitaku calls them sagishi (詐欺師, "imposters; swindlers") in their respective translations, but Kusuyama switches to petenshi (ぺてん師), which whilst it has the same meaning is written purely in hiragana and thus has more of a colloquial feel to it - furthermore Wiktionary lists it with the meaning of "quack/charlatan," though the former denotes a fake medical expert and the latter more closely resembles that of the pair's role in the story.
+
+Who then can be the most oleaginous of the three?
+
+(The fictitious frauds from the Andersen fairy-tale, not the translators, mind you!)
+
+Let us compare the scene where the Swindlers ask whether or not His Imperial Majesty wishes to undress and try the non-existent clothes on:
+
+First version:
+
+『陛下にはお召物をおぬきあそばしますか。さういたしましたら、あの大姿見の前で新調のお召物をお着せまうすでござりませう。』
+
+"Heika ni wa omeshimono wo onukiasobashimasuka. Sou itashimashitara, ano oosugatami no mae de shinchou no omeshimono wo okisemousu de gozaimashou"
+
+"Does Your Majesty would please to undress His garbs! If we may do so, then if only Your Majesty would place Your Majesty before the grand mirror and try the new clothes on"
+
+Second version:
+
+「陛下にはなにとぞお召物をおとりあそばしますよう。」 と、ぺてん師どもはいいました。 「そういたしましたら、あの大姿見のまえで、ご新調のお召物をおつけ申しあげますでございましょう。」
+
+"Heika ni wa nanitozo omeshimono wo otoriasobashimasuyou." to, petenshi domo wa iimashita. "Sou itashimashitara, ano oosugatami no mae de, shinchou no omeshimono wo otsukemoushiagemasu de gozaimashou"
+
+"We beg most humbly that Your Majesty be kind to deign to wear these robes." said the charlatans. "If we may then, with Your Majesty in front of the grand mirror, most graciously deign to try on the new garbs, we most sincerely request, liege!"
+
+Both versions uses the kenjougo, humble register, auxiliary verb mousu (first translation) and moushiageru (final translation), both meaning "to state, to utter, to perform," in conjunction with their respective verbs.
+
+Mitaku's tailor-swindlers speak thus:
+
+『陛下、どうそお召物をお脱き下さいますやうに。私どもは、あの大きな鏡の前で、新しいお召物をお着せ申します。』
+
+"Heika, douzo omeshimono wo onukikudasaimasuyouni. Watakushidomo wa, ano ookina kagami no mae de, atarashii omeshimono wo okisemoushimasu."
+
+"Your Majesty, we entreat that You may disrobe Your Majesty of the Royal Clothes. We humble fellows may then be able to dress Your Majesty, provided Your Majesty is graciously in front of the mirror."
+
+Watakushi-domo, the most self-deprecating first person plural form is used along with the archaic -mousu humble auxiliary verb as seen in Kusuyama's example. It is also worth noting that the swindlers use kudasaimasu, the full polite form of kudasaru, "to bestow upon," usually only seen in its imperative mode kudasai (if \[you would} please deign) and occasionally in its dictionary form, kudasaru.
+
+Thus all three speak in highly decorous language.
+
+When they are dubbed, the Emperor grants them, in Kusuyama's two translations, the title(s) of :
+
+First translation:  Teishitsuhataorishi (帝室機織師, "Weaving Masters of the Imperial Household") Final translation: Orimonokizoku 織り物貴族 (Weaving Noblemen)
+
+One being a rather grandiloquent title and the other a mere statement if approximation of the originals væverjunker.
+
+Mitaku renders the title of nobility as: Kyuuchuuorimonoshi (宮中織物師, "Weaving Masters for the Imperial Court"), which hits the semantics of her predecessor and is redolent of the pomposity of Andersen's original title that literally has "væver" (weaver) and "junker". The latter being an already well known title of lesser nobility during Andersen's time.
+
+"He is wearing no clothes!"
+
+The pivotal moment when His Majesty's true vanity is revealed during the Imperial Parade is rendered thus in the three respective versions:
+
+Kusuyama: First: 「でもあの人なんにも着てゐないや。」 "Demo ano hito nanni mo kite inai ya" "But he isn't wearin' anything at all!"
+
+Final: 「やあ、あのいと、なんに着ていないや。」 "Yaa, anoito, nanni kite inai ya" "Hey! That person isn't wearin' anythin' at all!"
+
+Mitaku: 『陛下は何も着てゐないぢゃないか。』 "Heika wa nani mo kite nai janai ka" "He's not wearing anything at all, is he?"
+
+Thus all three versions rendered in varying degrees of colloquial speech has the child marking the Emperor's obvious falling for the sartorial frauds.
+
+last updated: 2026-01-26
+
+**myriadleaves.eu 2026**
+
+朱

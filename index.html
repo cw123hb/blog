@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<script>
+// Bare-domain visitors get sent to the canonical www address, keeping
+// whatever path/hash they arrived with. Belt-and-braces alongside the
+// server-side _redirects file — this covers any deploy path where that
+// file isn't honoured.
+if (location.hostname === "myriadleaves.eu") {
+  location.replace("https://www.myriadleaves.eu" + location.pathname + location.search + location.hash);
+}
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Myriad Leaves</title>
+<meta name="description" content="A gathering of a myriad of leaves — translations and thoughts.">
+<style>
+  :root {
+    --ink: #2b2622; --paper: #f5efe3; --card: rgba(251,248,241,.86); --muted: #7a6f62; --rule: #d9cdb8;
+    --accent: #b0332a; --accent-2: #d0503f; --indigo: #2e4a62;
+    --wave: #2e4a62; --wave-op: .06;
+    --serif: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", "Georgia", serif;
+    --sans: -apple-system, "Hiragino Sans", "Yu Gothic", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --ink: #e9e1d2; --paper: #1a1c1f; --card: rgba(33,35,39,.88); --muted: #a29a8c; --rule: #3b3833;
+            --accent: #e0685c; --accent-2: #ef8a74; --indigo: #9fb8cf; --wave: #9fb8cf; --wave-op: .05; }
+  }
+  * { box-sizing: border-box; }
+  html { background: var(--paper); }
+  body {
+    margin: 0; color: var(--ink); font-family: var(--serif); line-height: 1.9; font-size: 18px;
+    background-color: var(--paper);
+    /* faint washi fibres + seigaiha wave pattern */
+    background-image:
+      radial-gradient(ellipse at 15% 0%, rgba(176,51,42,.06), transparent 55%),
+      radial-gradient(ellipse at 90% 100%, rgba(46,74,98,.07), transparent 60%);
+    background-attachment: fixed;
+    position: relative; min-height: 100vh;
+  }
+  body::before {
+    content: ""; position: fixed; inset: 0; z-index: -1; pointer-events: none; opacity: var(--wave-op);
+    background-color: var(--wave);
+    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='40' viewBox='0 0 80 40'%3E%3Cg fill='none' stroke='black' stroke-width='1.4'%3E%3Cg id='w'%3E%3Ccircle cx='40' cy='40' r='36'/%3E%3Ccircle cx='40' cy='40' r='28'/%3E%3Ccircle cx='40' cy='40' r='20'/%3E%3Ccircle cx='40' cy='40' r='12'/%3E%3C/g%3E%3Cuse href='%23w' x='-40' y='-20'/%3E%3Cuse href='%23w' x='40' y='-20'/%3E%3Cuse href='%23w' x='-40' y='-40'/%3E%3Cuse href='%23w' x='0' y='-40'/%3E%3Cuse href='%23w' x='40' y='-40'/%3E%3C/g%3E%3C/svg%3E") 0 0 / 80px 40px repeat;
+            mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='40' viewBox='0 0 80 40'%3E%3Cg fill='none' stroke='black' stroke-width='1.4'%3E%3Cg id='w'%3E%3Ccircle cx='40' cy='40' r='36'/%3E%3Ccircle cx='40' cy='40' r='28'/%3E%3Ccircle cx='40' cy='40' r='20'/%3E%3Ccircle cx='40' cy='40' r='12'/%3E%3C/g%3E%3Cuse href='%23w' x='-40' y='-20'/%3E%3Cuse href='%23w' x='40' y='-20'/%3E%3Cuse href='%23w' x='-40' y='-40'/%3E%3Cuse href='%23w' x='0' y='-40'/%3E%3Cuse href='%23w' x='40' y='-40'/%3E%3C/g%3E%3C/svg%3E") 0 0 / 80px 40px repeat;
+  }
+  .wrap { max-width: 780px; margin: 0 auto; padding: 3rem 16px 3rem; position: relative; }
+  .sheet { background: var(--card); border: 1px solid var(--rule); padding: 2.5rem 3rem; box-shadow: 0 1px 0 var(--rule), 0 18px 40px -28px rgba(0,0,0,.35); }
+  a { color: var(--accent); text-decoration: none; transition: color .2s; }
+  a:hover { color: var(--accent-2); }
+
+  header { display: flex; align-items: flex-start; gap: 1.2rem; margin-bottom: 1.6rem; }
+  .hanko { flex: none; display: grid; place-items: center; width: 3.4rem; height: 3.4rem; border: 2px solid var(--accent); border-radius: 6px;
+           color: var(--accent); font-size: 1.05rem; line-height: 1.05; writing-mode: vertical-rl; font-weight: 700; transform: rotate(-4deg); letter-spacing: .05em; }
+  header h1 { margin: 0; font-size: 2.2rem; font-weight: 600; letter-spacing: .06em; line-height: 1.2; }
+  header h1 a { color: var(--ink); }
+  header p { margin: .3rem 0 .7rem; color: var(--muted); font-size: .98rem; }
+  nav { font-family: var(--sans); font-size: .85rem; letter-spacing: .12em; text-transform: uppercase; }
+  nav a { color: var(--indigo); margin-right: 1.1rem; padding-bottom: 2px; border-bottom: 1px solid transparent; }
+  nav a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+  .tate { position: absolute; top: 3.2rem; right: -2.6rem; writing-mode: vertical-rl; font-size: .95rem; letter-spacing: .5em; color: var(--muted); opacity: .7; }
+
+  hr { border: 0; height: 12px; margin: 1.4rem 0 1.8rem; background: radial-gradient(circle, var(--accent) 3px, transparent 3.5px) center / 12px 12px no-repeat,
+       linear-gradient(var(--rule), var(--rule)) center / 100% 1px no-repeat; }
+  .intro { color: var(--muted); font-size: 1rem; }
+  .intro::before { content: "〜 "; color: var(--accent); }
+
+  ul.posts { list-style: none; padding: 0; margin: 0; }
+  ul.posts li { display: flex; gap: 1.4rem; padding: .55rem 0; border-bottom: 1px dotted var(--rule); align-items: baseline; }
+  ul.posts li:last-child { border-bottom: 0; }
+  ul.posts li a { color: var(--ink); }
+  ul.posts li a:hover { color: var(--accent); }
+  ul.posts time, .meta { font-family: var(--sans); font-size: .8rem; color: var(--muted); white-space: nowrap; letter-spacing: .05em; min-width: 6.5rem; }
+  ul.posts .cat { font-family: var(--sans); font-size: .72rem; color: var(--indigo); white-space: nowrap; letter-spacing: .04em; opacity: .85; min-width: 8rem; }
+
+  .cats { list-style: none; display: flex; flex-wrap: wrap; gap: .5rem; padding: 0; margin: 0 0 1.6rem; font-family: var(--sans); }
+  .cats a { display: inline-block; padding: .3rem .8rem; border: 1px solid var(--rule); border-radius: 999px; font-size: .78rem; letter-spacing: .04em; color: var(--indigo); }
+  .cats a:hover { border-color: var(--accent); color: var(--accent); }
+  .cats a.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+  article h1 { font-size: 2rem; line-height: 1.35; margin: 0 0 .4rem; letter-spacing: .03em; }
+  article .meta { margin-bottom: 1.6rem; }
+  article .meta::before { content: "◦ "; color: var(--accent); }
+  article h2, article h3 { letter-spacing: .03em; margin-top: 2.2rem; }
+  article h2::before { content: ""; display: inline-block; width: .5em; height: .5em; background: var(--accent); margin-right: .55em; vertical-align: .15em; border-radius: 50%; }
+  article img { max-width: 100%; height: auto; border: 1px solid var(--rule); padding: 4px; background: var(--paper); }
+  article blockquote { margin: 1.4rem 0; padding: .4rem 1.2rem; border-left: 3px solid var(--accent); background: rgba(176,51,42,.05); color: var(--muted); }
+  article pre { overflow-x: auto; background: rgba(46,74,98,.07); padding: .9rem; border-radius: 3px; }
+  article table { border-collapse: collapse; display: block; overflow-x: auto; font-size: .95rem; }
+  article td, article th { border: 1px solid var(--rule); padding: .35rem .7rem; }
+  article th { background: rgba(46,74,98,.07); }
+
+  footer { margin-top: 2.5rem; font-family: var(--sans); font-size: .8rem; color: var(--muted); display: flex; align-items: center; justify-content: center; gap: .5rem; letter-spacing: .08em; }
+  footer a { color: var(--muted); }
+  footer a:hover { color: var(--accent); }
+  footer .dot { opacity: .6; }
+  .sigil { display: inline-grid; place-items: center; width: 1.9rem; height: 1.9rem; background: var(--accent); color: #fff; font-family: var(--serif); border-radius: 4px; transform: rotate(-4deg); }
+
+  @media (max-width: 900px) { .tate { display: none; } }
+  @media (max-width: 560px) {
+    body { font-size: 17px; }
+    .wrap { padding-top: 1.2rem; }
+    .sheet { padding: 1.5rem 1.1rem; }
+    header h1 { font-size: 1.7rem; }
+    .hanko { width: 2.8rem; height: 2.8rem; font-size: .9rem; }
+    ul.posts li { flex-direction: column; gap: 0; }
+    ul.posts .cat { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="tate" aria-hidden="true">万葉の言の葉</div>
+  <div class="sheet">
+  <header>
+    <div class="hanko" aria-hidden="true">万葉</div>
+    <div>
+      <h1><a href="#/">Myriad Leaves</a></h1>
+      <p>Translations and thoughts on language, fiction and oddities.</p>
+      <nav><a href="#/">Home</a><a href="#/about">About Me</a></nav>
+    </div>
+  </header>
+  <hr>
+  <main id="main"><p class="intro">Loading…</p></main>
+  </div>
+  <footer><span class="sigil">朱</span><span>myriadleaves.eu 2026</span><span class="dot">·</span><a href="https://codeberg.org/myriadleaves/blog">source</a></footer>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
+<script>
+// Posts live in posts/*.md. The file list comes from the Codeberg API,
+// so a post saved in the browser shows up here with no build step.
+const API = "https://codeberg.org/api/v1/repos/myriadleaves/blog/git/trees/pages?recursive=true&per_page=10000";
+const PAGES = ["about"]; // shown via the nav, not in the post list
+const main = document.getElementById("main");
+let postsPromise;
+
+function parse(text) {
+  const m = text.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?/);
+  const meta = {};
+  if (m) {
+    for (const line of m[1].split(/\r?\n/)) {
+      const kv = line.match(/^(\w+):\s*(.*)$/);
+      if (kv) meta[kv[1]] = kv[2].replace(/^["']|["']$/g, "");
+    }
+  }
+  return { meta, body: m ? text.slice(m[0].length) : text };
+}
+
+// Posts have no tags of their own, so categories are guessed from the
+// title. It's a rough sort, not a science — just enough to browse by mood.
+const CATEGORIES = [
+  ["Christmas & Yule", /xmas|x-mas|christmas|yule|santa|kurisumasu|dickensian christmas|ho ho horrible|humbug|moat bells|halloween|hallowe'en|new year/i],
+  ["Translation Comparisons", /comparison|emperor'?s new clothes|nightingale|little match girl|dickensian japanese|translating poetry/i],
+  ["Danish", /dansk|danish|d[øo]gnstemning|lukøje/i],
+  ["Games", /street fighter|elden ring|dark souls|soulsborne|tekken|snk|mokujin|rugal|gouki|shungokusatsu|hokuto|king of fists|final fantasy|jrpg|ryuujin|robotto|pocket clerks|rock exe|shadow the colossus|dlc|x-men vs|bison|cammy|arisen/i],
+  ["Anime, Manga & Fiction", /dragon ball|db addendum|db in dk|akatsuki|toriyama|manga|speech patterns|honorifics in outer space|human-cyborg|obi-wan|palpatine|martians|silvered ones|line individualism|lord of dragons/i],
+  ["Poetry & Stories", /poem|poems|ægidius|aegidius|philomena|piano the pterodactyl|princess tamaeda|random quotes/i],
+  ["Site Updates", /^update|^quick update|update post/i],
+  ["Language & Speech", /keigo|honorific|pronoun|particle|dialect|sociolect|katakana|benefactive|modal|watashi|wagahai|thyself|kisama|kono teido|noble women|eccentric speech|polite|rudeness|old sport|being!$|writing out the i|i am or ain'?t|one word, multiple kanji|gemming|thank you|kikou|kiden/i],
+];
+function categorize(title) {
+  for (const [name, re] of CATEGORIES) if (re.test(title)) return name;
+  return "Musings";
+}
+
+async function loadPosts() {
+  const tree = await (await fetch(API)).json();
+  const files = tree.tree.map(f => f.path).filter(p => /^posts\/[^/]+\.md$/.test(p));
+  const posts = await Promise.all(files.map(async path => {
+    const { meta } = parse(await (await fetch(path)).text());
+    const slug = path.slice(6, -3);
+    const title = meta.title || slug;
+    return { slug, title, date: meta.date || "", category: categorize(title) };
+  }));
+  return posts.filter(p => !PAGES.includes(p.slug)).sort((a, b) => b.date.localeCompare(a.date));
+}
+
+const esc = s => s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+function catsBar(posts, active) {
+  const names = [...new Set(posts.map(p => p.category))].sort();
+  const link = (name, label) => `<a href="#/category/${encodeURIComponent(name)}" class="${active === name ? "active" : ""}">${esc(label)}</a>`;
+  return `<ul class="cats">${link("", "All posts")}${names.map(n => link(n, n)).join("")}</ul>`;
+}
+
+async function showIndex(category) {
+  document.title = category ? `${category} — Myriad Leaves` : "Myriad Leaves";
+  postsPromise ||= loadPosts();
+  const posts = await postsPromise;
+  const shown = category ? posts.filter(p => p.category === category) : posts;
+  main.innerHTML = `<p class="intro">A gathering of a myriad of leaves — translations and thoughts, sorted by whatever I was into that week.</p>
+    ${catsBar(posts, category || "")}
+    <ul class="posts">${shown.map(p =>
+      `<li><time>${esc(p.date)}</time><a href="#/${encodeURIComponent(p.slug)}">${esc(p.title)}</a><span class="cat">${esc(p.category)}</span></li>`).join("")}</ul>`;
+}
+
+async function showPost(slug) {
+  const res = await fetch(`posts/${encodeURIComponent(slug)}.md`);
+  if (!res.ok) { main.innerHTML = `<p>Post not found. <a href="#/">Back to the archive</a>.</p>`; return; }
+  const { meta, body } = parse(await res.text());
+  document.title = `${meta.title || slug} — Myriad Leaves`;
+  main.innerHTML = `<article><h1>${esc(meta.title || slug)}</h1>
+    <div class="meta">${esc(meta.date || "")}</div>${marked.parse(body)}</article>
+    <hr><p><a href="#/">← All posts</a></p>`;
+  window.scrollTo(0, 0);
+}
+
+function route() {
+  const path = decodeURIComponent(location.hash.replace(/^#\/?/, ""));
+  const catMatch = path.match(/^category\/(.*)$/);
+  const page = catMatch ? showIndex(catMatch[1]) : (path ? showPost(path) : showIndex());
+  page.catch(err => {
+    main.innerHTML = `<p>Could not load posts (${esc(String(err))}).</p>`;
+  });
+}
+addEventListener("hashchange", route);
+route();
+</script>
+</body>
+</html>

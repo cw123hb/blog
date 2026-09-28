@@ -1,0 +1,19 @@
+---
+title: "Poems - The Moon"
+date: "2021-06-06"
+slug: "poems"
+tags: []
+description: ""
+---
+
+Here is another poem which was originally written a few years ago, but has since become part of a poem collection that I am working on.
+
+This was one was written in one go, I do not exactly recall the inspiration for it, but judging from the alliteration and seeming spoof on folk songs, it could be in the vein of fairy-tales, but ultimately with an absurdist angle, in the same spirit as The Scrummy Lummy, a fairy-tale that I wrote some time ago, which will in all likelihood also be uploaded to this blog.
+
+Moon The old Moon got up early one morning And the Sun slept soundly, tho’ snoring “Say, chap, why’re you up so bloody soon” Said John the Peasant to the old blue Moon. “Oh, bother bollocks and other such shite, I forgot which was morn and which was night” Moaned the Moon and wanted to make things right “I’ll go straight to bed, if the Sun sees me, Oh, ‘pon my cratered conk, I’ll be right dead” “That didn’t bloody rhyme” said John. “Oh, fuck this” and then the Moon was gone
+
+last updated: 2026-01-26
+
+**myriadleaves.eu 2026**
+
+朱

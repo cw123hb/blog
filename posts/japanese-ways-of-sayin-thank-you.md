@@ -1,0 +1,37 @@
+---
+title: "Japanese - Ways of saying thank you"
+date: "2022-08-17"
+slug: "japanese-ways-of-sayin-thank-you"
+tags: []
+description: ""
+---
+
+The various ways of saying "thank you":
+
+There are in Japanese various ways of saying thanks, these cannot easily be translated nor equalled to a precise English expression and as such, a bit of explanation is in its place:
+
+サンキュー (sankyu, "thank you") Derives from the English phrase, and is literally it converted into the katakana script. As such it is rather slangy and also one of the most informal expressions for thanksgiving. Having none of the etymological connotations of self-deprecation nor honorifics.
+
+有難い (arigatai) Less informal than the above albeit a bit more archaic and dialectal. It is originally an adjective literally meaning by its etymology "to have (been in) hardship", i.e. the interlocutor has suffered in order to be thanked, hence the adjectives modern meaning is "thankful, gratitude, grateful." More literally it appears to contain the element gatai (難い), a verbal suffix denoting that something is hard to do, i.e. attaching this to the stem ari from aru ("to be") makes it "difficult to be", i.e. "to (have) suffer(ed)." When the term is appended as an honorific adverbial it takes on the form arigatou, which brings us to the next expression.
+
+有難う御座います (arigatou gozaimasu) Lit. "to have most honourably suffered," but connotatively "thank you very much". This adds gozaimasu as the receptor of the adverbial and is itself from gozaru and ultimately the honorific form of aru ("to be"). Further completing this and making it even more humble is adding doumo (どうも, "if you would please"), thus doumo arigatou gozaimasu.
+
+忝い (katajikenai) Akin to "gramercy" and "my thanks", this is a word steeped in archaic diction, you will only find it in historical works, fantasy or any form of pop-cultural media, being used by the honourable warrior, samurai or a very old person. Note that it can also be written with other kanji, than the one used above, lit. "indebted", such as 辱 ("shame, embarass"). Which underlines the word's apparent sense of thanking for something that is perhaps undervalued.
+
+お蔭様 (okagesama) Normally used when thanking someone for their efforts, but originally referred to the grace of a divine being or Buddha, by whose act one was helped. In informal usage the sama is dropped and it's more often spelled purely in hiragana as おかげ, in the expression おかげで (okagede, "thanks to \[someone/something's help\]"), though it can also be used negatively - despite its original usage.
+
+お疲れ様 (otsukaresama) Lit. "Honourable fatigue", but is used in the sense of "good work" or "good job", when thanking someone for their hard efforts. It can also be used as a farewell of sorts. Dropping the sama honorific suffix as with the above renders it informal.
+
+ご苦労様 (gokurousama) Like the previous one it has a literal sense of "honourable trouble/hardship/toil," but its usage if from a superior to a subordinate, such as a boss to a worker in an office environment - thanking them for their toil. As with the previous ones dropping the sama makes it informal and thus a bit more general in usage.
+
+Other ways of saying "thank you":
+
+You can also create constructions, combining nouns and verbs such as suru (する, "to do") or itasu (致す, "to humbly do"), these are commonly paired with words such as 感謝 (kansha, "gratitude"). This one in particular is a bit more formal.
+
+Then there's verbose stuff like 勿体ない御言葉に甘えて御座います (Mottainai o-kotoba ni amaete gozaimasu, "I am most unworthy of Your magnanimous words, o lord/madam"), that you really only will either encounter in historical fiction, fantasy or extremely formlaic letters from companies.
+
+last updated: 2026-01-26
+
+**myriadleaves.eu 2026**
+
+朱

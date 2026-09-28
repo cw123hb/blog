@@ -1,0 +1,29 @@
+---
+title: "Speech Patterns: Akatasuki Musashi"
+date: "2023-06-26"
+slug: "akatsuki_musashi"
+tags: []
+description: ""
+---
+
+SNK’s timeless classic The Last Blade, and its sequel and spin-offs, feature a host of fencers and fighters who are based off actual historical people or out of entirely new fictive cloth. Akatsuki Musashi (暁 武蔵) himself is not merely inspired, but is heavily implied to be the very same peerless master swordsman Musashi Miyamoto who through mystical methods has been resurrected to do the bidding of the games’ final bosses.
+
+Miyamoto Musashi (宮本 武蔵) lived from 1584 to 1645, invented the “Niten Ichi Ryuu” (二天一流, “Two Heavens as One Style”) style of swordsmanship as well as working as an advisor for warlords and priests. It was his reputation as an almost undefeated sword-saint that earned him fame into Japanese mythology and pop-history. He has been immortalised through various guises in all manner or media, not the last fighting games where Haohmaru of Samurai Shodown fame is loosely based on Musashi, but Akatsuki from The Last Blade is directly based off the samurai, hence his backstory also incorporates details from his life.
+
+Akatsuki uses two swords and names his sword style after the “Niten Ichi Ryuu”, (NAME), and his speech mannerisms are also an emulation of the language of the 16thcentury.
+
+Case in point, some of his victory quotes:
+
+それがしに勝てるものはおらぬのか… Soregashi ni kateru mono wa oranu no ka… “There be no one who can defeat this humble one…?”
+
+そなたの剣、くもってはおらぬか…？ Sonata no ken kumotte wa oranu ka…? “Hath thy sword not become faded…?”
+
+それがし (soregashi, “this one”) being his first personal pronominal noun is a humble one and was historically in a same manner as the modern わたくし (watakushi, “this private one”), i.e. only when talking to one’s superiors or in extremely formal correspondence.
+
+He uses そなた (sonata), an elegant if somewhat informal pronoun, used akin to 君 (kimi) in modern Japanese, when speaking to one’s social equals or below. He also uses the existential verb おる (oru), which in modern times is either used in humble speech or in some dialects, along with ぬ (nu), an archaic verbal negation.
+
+last updated: 2026-01-26
+
+**myriadleaves.eu 2026**
+
+朱

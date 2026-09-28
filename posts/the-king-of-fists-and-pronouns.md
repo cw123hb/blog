@@ -1,0 +1,91 @@
+---
+title: "The King of Fists and Pronouns"
+date: "2021-09-09"
+slug: "the-king-of-fists-and-pronouns"
+tags: []
+description: ""
+---
+
+In this we will delve into how the concept of pronouns in Japanese or for that matter pronominals, and its relation to how our understanding of characters in a manga such as Hokuto no Ken (“Fist of the North Star”) may prove to show just how elastic the concept is in East Asian languages.
+
+What is a pronominal?
+
+Unlike our Proto Indo European idea of pronouns as in referent words with specific cases, such as subject, object, genitive, reflexive and so on, i.e. “I, me, my, myself,” in English, the system that governs similar words in most East Asian languages and Japanese in specific, is less fixed. Any noun or personal name could in theory be a pronominal, hence the term ‘pronominal’ rather than ‘pronoun’, since the former denotes a word that has the ability or traits of a pronoun without directly having the exact same grammatical qualities. Syntactically it is essentially identical to those of other world languages.
+
+The word pronoun literally stems from the etymon, root-word, from Latin that denotes a word that can replace or signify a name, ‘noun’ or literally a person’s name, or entity, being in its stead. Thus, the pronoun itself is a syntactical representative of an inferred subject or object.
+
+In a language such as Japanese, traits have been developed as to signify an implied subject or object of a sentence to the point that the pronoun is rendered extraneous unless emphasis is needed. A cardinal rule of politeness in Japanese discourse is to use any direct mode of pronominals as much as possible, thus ‘anata’, the standard polite 2nd person, usually heralds the honorific ‘-san’ at the end of a person’s name, once you know what their name is. Anything else will seem too blunt or rude. Similarly the whole linguistic system of keigo (respectful speech) is grammatically centred around removing the person, whom the speech concerns out, of any upfront reference, i.e. the polite passive tense effective removes the agency of the grammatical subject altogether.
+
+You can effectively use your own name in an either excessive self-effacing or aggrandising manner, which is wherein a character from the manga, Fist of the North Star comes into play.
+
+Fist of the North Star:
+
+Illustrated by Tetsuo Hara and written by Buronson, this is a post-apocalyptic Wu Xia tale set in the barren landscape of a charred and desolate world, wherein it is the law of the strongest – our hero Kenshirou, whose name roughly translates to the fourth son of the fist, aptly named and aptly looking like a cross between Bruce Lee and Sylvest “Rocky Balboa” Stallone, protect the weak and punishes the corrupt with his titular Divine Fist of the North Star (Hokuto Shiken).
+
+His adoptive brothers, of whom Raoh is one, play the active parts of allies and antagonists. Raoh is in this case an ambivalent one, he is very much an ambitious warlord whose plan to subject all that he surveys under his fist, read: superhuman martial arts, ultimately leads towards a tragic path and confrontation with not only his former brothers, but also facing the horrifying truth of his crimes.
+
+Raoh is thus multifaceted and as such uses a host of pronominals to express his personality and self-acclaimed grandeur, having given himself the regal moniker of the Fist King, Ken’ou – his name, Raoh, itself deriving from Shura no ou, “King of Violence.” Thus his name, title, personality and martial art denotes the antithesis to Kenshiro’s role as the hero and similarly Raoh in the end also redeems himself and serves as a means of Kenshiro taking the mantle as the heir of the titular martial art – a role which is vaunted and wanted amongst the Hokuto brothers.
+
+Having introduced this noble Goliath with hands the size of mountains, let us delve into how he actually speaks.
+
+The King of the Fists and "I":
+
+Raoh uses 10 forms of self-reference (“pronominals”): ore, watashi, washi, Raou, kono Raou, Ken’ou, kono Ken’ou, ani, kono ani, whereof the first three (ore, watashi and washi) are considered ‘true’ pronouns, and the latter are merely his own name, title and calling himself an elder brother to stress a nuance of relationship with his interlocutors.
+
+Let us take a closer linguistic look at these first three:
+
+ORE (おれ・オレ, "I, the assertive male"):
+
+This pronoun is the most informal and assertive of all the pronouns available for male speakers in Japan, it stands in direct contrast to the more amiable and non-confrontational boku (僕・ぼく・ボク), which in Fist of the North Star is mostly used by young males, for example Kenshiro's elder adoptive brother Toki in his youth, or children. Its origins is that of a gender neutral dialectal pronoun, but it soon in the later centuries gained currency as an especially masculine way to speak.
+
+One of his very first pronominal utterance as well as ore is this, he does however appear earlier in the manga, but without any self-reference, in the seventh volume of the manga:
+
+この世に生を受けたからにはおれは　すべてをこの手を握る Kono yo ni sei wo uketakara ni wa ore wa subete wo kono te wo nigiru I, who have been granted life into this world, shall grasp it with this, my hand!
+
+WATASHI (わたし, "I, the aloof male") & WASHI (わし, "I, the old male"):
+
+Both of these appear in a single line:
+
+フフフ…おまえごときの　腕で　このわしを同じ地上に　たたそうと思ったか！！ もはや　このわたしを　対等の地にたたせる男は　おらぬわ！！ Fu fu fu... Omae gotoki no ude de kono washi wo onaji chijou ni tatasou to omotta ka!! Mohaya kono watashi wo taitou no chi ni tataseru otoko wa oranu wa!! "Ha ha ha... You think that your  can bring yourself on equal with footing with I! There is no longer any man who can best himself against the fist of I!"
+
+"With I" and "of I" reflect the distinct contrast in formality when compared to his usual ore, which thus amplifies the egocentric grandeur of his utterances.
+
+This is not unlike Raoh, who has a habit of switching between pronominals mid-speech to shift to an increased level of dramatic oration or opposite revert to his original pronominal ore, when alarmed, angered or sad - the latter very much being him disillusioned with his power madness.
+
+Within this example is the definite prefix kono used to further heighten his towering stature in terms of personality and physicality- it is not rare for Raoh to grow twice in height for dramatic effect whenever he faces off against weaker opponents.
+
+KONO ~ (この～, "I, this <title/name>)
+
+Thus we see him use his three pronominals, but as mentioned in the last paragraph adding this feature to them grants an increased assertion. He couples these sentences with archaic elements such as the nu negative, i.e. oranu, an negation of an archaic existential verb, oru, Where other regular characters use iru and itself negative form inai, thus setting himself apart from the rabble.
+
+And he uses this third person mode of self-reference not much later in:
+
+(...) そしてこの拳王の名を絶大にする (...) Soshite kono Ken’ou no na wo zettai ni suru (…) Thus, shall the name of I, the King of Fists, be made absolute.
+
+We could as well translate it without the first person singular in English, to further hone in the point of his sense of self-aggrandisement, but the addition “I” makes the sentence flow more naturally in English and also adds more pomp, in keeping the epic and archaic scope of the story and speech.
+
+And referring to himself by his own name and by his own self-made moniker rather than an ordinary I/me, serving as a statement that he views himself in much greater and distorted dimensions than that of his fellow martial artists and people. Historical figures such as the Roman leader, Gaius Julius Cæsar was famous for being an illeist, referring to himself in the third person, which perhaps is not a random reference due to Raoh's Roman-inspired armour - again, conversely, the Japanese language allows for self-reference in this regard, so it is not wholly unique, but it adds a nuance to Raoh.
+
+During his one of his confrontations with Toki, his brother, he refers to himself twice in the third person, once as a big brother and last as the King of Fists:
+
+みごと　この兄を超え　この拳王の野望を砕いてみるがいい！！ Migoto kono ani wo koe kono Ken'ou no yabou wo kudaite miru gaii!! "Splendid! Behold surpassing of I, your elder brother! The destruction of the ambition of I, the Fist King!"
+
+His mode famous pronominal act and his very last words are these, as he blasts a whole into the clouded heavens:
+
+わが生涯に一片の悔いなし Waga shougai ni ippen no kui nashi "There is naught that I regret in this my entire life!"
+
+Waga the posessive form of ware, the Old Japanese pronoun, which is used to this day in poetry and religious texts, as well as media taking place in olden times, is used to cement Raoh's supreme sense of regal majesty and that even at the very edge of death, having come to terms with his past transgressions does he regret anything.
+
+The Numbers of Dramatic Self Reference:
+
+I have painstakingly transcribed most if not all of Raoh's lines, which amount to a grand total of over 15.000 character (plus minus personal annotations). And the total sum of the man whose ego is monumental is as follows:
+
+His, by far, most used is ore along with his own name and title. Other terms covered in the diagram are references to himself as Hokuto no Choukei ("Eldest Brother of the North Star"), which also appear during his moments of boastfulness, though not with the definite prefix, kono.
+
+His plural pronouns ore-tachi and warera are used contrasting, that is the former during his childhood and the latter during his last moments against Kenshiro. Ore-tachi is the default plural form of ore and is used when he as a child refers to himself and his little brother Toki as they swear a personal commitment to train their utmost in martial arts, and warera, an extremely formal and also here archaic plural pronominal, literally ware plus the plural suffix ra, thus giving hims speech what equates to Shakespearean gravitas in English.
+
+last updated: 2026-01-26
+
+**myriadleaves.eu 2026**
+
+朱

@@ -1,0 +1,31 @@
+---
+title: "Noble Women's Speech"
+date: "2025-04-11"
+slug: "noble-womens-speech"
+tags: []
+description: ""
+---
+
+As mentioned in another article, Japanese media has a certain way that regal personages speak, and queens in particular also share this, case in point:
+
+Persephone, Queen of Hades, says in the manga Devilman vs. Hades:
+
+妾はハデス様の妻ペルセフォネ　 ハデス様に代わり冥府の秩序を司る身だ 其方の行動が明らかに冥府の秩序を乱していることはわかっておろう
+
+Warawa wa Hadesu-sama no tsuma Perusefone Hadesu-sama ni kawari meifu no chitsujo wo tsukasadoru no mi da Sonata no koudou ga akirakani meifu no chitsujo wo midashite iru koto wa wakatte orou
+
+We are the wife of Lord Hades. We rule the Nether on behalf of Lord Hades. Thou knowest clearly that thine actions hath brought the order of the Netherworld into disarray.
+
+(Devilman vs. Hades, volume 1, p. 26)
+
+Things of note: Warawa (妾, lit. concubine) - Translated here as the royal we, but the word has in itself no sense of plurality nor special use in that sense. Its usage here emphasises her role as the wife of Hades, king of his eponymous realm. Sonata (其方) - A second person mode of reference that is archaic and light in its respect. In some fiction it's treated as a poetic synonym to anata (貴方), the modern polite second person reference. Oru (おる, "to be") - As mentioned in previous articles this is a slightly older way of saying "to be", vs. that of the modern "iru" (いる), but the former is used dialects and humble speech. Here it's to give off the complete impression of his age and majesty. She also ends her sentences with the copula, dearu (である, "it is"), the classical form of だ (da). "Ja" (じゃ), is also heard as a sentence copula, one that's also associated with older dialects.
+
+Most of these traits will be found in other queens, noblewomen and similar members of aristocracy in Japanese media, such as:
+
+Fortune (Magic Drop) Hosokawa Gracia (Sengoku Musou) Mother (Wild Arms) Shutara Senjumaru (Bleach) Queen Zeal (Chrono Trigger)
+
+last updated: 2026-01-26
+
+**myriadleaves.eu 2026**
+
+朱
