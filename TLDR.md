@@ -2,8 +2,13 @@
 
 **What it is.** A static blog at **www.myriadleaves.eu** (custom domain via
 `CNAME`). Source: `github.com/cw123hb/blog`, published from the **`main`**
-branch with **GitHub Pages + Jekyll**. There is no `.github/workflows` and no
-`_config.yml` — it uses the default Jekyll build. `_site/` is gitignored.
+branch with **GitHub Pages + Jekyll**. There is no `.github/workflows`; the
+build uses the default Jekyll setup, with one deliberate `_config.yml` that
+keeps posts as bare fragments (see below). `_site/` is gitignored.
+
+- **`_config.yml`** sets `layout: null` for `posts/`. Without it, GitHub Pages'
+  `jekyll-default-layout` plugin wraps every post in the default theme layout,
+  adding a "blog" link and the theme stylesheet to the top of each post.
 
 ## How it hangs together
 

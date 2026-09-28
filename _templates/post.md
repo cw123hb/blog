@@ -4,6 +4,7 @@ date: "YYYY-MM-DD"
 slug: "your-post-name"
 tags: []
 description: "A short summary of your post."
+layout: null
 ---
 
 Write your post here.

@@ -1,0 +1,10 @@
+# GitHub Pages runs Jekyll with the jekyll-default-layout plugin, which would
+# otherwise wrap every post in the default theme layout. That adds a link to the
+# site title ("blog") and the theme stylesheet at the top of each post, which
+# index.html then injects into the page. Setting layout to null keeps every post
+# a bare HTML fragment, matching what preview.py builds locally.
+defaults:
+  - scope:
+      path: "posts"
+    values:
+      layout: null
