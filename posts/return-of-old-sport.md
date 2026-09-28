@@ -4,6 +4,7 @@ date: "2024-02-01"
 slug: "return-of-old-sport"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 I wrote a while back about how a Japanese translator handled the adaptation of the term "old sport" in the seminal novel The Great Gatsby. This time around I have not just one, but three more translations of the term from their respective translations and the choices are interesting.

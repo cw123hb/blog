@@ -4,6 +4,7 @@ date: "2021-02-14"
 slug: "translated-titles"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 This article was originally going to be about the pronoun kikou (貴公), but research led me to a much deeper topic, namely that of how one translates and even conversely render other titles from one language to the other. Today we shall be looking at the title of duke, namely its usage in Japanese titles of nobility, pronouns and honorifics.

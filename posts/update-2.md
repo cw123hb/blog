@@ -4,6 +4,7 @@ date: "2021-02-02"
 slug: "update-2"
 tags: []
 description: ""
+category: Site Updates
 ---
 
 Greetings!

@@ -4,6 +4,7 @@ date: "2020-11-30"
 slug: "eccentric-speech"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 In Japanese fiction, certain dialects and sociolects are used to convey the less-than-ordinary characteristics of a member of the personae dramatis, that may either be rustic, agéd, from a different social stratus than the main cast or in ways a wholly different creature altogether. They can range from regular humans to supernatural beings, hence the author will use a special mode of speech to convey these traits, which is what I shall be looking closer at in this article.

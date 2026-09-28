@@ -4,6 +4,7 @@ date: "2024-12-30"
 slug: "new-years-greetings-in-japanese"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Since we are nearing the very end of the year, I thought it'd be very topical to give a detailed view over the various ways that you can in Japanese express felicitations for such occasion. And also, bask in the etymological joys of everything.

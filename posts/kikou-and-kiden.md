@@ -4,6 +4,7 @@ date: "2021-01-01"
 slug: "kikou-and-kiden"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Kikou and kiden are both pronouns primarily being spectres of epistolary and courtly discourse. Nevertheless, they once in a while resurface in pop-culture as a more decorous if archaic alternative the tried and tested anata.

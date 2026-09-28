@@ -4,6 +4,7 @@ date: "2022-04-06"
 slug: "silvered-ones"
 tags: []
 description: ""
+category: Games
 ---
 
 SPOILERS MAY OCCUR FOR ELDEN RING.

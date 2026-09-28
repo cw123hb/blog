@@ -4,6 +4,7 @@ date: "2020-10-25"
 slug: "danish-poem-atman"
 tags: []
 description: ""
+category: Poetry & Stories
 ---
 
 Atman (2017)

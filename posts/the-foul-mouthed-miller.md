@@ -4,6 +4,7 @@ date: "2021-07-10"
 slug: "the-foul-mouthed-miller"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 Geoffrey Chaucer, factotum of Plantagenet England and author of countless inimitable works of poetry, wrote towards the end of the 1400s his magnum opus The Canterbury Tales, wherein we follow a wide assortment and slice of society as they make pilgrimage towards Canterbury.

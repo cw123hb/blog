@@ -4,6 +4,7 @@ date: "2020-12-01"
 slug: "the-many-terms-for-rpg-heroes"
 tags: []
 description: ""
+category: Games
 ---
 
 Begin any JRPG, at least in terms of the early ones that was set during the Tolkien-esque fantasy golden age of the 80s and you will inevitably encounter terms such as eiyuu and yuusha. These two terms differ wildly for the most part in describing the hero of the story of an in-game legend that the designated player must fulfil in order to gain the mythic accolade of heroism. We shall in this short article look at how these terms differ from the English term "hero."

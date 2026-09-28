@@ -4,6 +4,7 @@ date: "2023-03-12"
 slug: "one-word-multiple-kanji"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 In Japanese you will from time to time encounter that a verb can be written synonymously with different kanji, but these meanings whilst sharing similarities can differ in usage.

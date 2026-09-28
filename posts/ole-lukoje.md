@@ -4,6 +4,7 @@ date: "2023-01-06"
 slug: "ole-lukoje"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 Nakajima

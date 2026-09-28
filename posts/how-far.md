@@ -4,6 +4,7 @@ date: "2024-11-15"
 slug: "how-far"
 tags: []
 description: ""
+category: Anime, Manga & Fiction
 ---
 
 How far is enough for science fiction.

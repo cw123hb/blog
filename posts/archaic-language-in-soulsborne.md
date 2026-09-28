@@ -4,6 +4,7 @@ date: "2021-11-09"
 slug: "archaic-language-in-soulsborne"
 tags: []
 description: ""
+category: Games
 ---
 
 The popular action RPGs by From Soft are famed for their fair if fierce difficulty and a minimalist approach to tutorials, rather wanting players to learn by experience rather than by obsequious text-boxes. Text is indeed the very bread and butter of this blog, though more specifically the dialogue. If a game is set in ancient pseudo-medieval times or feature characters of elder ages then chances are that they will sport an equivalently archaic mode of speaking to the player.

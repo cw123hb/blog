@@ -4,6 +4,7 @@ date: "2023-02-11"
 slug: "aggrandising-japanese-keigo"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Whilst browsing through some of the linguistics that I own, I encountered this gem from Bjarke Frellesvig's excellent A History of the Japanese Language, p. 371:

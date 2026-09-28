@@ -4,6 +4,7 @@ date: "2023-05-18"
 slug: "a-question-of-hokuto-fists"
 tags: []
 description: ""
+category: Anime, Manga & Fiction
 ---
 
 In the seminal martial arts epic “Fist of the North Star” (Hokuto no Ken), there is a scene near the end of one of the early major story arcs, where the brothers Raoh and Toki face off.

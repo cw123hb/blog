@@ -4,6 +4,7 @@ date: "2021-07-11"
 slug: "ducal-difficulty"
 tags: []
 description: ""
+category: Games
 ---
 
 Duke Nukem 3D, a FPS game featuring the titular pastiche of action heroes of the 80s and 90s, with all the corny lines and questionable macho-attitude, received a Japanese release for the PC, and in that vein it came with a manual.

@@ -4,6 +4,7 @@ date: "2024-05-05"
 slug: "goukis-shun-goku-satsu"
 tags: []
 description: ""
+category: Games
 ---
 
 1 .一瞬千撃 – Original – SF4 - “One-Instant-Thousand-Strike”

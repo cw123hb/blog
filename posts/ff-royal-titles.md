@@ -4,6 +4,7 @@ date: "2022-10-02"
 slug: "ff-royal-titles"
 tags: []
 description: ""
+category: Games
 ---
 
 Final Fantasy is no stranger to royalty. In fact, in most cases the main playable cast will contain a prince, princess, king and queen either secretly or quite obvious - such as in the cases of the most recent numbered Final Fantasy game.

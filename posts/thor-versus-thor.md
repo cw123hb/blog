@@ -4,6 +4,7 @@ date: "2022-11-24"
 slug: "thor-versus-thor"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 With the advent of the new God of War Ragnarok game, and the appearance of another fresh interpretation of the Aesir, Vanir, Jotun and other members of Norse mythology, it behoves me to make a comparison with previous incarnations of one particular Aesir, Thor the Thunderer - the first being his Marvel depiction in the Capcom games, the second being Thor as he appears in the Record of Ragnarok manga/anime, and the last being the 2022 version voiced by Ryan Hurst.

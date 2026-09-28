@@ -4,6 +4,7 @@ date: "2022-07-06"
 slug: "third-person-pronouns-in-japanese-3rd-person-neutral"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 In Modern Japanese there are two 3rd person pronouns that correspond to the Western mode of masculine and feminine ones, namely:

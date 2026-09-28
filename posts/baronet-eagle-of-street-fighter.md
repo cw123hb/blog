@@ -4,6 +4,7 @@ date: "2023-07-05"
 slug: "baronet-eagle-of-street-fighter"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 So, Tiamat's otherwise superb Street Fighter Plot Guide mentions this bit about Eagle, a tonfa wielding gentleman from Street Fighter 1 - this regards his opening bio in the arcade mode of Street Fighter Zero 3 Upper:

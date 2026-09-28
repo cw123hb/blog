@@ -4,6 +4,7 @@ date: "2021-01-04"
 slug: "dickensian-japanese-stave-3-fred-jacob"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 In order to speed things up, let us take a brief look at the other principal characters and their main traits, and how translators handle them:

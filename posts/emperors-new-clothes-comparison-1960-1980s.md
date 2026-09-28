@@ -4,6 +4,7 @@ date: "2021-04-10"
 slug: "emperors-new-clothes-comparison-1960-1980s"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 Thus we reach the final leg of our journey through the comparison of the various Japanese  translations of Andersen's The Emperor's New Clothes, wherewith we now are covering those translations occurring during the 1960s and 1980s - meeting a person who we covered in the previous article, Oohata and a new face, namely Ookubo Yuu.

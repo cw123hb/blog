@@ -4,6 +4,7 @@ date: "2022-08-22"
 slug: "tekken-jins-pronouns"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 In the recent animated adaptation of the events of the third Tekken game, taciturn Jin Kazama is featured as the main character.

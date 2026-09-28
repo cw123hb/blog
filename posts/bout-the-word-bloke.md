@@ -4,6 +4,7 @@ date: "2021-02-22"
 slug: "bout-the-word-bloke"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 The word bloke is one of the quintessential British and to a point Australian terms. Its origins are placed in the murky waters of the underworld slang of 1860s England. Here it according to Green's Dictionary of Slang, most likely derived from the Dutch world for "fool," and came to mean the "owner" or "master" of somewhere or something.

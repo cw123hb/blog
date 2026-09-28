@@ -4,6 +4,7 @@ date: "2022-02-02"
 slug: "naming-rock-exe-series"
 tags: []
 description: ""
+category: Games
 ---
 
 One of my many interests when it comes to linguistics and especially also literature is that of personal names, when writing a story or a piece of media, the author(s) will some times create names that either are puns, homages or otherwise have significant meanings to either the personalities of the characters, or their role in the plot of the story.

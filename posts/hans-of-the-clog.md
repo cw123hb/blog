@@ -4,6 +4,7 @@ date: "2021-05-02"
 slug: "hans-of-the-clog"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 In the place of another large project to take care of, I thought we'd take a look at some of Andersen's lesser known works and how they have been treated in translation.

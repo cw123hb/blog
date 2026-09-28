@@ -4,6 +4,7 @@ date: "2020-11-08"
 slug: "db-pa-dk"
 tags: []
 description: ""
+category: Anime, Manga & Fiction
 ---
 
 (Danish blog post)

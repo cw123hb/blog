@@ -4,6 +4,7 @@ date: "2020-12-26"
 slug: "dickensian-japanese-stave2-charity-part-2"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Continuing where we left off,we will be dealing with the verbs - and having in another article described the fundamentals of keigo, in terms of the three categories and the concepts of in- and out-groups, there ought to be little in the way of explaining the intricacies of this.

@@ -4,6 +4,7 @@ date: "2022-08-17"
 slug: "translating-poetry"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Translating poetry is not the same as translating any other mode of text - it requires not just converting a body of literature from one language to another, but necessarily rewriting parts of it to fit with the metre, rhythm or other nuances in the original that are vital for reproducing the original reading/recital experience.

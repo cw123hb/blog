@@ -4,6 +4,7 @@ date: "2023-07-22"
 slug: "knights"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Knights in original and dubbed material tend to take on characteristics that mix formal modern language and bushigo, i.e. pop-fictional samurai language. Thus nearly all of them use watashi as their first person reference, they will switch to something far more samurai-esque such as soregashi, when being extremely formal towards a lord, lady or monarch. Hence there is a distinct historical colouring, if affected, to convey how these medieval nobles talk.

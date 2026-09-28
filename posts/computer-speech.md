@@ -4,6 +4,7 @@ date: "2020-11-07"
 slug: "computer-speech"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Robots and super-computers in Japanese fiction have a tradition of speaking in a rather stilted, polite and logical manner that is most times rendered fully in the angular katakana syllabary which is used to write loan words, foreign personal names and in some cases slang and difficult words that use obscure kanji spellings.

@@ -4,6 +4,7 @@ date: "2022-05-19"
 slug: "japanese-rpg-words-ryuujin"
 tags: []
 description: ""
+category: Games
 ---
 
 HEED THE SPOILER WARNING!

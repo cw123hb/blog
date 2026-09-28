@@ -4,6 +4,7 @@ date: "2024-01-02"
 slug: "piece-of-my-mind-to-feast-upon"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 In a Christmas Carol’s third chapter, wherein the Ghost of Christmas Present, a towering incarnation of Yuletide jollity, guides Scrooge through the homes and streets of various people that the miser knows, but does not know his impact upon, he comes across the humble house of Robert Cratchit and his family, who are currently preparing the Christmas feast.

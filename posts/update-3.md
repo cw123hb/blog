@@ -4,6 +4,7 @@ date: "2021-08-15"
 slug: "update-3"
 tags: []
 description: ""
+category: Site Updates
 ---
 
 So, I have not published any articles on this blog for a while, and for the sake of giving news in regards to where things are heading.

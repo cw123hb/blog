@@ -4,6 +4,7 @@ date: "2020-10-10"
 slug: "i-dare-say-mdude"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Keigo or Polite speech is the Japanese concept of usually three registers: Humble speech, Reverential speech and Respect speech, common for these is that certain suplitive grammatical traits, i.e. substituting one form for the other of a word when it takes different tenses, such as with English go in the present and went in the past. Thus, the verb "to go" in Japanese is ordinarily iku (行く), whereas the humble form is mairu (参る) and the reverential form is irassharu (いらっしゃる), the respectful forms being merely adding the all-purpose polite ending -masu (ます). In addition, different pronouns are also used to show the equivalent decorous aspects when speaking hence watakushi (わたくし) and its somewhat more informal progeny watashi (わたし) are used as first person pronouns to express humility towards the recipient, usually one's boss, superior, elders and so on, similarly anata (あなた) is the courteous second person pronoun.

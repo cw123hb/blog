@@ -4,6 +4,7 @@ date: "2020-12-07"
 slug: "update"
 tags: []
 description: ""
+category: Site Updates
 ---
 
 First things, first. I am under a bad spell of stress right now, but progress is slowly happening with the writing of the blog posts.

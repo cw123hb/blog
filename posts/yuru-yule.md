@@ -4,6 +4,7 @@ date: "2022-12-18"
 slug: "yuru-yule"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 Lo, a micro translation-comparison sort of thing. In the 11th volume of Vinland Saga, a group of country nobles and loyal vassals to King Canute plead their case to His Majesty, in this quote do we see Makoto Yukimura, the author and illustrator of the comic, mention the Old Norse holiday of jól, here written with pronunciation closer to the English yule or even Danish jul, that is:

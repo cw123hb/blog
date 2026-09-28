@@ -4,6 +4,7 @@ date: "2020-10-31"
 slug: "scripts-and-self"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Japanese has three modes of writing, hiragana, katakana and kanji, whereof the first two constitute the syllable alphabets primarily used for writing grammatical terms, loan words and slang. Kanji on the other hand are characters derived from the Han era hence the term being written in kanji as 漢字 ("Han-era writing"), though the origins of the script is much older as such.

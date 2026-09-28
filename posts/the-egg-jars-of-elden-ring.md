@@ -4,6 +4,7 @@ date: "2022-04-17"
 slug: "the-egg-jars-of-elden-ring"
 tags: []
 description: ""
+category: Games
 ---
 
 Elden RIng is not unknown for being a melting pot of mythological references to Germanic and Celtic cultures, and one of the more cryptic if also obvious ones take the shape of the Jar folk.

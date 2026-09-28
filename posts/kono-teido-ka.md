@@ -4,6 +4,7 @@ date: "2024-04-23"
 slug: "kono-teido-ka"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Many a moment in an anime, tv-series or game you will in Japanese media hear the phrase この程度か (kono teido ka), which at its most literal is "is it to this extent?", but is deeply dependent on the scene and it most often occurs during fights where the protagonist or antagonist are disappointed in the mediocrity of their opposite that they will say this phrase, taking on the meaning "I had thought better of you" or "you disappoint me", which the implication being "is this truly the full extent of your abilities?".

@@ -4,6 +4,7 @@ date: "2023-03-05"
 slug: "writing-out-the-i"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 In the manga adaptation by Gatou Asou of the 2012 CGI animated feature of Shoutarou Ishinomori's classic, Cyborg 009, titled "009 Re:Cyborg", I am across a panel that stuck with me in terms of how it highlighted the nature of Japanese writing.

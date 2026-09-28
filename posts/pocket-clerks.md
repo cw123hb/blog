@@ -4,6 +4,7 @@ date: "2021-02-02"
 slug: "pocket-clerks"
 tags: []
 description: ""
+category: Games
 ---
 
 Wherein we learn that the economical mechanisms of RPG worlds concerning the trading, breeding and fighting of mutant animals seldom makes for logical pondering and that some clerks are more humble than others  - and that the good writer of this blog is probably procrastinating with the more meaningful posts.

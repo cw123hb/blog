@@ -4,6 +4,7 @@ date: "2022-06-05"
 slug: "the-idiot-bird"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Whilst preparing for an upcoming article about the Japanese version of Samuel Taylor Coleridge's Rime of he Ancient Marine, I encountered the Japanese name for the albatross within the text.

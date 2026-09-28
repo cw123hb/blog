@@ -4,6 +4,7 @@ date: "2020-12-03"
 slug: "grand-father-x-mas-comparison"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 In a seasonal extension of the "Senior Dialect" post of a few months back, I shall here give a short description of how various Japanese dubs of Christmas related media adapt the linguistic traits of the (bloke in red).

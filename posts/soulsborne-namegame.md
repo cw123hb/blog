@@ -4,6 +4,7 @@ date: "2022-05-19"
 slug: "soulsborne-namegame"
 tags: []
 description: ""
+category: Games
 ---
 
 The SoulsBorne games have been covered extensively on this blog in regards to the localisers and Mizaki's love for archaic language and everything redolent of horror-fantasy in terms of names and descriptions.

@@ -4,6 +4,7 @@ date: "2021-03-30"
 slug: "princess-tamaeda"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 Whilst researching for upcoming projects in relation to the next work to compare and analyse, I came across various Japanese translations of Andersen's De Vilde Svaner ("The Wild Swans") - which involves a young princess by the name of Elisa, who must save her eleven cursed brothers who have been turned into swans by her wicked stepmother, whose wiles has entranced Elisa's kingly father.

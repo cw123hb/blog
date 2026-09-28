@@ -4,6 +4,7 @@ date: "2024-03-29"
 slug: "regarding-arisen-ones"
 tags: []
 description: ""
+category: Games
 ---
 
 WARNING – Spoilers regarding the Dragon’s Dogma games.

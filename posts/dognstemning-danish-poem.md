@@ -4,6 +4,7 @@ date: "2020-11-20"
 slug: "dognstemning-danish-poem"
 tags: []
 description: ""
+category: Poetry & Stories
 ---
 
 DØGNSTEMNING: Skrevet den 01/10/2018, på en kølig vintermorgen.

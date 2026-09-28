@@ -4,6 +4,7 @@ date: "2024-03-08"
 slug: "in-memoriam-akira-toriyama"
 tags: []
 description: ""
+category: Anime, Manga & Fiction
 ---
 
 Rest in peace, Akira Toriyama (05.05.1955 - 01.03.2024)

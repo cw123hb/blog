@@ -4,6 +4,7 @@ date: "2021-12-24"
 slug: "yulepost2nd-food"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 Preface:

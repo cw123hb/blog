@@ -4,6 +4,7 @@ date: "2020-12-19"
 slug: "dickensian-japanese-2nd-stave-initial-people-part-2"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 Thus we continue, this time with the charity workers, nameless wretches as they are, but nevertheless subjects to prove just how rotten Ebenezer is prior to his transformation and repentance.

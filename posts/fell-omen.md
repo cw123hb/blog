@@ -4,6 +4,7 @@ date: "2022-07-13"
 slug: "fell-omen"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 In Elden Ring, one of the bosses that you can encounter is a ogreish warrior known as Margit the Fell Omen, which in Japanese corresponds to: 忌み鬼マルギット (Imi Oni Marugitto, "Shunned Oni Margit").

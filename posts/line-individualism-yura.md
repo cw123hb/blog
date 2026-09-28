@@ -4,6 +4,7 @@ date: "2022-06-03"
 slug: "line-individualism-yura"
 tags: []
 description: ""
+category: Games
 ---
 
 SPOILERS ARE AHEAD!

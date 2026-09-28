@@ -4,6 +4,7 @@ date: "2022-02-21"
 slug: "x-men-vs-street-fighter-victory-quote-commentary"
 tags: []
 description: ""
+category: Games
 ---
 
 Capcom's fighting game X-Men vs Street Fighter was nothing less, but a cultural phenomenon in the arcade halls of both Japan and in the West, in the year of 1996 (and later home-releases in 1997 - 1998).

@@ -4,6 +4,7 @@ date: "2021-01-15"
 slug: "emperors-new-clothes-comparison-1888-part-ii"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 The Swindlers

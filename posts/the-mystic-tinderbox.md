@@ -4,6 +4,7 @@ date: "2021-06-14"
 slug: "the-mystic-tinderbox"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 Whilst researching for future posts, I was looking into the Andersen fairy-tale Fyrtøjet (The Tinderbox), which famously is about a soldier who fortuitously meets an old witch that offers him abundant riches if he is to help her retrieve a magical tinderbox that her grandmother forgot down in the bottom of a hollow tree, that in reality leads to an elaborate set of halls, where three dogs, one after one with larger ocular organs are residing, going as far as having the size of a tower's circumference, though the latter is implied.

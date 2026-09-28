@@ -4,6 +4,7 @@ date: "2020-12-16"
 slug: "dickensian-japanese-2nd-stave-part1"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 An analysis of this magnitude requires taking segments in sizeable chunks without it becoming all too unfathomable for either your senses or the connection through which you are currently accessing this site.

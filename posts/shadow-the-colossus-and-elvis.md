@@ -4,6 +4,7 @@ date: "2022-08-19"
 slug: "shadow-the-colossus-and-elvis"
 tags: []
 description: ""
+category: Games
 ---
 
 According to the unofficial net-encyclopaedia of the games ICO and Shadow of the Colossus, the 16th colossus of the latter game, whose role is also that of the final boss, had two prototype names prior to the final design, those being Evis and Buddha.

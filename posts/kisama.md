@@ -4,6 +4,7 @@ date: "2025-01-13"
 slug: "kisama"
 tags: ["japanese", "pronouns", "honorifics"]
 description: "How a courteous honorific became a pop-culture insult — the semantic decline of 貴様."
+category: Language & Speech
 ---
 
 The pronoun that started life as a courteous literary reference to one's superiors that then dropped in social esteem to become the almost clichéd "you bastard" of pop-culture has a varied history — and I thought that it'd be interesting to delve into this evolution, just to show how semantic shifts can radically change the meaning of a word over a period of time.

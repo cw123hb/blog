@@ -4,6 +4,7 @@ date: "2022-09-09"
 slug: "morbid-honorifics"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 When a person succumbs to the mortal coil and passes away, we have in all cultures words of varying degrees of formality and respect to refer to this posthumous state.

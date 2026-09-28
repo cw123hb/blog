@@ -4,6 +4,7 @@ date: "2021-01-17"
 slug: "emperors-new-clothes-comparison-1888-part-iii"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 Note: I have omitted Watanabe's translation due to the difficulty in translating/transcribing it, and the fact that it ditches in most cases the nuances of line individualism in favour of a more direct if flattening out style of translation. I may revisit this article and add it in the future, or in another article.

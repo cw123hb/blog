@@ -4,6 +4,7 @@ date: "2022-04-02"
 slug: "usage-of-katakana"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Knowing the difference between the two phonetic syllabaries of Japanese can be vital, when very much reading any mode or level of Japanese text.

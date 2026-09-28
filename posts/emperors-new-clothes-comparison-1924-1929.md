@@ -4,6 +4,7 @@ date: "2021-03-16"
 slug: "emperors-new-clothes-comparison-1924-1929"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 Thus we enter a new decade of translations and a new round of analyses that either have the Emperor of the story be demoted to mere king or have him keep his empire.

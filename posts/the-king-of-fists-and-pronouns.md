@@ -4,6 +4,7 @@ date: "2021-09-09"
 slug: "the-king-of-fists-and-pronouns"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 In this we will delve into how the concept of pronouns in Japanese or for that matter pronominals, and its relation to how our understanding of characters in a manga such as Hokuto no Ken (“Fist of the North Star”) may prove to show just how elastic the concept is in East Asian languages.

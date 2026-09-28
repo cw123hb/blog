@@ -4,6 +4,7 @@ date: "2022-03-30"
 slug: "update-post-30-03-22"
 tags: []
 description: ""
+category: Site Updates
 ---
 
 Hello!

@@ -4,6 +4,7 @@ date: "2021-08-22"
 slug: "obi-wan-too-many"
 tags: []
 description: ""
+category: Anime, Manga & Fiction
 ---
 
 Star Wars was released to massive acclaim in term of it bringing the space opera genre to a modern audience and introducing a viewing public to the world of Jedi and Droids.

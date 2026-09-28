@@ -4,6 +4,7 @@ date: "2021-07-23"
 slug: "the-aegyptian-stork"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 The tale of the Ugly Duckling (Den Grimme Ælling) is perhaps Hans Christian Andersen's most famous tale - part autobiographical story about striving against the odds, and part celebration of the sublimity of nature.

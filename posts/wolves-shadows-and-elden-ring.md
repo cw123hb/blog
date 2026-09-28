@@ -4,6 +4,7 @@ date: "2022-04-24"
 slug: "wolves-shadows-and-elden-ring"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 ELDEN RING SPOILERS ARE PRESENT WITHIN THIS POST.

@@ -4,6 +4,7 @@ date: "2023-06-26"
 slug: "akatsuki_musashi"
 tags: []
 description: ""
+category: Games
 ---
 
 SNK’s timeless classic The Last Blade, and its sequel and spin-offs, feature a host of fencers and fighters who are based off actual historical people or out of entirely new fictive cloth. Akatsuki Musashi (暁 武蔵) himself is not merely inspired, but is heavily implied to be the very same peerless master swordsman Musashi Miyamoto who through mystical methods has been resurrected to do the bidding of the games’ final bosses.

@@ -4,6 +4,7 @@ date: "2025-04-11"
 slug: "noble-womens-speech"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 As mentioned in another article, Japanese media has a certain way that regal personages speak, and queens in particular also share this, case in point:

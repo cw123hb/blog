@@ -4,6 +4,7 @@ date: "2021-12-30"
 slug: "new-year-post-back-to-the-future"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 The year is drawing to a close and I thought I would include one last short translation comparison to round off the old year and herald the new year.

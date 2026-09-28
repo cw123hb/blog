@@ -4,6 +4,7 @@ date: "2022-01-28"
 slug: "quick-post-old-sport"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 In the seminal novel The Great Gatsby by F. Scott Fitzgerald, the titular character of Jay Gatsby is a showman and playboy whose ostentatious lifestyle draws the attention of the protagonist and narrator of the story, a young journalist called Nick Carraway, whose enquiries into the life and secrets of the great Gatsby is what ultimately propels the events of the story forth. Gatsby himself imitates the avuncular and amiable diction of an eccentric oldster of incalculable wealth, that he encounters early in the story. Wanting to emulate the mannerisms of the oldster, Gatsby becomes essentially a parody of the oldster. Talking further on about the critical role of the old man and how he impacts Gatsby life would spoil the overall twists in the story.

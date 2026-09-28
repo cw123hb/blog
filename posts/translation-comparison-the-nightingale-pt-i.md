@@ -4,6 +4,7 @@ date: "2021-05-23"
 slug: "translation-comparison-the-nightingale-pt-i"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 Thus the day has dawned for another installation in the much awaited (and for me, the work-horse, personally, dreaded) series of translation comparisons of Japanese versions of classic literary works, this time staying in the theme of Hans Christian Andersen with Nattergalen ("The Nightingale").

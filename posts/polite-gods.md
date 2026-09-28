@@ -4,6 +4,7 @@ date: "2022-05-17"
 slug: "polite-gods"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Gods and divine beings in Japanese fiction typically speak in two flavours of diction: 1) Archaic sounding language (with a dash of modern words here and there) and 2) Modern language, whereof the second category there is a subset where the gods speak purely in polite language almost never relenting on this unflinching courteousness.

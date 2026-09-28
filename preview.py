@@ -79,6 +79,7 @@ def build() -> int:
             "date": iso_date(fields.get("date")),
             "url": f"posts/{slug}.html",
             "excerpt": excerpt_of(rendered),
+            "category": str(fields.get("category") or ""),
         })
 
     (SITE / "posts.json").write_text(json.dumps(posts, ensure_ascii=False), encoding="utf-8")

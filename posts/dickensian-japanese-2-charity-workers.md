@@ -4,6 +4,7 @@ date: "2020-12-23"
 slug: "dickensian-japanese-2-charity-workers"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 Prefatory remark:

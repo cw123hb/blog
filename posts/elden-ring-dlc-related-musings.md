@@ -4,6 +4,7 @@ date: "2024-05-21"
 slug: "elden-ring-dlc-related-musings"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 The story-trailer for the Shadow of the Erdtree expansion dropped, and I will covering the Japanese counterpart to the English one:

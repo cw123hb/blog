@@ -4,6 +4,7 @@ date: "2022-03-15"
 slug: "elden-ring-spoilers-name-allusions"
 tags: []
 description: ""
+category: Games
 ---
 
 From Software has a tradition of putting especial significance in their world building when it comes to structuring their role playing games, moreover, the latest instalment, Elden Ring only proves this.

@@ -4,6 +4,7 @@ date: "2021-01-19"
 slug: "emperors-new-clothes-comparison-1900s-part-i"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 After having analysed Watanabe and Takahashi's translations we shall proceed a decade forward (or so), and tackle those of Nagura Jirou (1907) and Kimura Shoshuu (1908), whose versions differ quite significantly and continue in the vein of Takahashi when it comes to applying distinct nuances of personality to the cast and Andersen's trademark polite wit in the narration.

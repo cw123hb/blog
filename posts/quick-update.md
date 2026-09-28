@@ -4,6 +4,7 @@ date: "2021-03-06"
 slug: "quick-update"
 tags: []
 description: ""
+category: Games
 ---
 
 A quick word of update to quell any worries there might be. I am currently researching for a bigger comparison project, and also taking care of IRL problems that have been occurring.

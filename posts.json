@@ -8,7 +8,7 @@ permalink: /posts.json
 {% for post in ordered_pages %}
 {% if post.path contains "posts/" and post.path contains ".md" %}
 {% assign excerpt = post.content | markdownify | strip_html | strip | truncate: 180 %}
-{{ separator }}{"slug": {{ post.name | remove: ".md" | jsonify }}, "title": {{ post.title | default: post.name | jsonify }}, "date": {% if post.date %}{{ post.date | date: "%Y-%m-%d" | jsonify }}{% else %}""{% endif %}, "url": {{ post.url | remove_first: "/" | jsonify }}, "excerpt": {{ excerpt | jsonify }}}
+{{ separator }}{"slug": {{ post.name | remove: ".md" | jsonify }}, "title": {{ post.title | default: post.name | jsonify }}, "date": {% if post.date %}{{ post.date | date: "%Y-%m-%d" | jsonify }}{% else %}""{% endif %}, "url": {{ post.url | remove_first: "/" | jsonify }}, "excerpt": {{ excerpt | jsonify }}, "category": {{ post.category | default: "" | jsonify }}}
 {% assign separator = "," %}
 {% endif %}
 {% endfor %}

@@ -4,6 +4,7 @@ date: "2021-05-10"
 slug: "db-addendum-super-ultra-mega-saiya-jin"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 The Danish Dragon Ball translation by John Lysmand, has been covered in quite a few posts on this blog, albeit in Danish, though, this time, I would like to write one in English for a change, moreover concerning the nomenclature when it comes to translating the relatively simple names for the gradings of the Super Saiyan transformations in Toriyama's manga

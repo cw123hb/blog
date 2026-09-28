@@ -4,6 +4,7 @@ date: "2022-11-09"
 slug: "robotto"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Word robot first appeared as early as in the 1920s science fiction play, R. U. R (Rustrom’s Universal Robots), by Czech playwright Karel Čapek (1890 – 1938), wherein the automatons featured within the story are not mechanical humans, but synthetic ones created from various organic materials to then serve as workers, hence robot stemming ultimately from robota, “forced labour” – underlining their sense as artificially created slaves.

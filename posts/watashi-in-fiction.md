@@ -4,6 +4,7 @@ date: "2020-10-05"
 slug: "watashi-in-fiction"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Watashi (私・わたし・ワタシ) is traditionally the gender neutral first person singular pronoun and as such preserves this distinction in polite discourse, whereas in informal speech you are more likely to encounter it used by female speakers of all ages. Regardless of this, however, you will in fiction encounter male speakers use it as a pronoun of being aloof, noble or mock-polite.

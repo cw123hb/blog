@@ -4,6 +4,7 @@ date: "2023-09-26"
 slug: "of-mathildus"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 There are countless female names derived from male names, such as Joanna, Jacqueline, Roberta, Victoria and so on, but the reverse is also true. There are quite a few purely female names that have male counterparts, such as Mathilda becoming Mathildus, Elisabeth becoming Elisabethus and Catharina becoming Catharinus. These are however not overly common ones, and only survive in countries such as Norway, the Netherlands and in a few cases North America.

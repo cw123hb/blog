@@ -4,6 +4,7 @@ date: "2021-12-09"
 slug: "yule-post-the-1st-grantraeet"
 tags: []
 description: ""
+category: Christmas & Yule
 ---
 
 We begin this year's Christmas themed posts with a look at one of Hans Christian Andersen's few yuletide fairy tales, aside from Den lille pige med svovlstikker ("the little match-stick girl"), wherein a sentient fir-tree experiences the existential crisis and threat over first waxing romantically about wanting to become a Christmas tree, only to realise once it happens the utter dread that it entails to be an object of worship of those strange hairless primates. We will in this article plum right into the action of things where a group of sparrows are telling the inquisitive young fir-tree about what glorious a sight a decorate Christmas tree is, when seen through the windows of a village home.

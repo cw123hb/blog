@@ -4,6 +4,7 @@ date: "2024-10-11"
 slug: "i-am-or-aint"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 The various contraction of the existential verb, "to be", are plentiful in English, but the one belonging to "I am not", seems either lost or dialectal, i.e. "ain't", though this word hasn't as sordid a past as grammatical pundits would have you believe.

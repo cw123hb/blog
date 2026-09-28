@@ -4,6 +4,7 @@ date: "2020-10-30"
 slug: "human-cyborg"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 When the golden android C-3PO introduces himself to Luke Skywalker in Star Wars Episode IV: A New Hope, he uses a rather bizarre compound noun, one of a long series consisting of equally misused terms (an idea for a later blog entry):

@@ -4,6 +4,7 @@ date: "2021-03-18"
 slug: "honorifics-in-outer-space"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Science fiction and fictional royalty are no strangers, with various planets adorned by exotic and varying degrees of pompous monarchies.

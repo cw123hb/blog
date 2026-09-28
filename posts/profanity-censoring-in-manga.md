@@ -4,6 +4,7 @@ date: "2025-02-01"
 slug: "profanity-censoring-in-manga"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 In the manga, “Hero Organization”, we follow the quest for mecha-based revenge of Leonidas Tyler and some of his fellow pilots. One especial scene, with its related call-back have apparent seen some light censorship in terms of swearing, namely that “fuck” has been rendered into a more verbose insult, surprised? Let’s look into things already.

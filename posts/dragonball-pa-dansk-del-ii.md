@@ -4,6 +4,7 @@ date: "2020-11-25"
 slug: "dragonball-pa-dansk-del-ii"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 (Opdateret 27/11/2020)

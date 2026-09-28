@@ -4,6 +4,7 @@ date: "2024-12-22"
 slug: "time-scales"
 tags: []
 description: ""
+category: Anime, Manga & Fiction
 ---
 
 The cessation of setting your story in real-time or having them age at all can have it purposes, but for some varieties of stories that are character driven and thus depend on the development of both its cast and the narrative in context of its period, this can be ruinous.

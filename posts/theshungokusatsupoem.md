@@ -4,6 +4,7 @@ date: "2024-05-02"
 slug: "theshungokusatsupoem"
 tags: []
 description: ""
+category: Games
 ---
 
 In Street Fighter 6, Gouki aka Akuma, performs his iconic finishing move, the Shungokusatsu (瞬獄殺, "instant hell slaying", or alternatively, "imprisoning death flash"), whilst reciting the following poem:

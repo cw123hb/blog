@@ -4,6 +4,7 @@ date: "2021-05-16"
 slug: "db-addendum-shukan-idou"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 Son Gokuu's ability to instantly teleport from place to the other, provided that he can recognise a qi pattern that is there possess a rather simple if verbose name.

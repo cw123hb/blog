@@ -4,6 +4,7 @@ date: "2021-06-02"
 slug: "poem-coffee-swing"
 tags: []
 description: ""
+category: Poetry & Stories
 ---
 
 Here are some short poems from my upcoming poem collection that I am working on, said poems were written between 2020 and 2021, and is still being written on.

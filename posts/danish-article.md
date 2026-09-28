@@ -4,6 +4,7 @@ date: "2020-10-23"
 slug: "danish-article"
 tags: []
 description: ""
+category: Danish
 ---
 
 This article is completely in Danish:

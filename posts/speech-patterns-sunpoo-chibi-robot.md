@@ -4,6 +4,7 @@ date: "2023-05-29"
 slug: "speech-patterns-sunpoo-chibi-robot"
 tags: []
 description: ""
+category: Games
 ---
 
 Sunpoo (“Chibi Robot!”, 2005)

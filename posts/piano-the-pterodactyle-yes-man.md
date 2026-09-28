@@ -4,6 +4,7 @@ date: "2021-04-01"
 slug: "piano-the-pterodactyle-yes-man"
 tags: []
 description: ""
+category: Anime, Manga & Fiction
 ---
 
 This being the first of April and an international day of pulling the proverbial appendage, I thought that we, however, ought for a moment pause for elegiacal thought for the fate of a fictional Yes-man of Japanese comic history, Piano of Dragon Ball, of Piccolo's royal escort.

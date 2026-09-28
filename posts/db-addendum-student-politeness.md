@@ -4,6 +4,7 @@ date: "2021-05-08"
 slug: "db-addendum-student-politeness"
 tags: []
 description: ""
+category: Anime, Manga & Fiction
 ---
 
 In the continued series about miscellaneous information regarding the translations of Dragon Ball and linguistic detail, we will in this article look at how polite (or the lack thereof) the pupils of martial arts masters are in Dragon Ball, when talking towards or about their masters.

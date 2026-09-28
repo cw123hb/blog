@@ -4,6 +4,7 @@ date: "2022-12-18"
 slug: "santa-san"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 A friend of mine asked me recently as to the origins of the Japanese name for the voluminous giver of gifts, Santa Claus.

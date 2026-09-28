@@ -4,6 +4,7 @@ date: "2023-12-24"
 slug: "quick-x-mas-post-update"
 tags: []
 description: ""
+category: Site Updates
 ---
 
 Greetings of the winter variety, readers!

@@ -4,6 +4,7 @@ date: "2021-03-26"
 slug: "emperors-new-clothes-comparison-1930-1940s"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 We now enter the pen-ultimate chapter in our grand tour of the translations of the fairy-tale, as we now enter two decades that feature two translators, Taketomo Boufuu and Oohata Suekichi, both experienced and famed handlers of translating literary works into Japanese at this point. Taketomo's is from 1930 (and actually the first of two of his translations, the latter will be covered in the next instalment) and Oohata's is from 1948, thus constituing one representative from each decade, then next instalment will deal with 1960 - 1980s since there appears to be a drought in terms of translations of this specific fairy-tale.

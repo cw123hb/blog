@@ -4,6 +4,7 @@ date: "2021-11-27"
 slug: "yule-post-the-1st-what-is-xmas"
 tags: []
 description: ""
+category: Christmas & Yule
 ---
 
 Greetings, come here, so that I may present to you this year's Christmas posts!

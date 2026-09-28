@@ -4,6 +4,7 @@ date: "2022-04-05"
 slug: "thyselves"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 SPOILERS ARE CONTAINED WITHIN REGARDIN ELDEN RING.

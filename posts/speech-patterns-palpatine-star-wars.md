@@ -4,6 +4,7 @@ date: "2023-06-03"
 slug: "speech-patterns-palpatine-star-wars"
 tags: []
 description: ""
+category: Games
 ---
 
 Palpatine (“Lego Star Wars – The Skywalker Saga”, 2022)

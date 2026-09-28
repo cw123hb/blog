@@ -4,6 +4,7 @@ date: "2020-10-25"
 slug: "line-individualism-smeagol"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Smeagol/Gollum from Lord of the Rings by J. R. R. Tolkien

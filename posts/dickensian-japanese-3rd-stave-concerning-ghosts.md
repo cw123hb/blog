@@ -4,6 +4,7 @@ date: "2020-12-10"
 slug: "dickensian-japanese-3rd-stave-concerning-ghosts"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 Ghost:

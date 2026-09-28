@@ -4,6 +4,7 @@ date: "2022-09-25"
 slug: "ai_in_fiction"
 tags: []
 description: ""
+category: Musings
 ---
 
 Computers are machines, governed by calculations, i.e. numbers, the language of “logic”, thus the majority of AIs in fiction are represented as superficially polite, but wholly uncaring and calculating. Humans are, conversely, beings of pure emotion – perceived as floundering and fragile – incapable of rationality in the face of things that would have our feeling waver us. Computers however are incapable of such errors in thinking, as seen through fiction, but real life tells us that logic and feelings are two sides of the same coin – not values to be separated, or dichotomised.

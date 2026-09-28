@@ -4,6 +4,7 @@ date: "2021-10-27"
 slug: "possible_oldest-dialect"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Simon Roper, a linguistics enthusiast and knowledgeable gentleman on Youtube , posted a video not too long ago regarding whether or not there such a thing as an “oldest English dialect”, that is, one that retains the most archaic phonetic, syntactical, grammatical and/or vocabulary-wise features in contrast to other varieties of English.

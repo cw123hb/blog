@@ -4,6 +4,7 @@ date: "2021-01-25"
 slug: "mokujins-back"
 tags: []
 description: ""
+category: Games
 ---
 
 The wooden training dummy Mokujin ("Wooden Person"), debuted in the second Tekken game, a Japanese fighting game franchise created by Namco (now Bandai Namco) in the mid-nineties.

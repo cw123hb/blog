@@ -4,6 +4,7 @@ date: "2021-01-28"
 slug: "emperor-new-clothes-comp-1910-11"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 Closing off the tenth decade of the 1900s, we deal with not just two, but three translations, those by Wadagaki Kenzou (1910), Ueda Kazutoshi (1911) and Kondou Toshisaburou (1911).

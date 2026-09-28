@@ -4,6 +4,7 @@ date: "2020-10-10"
 slug: "shinobi-chelonian-reference"
 tags: []
 description: ""
+category: Games
 ---
 
 Playing through the Japanese version, Super Famicom, of Konami's great arcade game, Teenage Mutant Ninja Turtles: Turtles Through Time, I noticed amongst other things that there were the small speech bubbles that appear whenever the Turtles, for example, fall into a manhole, they will come with a witty one-liner, such as:

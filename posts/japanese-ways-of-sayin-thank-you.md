@@ -4,6 +4,7 @@ date: "2022-08-17"
 slug: "japanese-ways-of-sayin-thank-you"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 The various ways of saying "thank you":

@@ -4,6 +4,7 @@ date: "2020-11-19"
 slug: "you-most-honourably-are"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Japanese has, as mentioned in some of my other articles, various ways of expressing respectful existential verbs, i.e. second person or third person "to be," or, rather, the verbs are not conjugated after grammatical number since such aspect is not a part of the Japanese language. What infers the number or rather party to whom one is referring to in the speech is determined by whether or not the register that you are using is humble (kenjougo) speech or respectful (sonkeigo) speech.

@@ -4,6 +4,7 @@ date: "2020-11-14"
 slug: "ae-a"
 tags: []
 description: ""
+category: Danish
 ---
 
 “A æ u å æ ø i æ å, æ i å u å æ ø i æ å”

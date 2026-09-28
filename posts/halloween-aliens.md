@@ -4,6 +4,7 @@ date: "2024-10-22"
 slug: "halloween-aliens"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 There are several Japanese word for out-world denizens, but here are some of the most common ones considering the pertinent season that we are in.

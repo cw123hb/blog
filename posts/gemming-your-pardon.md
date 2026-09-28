@@ -4,6 +4,7 @@ date: "2021-09-20"
 slug: "gemming-your-pardon"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Here is a quickie in regards to discovery I made in terms of a weird if interesting variant way of writing an old polite imperative or optative mode of constructing a verb, namely tamau (たまう, "to beg \[a superior\] to grant \[a wish\]"), which is typically written with the kanji 給 that anciently meant "to bestow", but nowadays is used the verb mostly in its kana-writing is used as a masculine informal imperative.

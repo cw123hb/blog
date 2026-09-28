@@ -4,6 +4,7 @@ date: "2020-12-13"
 slug: "bah-humbug"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 As an addendum to the article that regard the Japanese translations of A Christmas Carol, here are some of the European translations of the famous utterance "Bah, humbug!" as expressed in versions readily available through WikiSource:

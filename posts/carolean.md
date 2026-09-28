@@ -4,6 +4,7 @@ date: "2022-09-09"
 slug: "carolean"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 So, with the recent passing of Elizabeth II and the her period of regency dubbed the "second Elizabethan age", it isn't too far for some people in politics to proclaim the new era to be called the "Carolean" derived from Carolus the Latin version whence the French Charles stems, though ultimately from a Germanic word for "man", related to English word "churl", but in the sense of peasant or freeman.

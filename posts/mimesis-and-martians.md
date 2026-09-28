@@ -4,6 +4,7 @@ date: "2022-07-27"
 slug: "mimesis-and-martians"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Quick blog post here, thought it would be worth mentioning No-Sword's excellent post on H. G. Wells' haunting and sonorous opening of War of the Worlds.

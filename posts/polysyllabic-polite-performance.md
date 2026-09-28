@@ -4,6 +4,7 @@ date: "2021-06-06"
 slug: "polysyllabic-polite-performance"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Japanese - as has been written previously on this blog - a profuse amount of reverential, humble and polite ways in the grammatical paradigm of keigo (respectful speech) to express the various situations, where formality is the focus.

@@ -4,6 +4,7 @@ date: "2024-12-16"
 slug: "xmas-article-the-little-match-girl-translation-comparison"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 Hans Christian Andersen's tragic story, from 1845, of the young girl who succumbs a wintry death whilst comforting herself with visions of warmth and at last the spirit of her late grandmother, has become not just a literary classic, but also the match-girl herself has become a symbol of the fragility of life.

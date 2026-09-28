@@ -4,6 +4,7 @@ date: "2022-04-14"
 slug: "bernahls-line"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 SPOILERS ARE WITHIN THE POST

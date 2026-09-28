@@ -4,6 +4,7 @@ date: "2025-04-20"
 slug: "cham"
 tags: ["english", "dialects", "pronouns"]
 description: "West Country English's shortened form of 'I am' and its place among rare contracted forms."
+category: Language & Speech
 ---
 
 English dialects provide a shocking array of variety as well as being time-bubbles that preserve otherwise ancient traits. West Country English is one such, that gives us a shortening of the first person singular.

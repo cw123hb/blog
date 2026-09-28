@@ -4,6 +4,7 @@ date: "2020-12-09"
 slug: "dickensian-japanese"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 As promised, I shall in this post be going through four translations and how they more specifically handle the main characters and also key words of Charles Dickens' classic A Christmas Carol from 1843, whose role was instrumental not just in a literary regard, but also culturally in taking the various individual traditions, dishes, games and customs of Christmas and create a cohesive picture of what we would come to perceive as the quintessential British Christmas, replete with Christmas tree, presents, the food and so on.

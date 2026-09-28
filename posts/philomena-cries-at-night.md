@@ -4,6 +4,7 @@ date: "2021-01-21"
 slug: "philomena-cries-at-night"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 The Nightingale is a tale written by Andersen concerning the contrast between natural and artificial beauty, in the aspects of music, splendour and above all else life.

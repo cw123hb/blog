@@ -4,6 +4,7 @@ date: "2022-08-15"
 slug: "db-addendum-that-insult-by-gohan"
 tags: []
 description: ""
+category: Anime, Manga & Fiction
 ---
 
 During Son Gohan's pivotal fight against Boo - essentially an ancient jinn, whilst he has attained a more powerful form and Gohan himself has awoken his latent qi, he spouts an insult:

@@ -4,6 +4,7 @@ date: "2020-12-03"
 slug: "regarding-stardust"
 tags: []
 description: ""
+category: Christmas & Yule
 ---
 
 Potash of Carboniloroxy amilocitrate

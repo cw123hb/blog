@@ -4,6 +4,7 @@ date: "2020-10-25"
 slug: "danish-poem"
 tags: []
 description: ""
+category: Poetry & Stories
 ---
 
 Naboer (2017)

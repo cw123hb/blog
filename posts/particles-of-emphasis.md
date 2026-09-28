@@ -4,6 +4,7 @@ date: "2021-01-16"
 slug: "particles-of-emphasis"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 In Japanese you can express emotional nuance or stress via emphasis particles that may equate to a vocal exclamation mark or emoticon.

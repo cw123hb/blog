@@ -4,6 +4,7 @@ date: "2023-02-03"
 slug: "random-quotes"
 tags: []
 description: ""
+category: Games
 ---
 
 わかりました スワンナ！　ここまでサンキューな！！

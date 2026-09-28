@@ -4,6 +4,7 @@ date: "2021-06-06"
 slug: "poems"
 tags: []
 description: ""
+category: Poetry & Stories
 ---
 
 Here is another poem which was originally written a few years ago, but has since become part of a poem collection that I am working on.

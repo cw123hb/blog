@@ -4,6 +4,7 @@ date: "2020-12-24"
 slug: "keigo-basics"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 As mentioned in the Dickensian blog-posts, I will be presenting a short introduction to the basics of polite Japanese and more pertinently using quotes from the translations to illustrate this.

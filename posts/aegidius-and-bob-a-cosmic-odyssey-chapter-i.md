@@ -4,6 +4,7 @@ date: "2020-10-31"
 slug: "aegidius-and-bob-a-cosmic-odyssey-chapter-i"
 tags: []
 description: ""
+category: Poetry & Stories
 ---
 
 Prefatory note: This story was originally written a few years back as a foray into the world of science fiction comedies, prompted by a love for the worlds and fiction of Douglas Adams as well as Cosmic Horror and and general science fiction that is just a bit out there, as they say. As such the idea arose in regards to a very down-to-earth farmer from the rural valleys of England and his meeting with the most unusual of guests in almost every aspect. I may possibly publish more chapters in the future, since there is quite the backlog, but this will do for now.

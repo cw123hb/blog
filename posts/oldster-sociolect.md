@@ -4,6 +4,7 @@ date: "2020-10-02"
 slug: "oldster-sociolect"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Older people have a distinct way of speaking in Japanese media, especially pop-culture, as we shall explore in this short essay:

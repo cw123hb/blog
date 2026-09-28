@@ -4,6 +4,7 @@ date: "2024-12-19"
 slug: "xmas-snowman-in-japanese"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 When you refer to the anthropomorphic lump of snow, minerals, cloth and vegetables in Japanese there's a few options:

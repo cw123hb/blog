@@ -4,6 +4,7 @@ date: "2022-06-27"
 slug: "lord-of-dragons"
 tags: []
 description: ""
+category: Games
 ---
 
 SPOILERS ARE APLENTY

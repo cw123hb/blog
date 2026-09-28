@@ -4,6 +4,7 @@ date: "2023-08-06"
 slug: "on-bison-and-cammy"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 It's a common misconception that Street Fighter character, the amnesiac British soldier Cammy's relationship to the mysterious main villain of the series, General Vega ("Master Bison" in the West), is a creepy one.

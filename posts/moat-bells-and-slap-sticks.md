@@ -4,6 +4,7 @@ date: "2024-10-24"
 slug: "moat-bells-and-slap-sticks"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 In Natsume Soseki's feline autohagiographical comedy, that predates a certain other plump cat's self-musings, "I am a Cat" (Wagahai wa Neko de aru), his owner a writer and a friend are discussing a funny episode that their common friend had at a restaurant.

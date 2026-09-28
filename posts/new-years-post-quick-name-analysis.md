@@ -4,6 +4,7 @@ date: "2022-12-31"
 slug: "new-years-post-quick-name-analysis"
 tags: []
 description: ""
+category: Anime, Manga & Fiction
 ---
 
 Before ringing out the year 2022 and in with 2023, I thought I may make a quick post related to a classic Science Fiction franchise and its relation to the as classic tropes of naming characters:

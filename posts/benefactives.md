@@ -4,6 +4,7 @@ date: "2022-04-11"
 slug: "benefactives"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 ~kudasai is no doubt a word that you have heard before if you have ever partaken of any Japanese media, where it is typically translated in dubs or subtitles as "please (would you this favour for me)", but Japanese has more expressions and words like these and we will be going through most of them in this post.

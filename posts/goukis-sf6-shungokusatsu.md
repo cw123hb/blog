@@ -4,6 +4,7 @@ date: "2024-05-07"
 slug: "goukis-sf6-shungokusatsu"
 tags: []
 description: ""
+category: Games
 ---
 
 Note: This is an updated and wholly rewritten version of a blog post that I wrote a week or so ago, when the trailer for Gouki/Akuma’s inclusion into the cast of SF6 was published. The former blog post was riddled with mistakes, this has been ameliorated.

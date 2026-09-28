@@ -4,6 +4,7 @@ date: "2024-05-23"
 slug: "ism-a-street-fighter-term"
 tags: []
 description: ""
+category: Games
 ---
 
 ISM in Street Fighter Alpha/Zero 3 refer to the three varieties of super gauges that the player can pick, that greatly effects the properties of their super combos. ISM itself is explained by the official guide to stem from the English suffix '-ism' "that signifies a ideology (主義)", hence it's "no matter the character, it's the combat style (ideology) that you prefer".

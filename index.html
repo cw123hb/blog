@@ -170,8 +170,9 @@ const hero = document.getElementById("hero");
 const heroText = document.getElementById("heroText");
 let postsPromise;
 
-// Posts have no tags of their own, so categories are guessed from the
-// title. It's a rough sort, not a science — just enough to browse by mood.
+// Posts carry a `category:` in their front matter (set by categorize_posts.py).
+// For a post without one, the category is guessed from the title instead.
+// It's a rough sort, not a science — just enough to browse by mood.
 const CATEGORIES = [
   ["Christmas & Yule", /xmas|x-mas|christmas|yule|santa|kurisumasu|dickensian christmas|ho ho horrible|humbug|moat bells|halloween|hallowe'en|new year/i],
   ["Translation Comparisons", /comparison|emperor'?s new clothes|nightingale|little match girl|dickensian japanese|translating poetry/i],
@@ -191,7 +192,7 @@ async function loadPosts() {
   const response = await fetch("posts.json");
   if (!response.ok) throw new Error("Could not load the post list");
   const posts = await response.json();
-  return posts.map(p => ({ ...p, category: categorize(p.title) }))
+  return posts.map(p => ({ ...p, category: p.category || categorize(p.title) }))
     .filter(p => !PAGES.includes(p.slug))
     .sort((a, b) => b.date.localeCompare(a.date));
 }

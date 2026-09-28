@@ -4,6 +4,7 @@ date: "2021-01-14"
 slug: "imperial-intermezzo"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 Whilst holding a break from the main Japanese translation comparisons, I thought it'd be interesting to take a glance at how European translators handle the title of the monarch himself.

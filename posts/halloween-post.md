@@ -4,6 +4,7 @@ date: "2021-10-31"
 slug: "halloween-post"
 tags: []
 description: ""
+category: Games
 ---
 
 This quick and short obligatory All Hallow's Even post will be looking at a few interesting speech patterns from the horror-themed beat 'em up, Vampire. The roster boasts everything from ancient mummies to insectoid hive-mind demons that along with bizarre and unique move-sets - fighting game term for sets of specific fighting techniques - have as individualistic speech patterns, we will be looking at the most outstanding of these.

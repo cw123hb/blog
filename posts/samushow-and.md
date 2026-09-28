@@ -4,6 +4,7 @@ date: "2021-08-03"
 slug: "samushow-and"
 tags: []
 description: ""
+category: Games
 ---
 
 SNK has a long and time-honoured tradition of "creative" translations and this is primarily concerned with their fighting games that were released during the nineties.

@@ -4,6 +4,7 @@ date: "2021-01-13"
 slug: "emperors-new-clothes-comparison-pt1"
 tags: []
 description: ""
+category: Translation Comparisons
 ---
 
 Chapter I - The Earliest Translations - Anno 1888 - Part I

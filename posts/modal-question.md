@@ -4,6 +4,7 @@ date: "2020-10-10"
 slug: "modal-question"
 tags: []
 description: ""
+category: Language & Speech
 ---
 
 It is a known fact of countries across the pond, either way, that "shall" preoccupies either the dusty volumes of ancient literature or living, breathing if formal parlance. Where one would be derided as pompous in the other, it is hardly noticed. I shall nevertheless try and spell out the rise of not just deontic - pertaining to duty - and futural shall and should, but also to its fall amongst World Englishes in favour of that (or those) modal verb of volition will and would, as well as the rise of going to and all its progeny.

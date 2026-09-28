@@ -4,6 +4,7 @@ date: "2021-06-27"
 slug: "quick-post-pardon-my-rudeness"
 tags: []
 description: ""
+category: Games
 ---
 
 Hearkening back to one of my earlier posts where I remarked on how some characters in Japanese comics would use an overly assertive or informal pronoun, i.e. ore, when speaking in keigo, polite speech, I encountered the element in probably one of the most egregious cases.

@@ -4,6 +4,7 @@ date: "2021-09-12"
 slug: "rugal"
 tags: []
 description: ""
+category: Games
 ---
 
 Fighting games play host to a myriad of characters, and more often than not they will have names that may sound utterly flabbergasting, some of these such as Rugal Bernstein from the many fighting games of SNK, and Rolento F. Schugerg from Capcom's Street Fighter (originally stemming from Final Fight).
