@@ -3,10 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <script>
-// Bare-domain visitors get sent to the canonical www address, keeping
-// whatever path/hash they arrived with. Belt-and-braces alongside the
-// server-side _redirects file — this covers any deploy path where that
-// file isn't honoured.
+// Keep the www address canonical while preserving the current route.
 if (location.hostname === "myriadleaves.eu") {
   location.replace("https://www.myriadleaves.eu" + location.pathname + location.search + location.hash);
 }
@@ -123,14 +120,12 @@ if (location.hostname === "myriadleaves.eu") {
   <hr>
   <main id="main"><p class="intro">Loading…</p></main>
   </div>
-  <footer><span class="sigil">朱</span><span>myriadleaves.eu 2026</span><span class="dot">·</span><a href="https://codeberg.org/myriadleaves/blog">source</a></footer>
+  <footer><span class="sigil">朱</span><span>myriadleaves.eu 2026</span><span class="dot">·</span><a href="https://github.com/cw123hb/blog">source</a></footer>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
 <script>
-// Posts live in posts/*.md. The file list comes from the Codeberg API,
-// so a post saved in the browser shows up here with no build step.
-const API = "https://codeberg.org/api/v1/repos/myriadleaves/blog/git/trees/pages?recursive=true&per_page=10000";
+// The build script lists local Markdown files in posts.json.
 const PAGES = ["about"]; // shown via the nav, not in the post list
 const main = document.getElementById("main");
 let postsPromise;
@@ -165,8 +160,9 @@ function categorize(title) {
 }
 
 async function loadPosts() {
-  const tree = await (await fetch(API)).json();
-  const files = tree.tree.map(f => f.path).filter(p => /^posts\/[^/]+\.md$/.test(p));
+  const response = await fetch("posts.json");
+  if (!response.ok) throw new Error("Could not load the post list");
+  const files = (await response.json()).filter(p => /^posts\/[^/]+\.md$/.test(p));
   const posts = await Promise.all(files.map(async path => {
     const { meta } = parse(await (await fetch(path)).text());
     const slug = path.slice(6, -3);

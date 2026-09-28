@@ -33,5 +33,5 @@ There's no schedule and no house style beyond "write it while it's still
 interesting." If you want to browse by topic rather than scroll the whole
 archive, the categories on the [home page](#/) should help.
 
-The blog runs on plain Markdown files with no build step — you're welcome to
-look under the hood at the [source](https://codeberg.org/myriadleaves/blog).
+The blog runs on plain Markdown files — you're welcome to
+look under the hood at the [source](https://github.com/cw123hb/blog).
