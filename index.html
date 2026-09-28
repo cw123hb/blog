@@ -123,24 +123,11 @@ if (location.hostname === "myriadleaves.eu") {
   <footer><span class="sigil">朱</span><span>myriadleaves.eu 2026</span><span class="dot">·</span><a href="https://github.com/cw123hb/blog">source</a></footer>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
 <script>
-// The build script lists local Markdown files in posts.json.
+// GitHub Pages regenerates this list whenever a Markdown file is committed.
 const PAGES = ["about"]; // shown via the nav, not in the post list
 const main = document.getElementById("main");
 let postsPromise;
-
-function parse(text) {
-  const m = text.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?/);
-  const meta = {};
-  if (m) {
-    for (const line of m[1].split(/\r?\n/)) {
-      const kv = line.match(/^(\w+):\s*(.*)$/);
-      if (kv) meta[kv[1]] = kv[2].replace(/^["']|["']$/g, "");
-    }
-  }
-  return { meta, body: m ? text.slice(m[0].length) : text };
-}
 
 // Posts have no tags of their own, so categories are guessed from the
 // title. It's a rough sort, not a science — just enough to browse by mood.
@@ -162,14 +149,9 @@ function categorize(title) {
 async function loadPosts() {
   const response = await fetch("posts.json");
   if (!response.ok) throw new Error("Could not load the post list");
-  const files = (await response.json()).filter(p => /^posts\/[^/]+\.md$/.test(p));
-  const posts = await Promise.all(files.map(async path => {
-    const { meta } = parse(await (await fetch(path)).text());
-    const slug = path.slice(6, -3);
-    const title = meta.title || slug;
-    return { slug, title, date: meta.date || "", category: categorize(title) };
-  }));
-  return posts.filter(p => !PAGES.includes(p.slug)).sort((a, b) => b.date.localeCompare(a.date));
+  const posts = await response.json();
+  return posts.map(p => ({ ...p, category: categorize(p.title) }))
+    .sort((a, b) => b.date.localeCompare(a.date));
 }
 
 const esc = s => s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
@@ -184,20 +166,23 @@ async function showIndex(category) {
   document.title = category ? `${category} — Myriad Leaves` : "Myriad Leaves";
   postsPromise ||= loadPosts();
   const posts = await postsPromise;
-  const shown = category ? posts.filter(p => p.category === category) : posts;
+  const listed = posts.filter(p => !PAGES.includes(p.slug));
+  const shown = category ? listed.filter(p => p.category === category) : listed;
   main.innerHTML = `<p class="intro">A gathering of a myriad of leaves — translations and thoughts, sorted by whatever I was into that week.</p>
-    ${catsBar(posts, category || "")}
+    ${catsBar(listed, category || "")}
     <ul class="posts">${shown.map(p =>
       `<li><time>${esc(p.date)}</time><a href="#/${encodeURIComponent(p.slug)}">${esc(p.title)}</a><span class="cat">${esc(p.category)}</span></li>`).join("")}</ul>`;
 }
 
 async function showPost(slug) {
-  const res = await fetch(`posts/${encodeURIComponent(slug)}.md`);
-  if (!res.ok) { main.innerHTML = `<p>Post not found. <a href="#/">Back to the archive</a>.</p>`; return; }
-  const { meta, body } = parse(await res.text());
-  document.title = `${meta.title || slug} — Myriad Leaves`;
-  main.innerHTML = `<article><h1>${esc(meta.title || slug)}</h1>
-    <div class="meta">${esc(meta.date || "")}</div>${marked.parse(body)}</article>
+  postsPromise ||= loadPosts();
+  const post = (await postsPromise).find(p => p.slug === slug);
+  if (!post) { main.innerHTML = `<p>Post not found. <a href="#/">Back to the archive</a>.</p>`; return; }
+  const res = await fetch(post.url);
+  if (!res.ok) throw new Error("Could not load the post");
+  document.title = `${post.title} — Myriad Leaves`;
+  main.innerHTML = `<article><h1>${esc(post.title)}</h1>
+    <div class="meta">${esc(post.date || "")}</div>${await res.text()}</article>
     <hr><p><a href="#/">← All posts</a></p>`;
   window.scrollTo(0, 0);
 }
