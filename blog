@@ -1,0 +1,144 @@
+#!/usr/bin/env bash
+# blog - small CLI for writing and publishing Myriad Leaves posts.
+#
+#   ./blog create    create a post from the template and open it in an editor
+#   ./blog publish   build-check, commit and push the current changes
+#   ./blog           show a menu
+#
+# The editor is micro if installed, otherwise nano.
+
+set -euo pipefail
+
+cd "$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+SITE_URL="https://www.myriadleaves.eu"
+
+die() { printf 'blog: %s\n' "$*" >&2; exit 1; }
+
+pick_editor() {
+  if command -v micro >/dev/null 2>&1; then
+    printf 'micro'
+  elif command -v nano >/dev/null 2>&1; then
+    printf 'nano'
+  elif [ -n "${EDITOR:-}" ]; then
+    printf '%s' "$EDITOR"
+  else
+    die "no editor found; install micro or nano, or set \$EDITOR"
+  fi
+}
+
+slugify() {
+  # Lowercase, spaces to hyphens, drop a trailing .md.
+  printf '%s' "${1,,}" | sed -e 's/[[:space:]]\+/-/g' -e 's/\.md$//'
+}
+
+create_post() {
+  local name target today editor
+  if [ -n "${1:-}" ]; then
+    name="$(slugify "$1")"
+  else
+    read -r -p "Post file name (slug, no .md): " name
+    name="$(slugify "$name")"
+  fi
+
+  [ -n "$name" ] || die "no file name given"
+  case "$name" in
+    */*|.*) die "file name must not contain a slash or start with a dot" ;;
+    *[!A-Za-z0-9._-]*) die "use only letters, digits, dot, underscore and hyphen" ;;
+  esac
+
+  target="posts/$name.md"
+  [ -e "$target" ] && die "$target already exists"
+
+  today="$(date +%F)"
+  sed -e "s/^date: \"YYYY-MM-DD\"/date: \"$today\"/" \
+      -e "s/^slug: \"your-post-name\"/slug: \"$name\"/" \
+      _templates/post.md > "$target"
+
+  editor="$(pick_editor)"
+  printf 'Created %s (date and slug filled in). Opening %s...\n' "$target" "$editor"
+  "$editor" "$target"
+  printf 'Saved %s. Run ./blog publish when ready.\n' "$target"
+}
+
+# Files with uncommitted changes, excluding the generated _site/ copy.
+changed_files() {
+  git status --porcelain -- ':(exclude)_site' | sed -e 's/^...//' -e 's/^"\(.*\)"$/\1/'
+}
+
+publish() {
+  local files count msg status
+  status="$(git status --porcelain -- ':(exclude)_site')"
+  if [ -z "$status" ]; then
+    printf 'Nothing to publish: no changes in the working tree (outside _site/).\n'
+    return 0
+  fi
+
+  printf 'Changes to publish:\n'
+  git status --short -- ':(exclude)_site'
+  printf '\n'
+
+  printf 'Building a local copy to check for errors...\n'
+  uv run preview.py --build-only
+
+  files="$(changed_files)"
+  count="$(printf '%s\n' "$files" | grep -c . || true)"
+
+  if [ "$count" -eq 1 ]; then
+    msg="Add $(basename "$files")"
+  else
+    read -r -p "Commit message: " msg
+    [ -n "$msg" ] || die "empty commit message"
+  fi
+
+  git add -A -- ':(exclude)_site'
+  git commit -m "$msg"
+  git push
+
+  printf '\nPublished: %s\n' "$msg"
+  printf 'GitHub Pages is rebuilding now. Wait a few minutes, then open:\n'
+  if [ "$count" -eq 1 ] && [ "${files%/*}" = "posts" ] && [ "${files##*.}" = "md" ]; then
+    local slug="${files##*/}"
+    slug="${slug%.md}"
+    printf '  %s/#/%s\n' "$SITE_URL" "$slug"
+    printf '  %s/posts/%s.html\n' "$SITE_URL" "$slug"
+  else
+    printf '  %s\n' "$SITE_URL"
+  fi
+  printf '(Hard-refresh if the old version is cached.)\n'
+}
+
+usage() {
+  cat <<'EOF'
+Usage: ./blog <command>
+
+  create [name]   Create posts/<name>.md from the template and open it in
+                  micro (or nano). The date and slug are filled in for you.
+  publish         Build-check, commit and push the current changes.
+
+Run ./blog with no command for a menu.
+EOF
+}
+
+menu() {
+  local choice
+  printf 'Myriad Leaves\n\n'
+  printf '  1) create   write a new post\n'
+  printf '  2) publish  build, commit and push\n'
+  printf '  3) quit\n\n'
+  read -r -p "Choose [1]: " choice
+  case "${choice:-1}" in
+    1|create) create_post ;;
+    2|publish) publish ;;
+    3|quit|q) exit 0 ;;
+    *) die "unknown choice: $choice" ;;
+  esac
+}
+
+case "${1:-}" in
+  create|new) shift; create_post "${1:-}" ;;
+  publish|push) shift; publish ;;
+  -h|--help|help) usage ;;
+  "") [ -t 0 ] && menu || usage ;;
+  *) usage >&2; exit 1 ;;
+esac

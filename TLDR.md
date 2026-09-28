@@ -32,6 +32,11 @@ keeps posts as bare fragments (see below). `_site/` is gitignored.
   - `categorize_posts.py` — uses the Jev CLI to classify posts into the real
     categories. `--write-frontmatter` adds/updates `category:`; `--check` is an
     offline "every post has a category" gate; writes `category_report.json`.
+  - `blog` — CLI for the post workflow. `./blog create <name>` copies the
+    template into `posts/<name>.md`, fills in the date and slug, and opens it in
+    `micro` (or `nano`). `./blog publish` build-checks with
+    `preview.py --build-only`, commits with the message `Add <filename>`, and
+    pushes. It never commits `_site/`.
 
 ## Adding a new post
 

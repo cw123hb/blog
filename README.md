@@ -22,6 +22,20 @@ instead:
 The script writes a throwaway copy of the built site into `_site/` (already
 gitignored) and serves it. `uv run preview.py --build-only` only builds it.
 
+## Write and publish from the command line
+
+`./blog` is a small helper for the post workflow.
+
+1. `./blog create my-post-name` copies `_templates/post.md` to
+   `posts/my-post-name.md`, fills in today's date and the slug, and opens it in
+   `micro` (or `nano`). Run `./blog create` with no name to be prompted.
+2. Edit the title, description and body, then save the file.
+3. `./blog publish` builds a local copy to check for errors, commits the change
+   with the message `Add my-post-name.md`, and pushes to `main`.
+
+`./blog` with no command shows a menu. GitHub Pages takes a few minutes to
+rebuild after a push.
+
 ## Write or edit a post in GitHub
 
 1. Open the `posts` folder in this repository.
