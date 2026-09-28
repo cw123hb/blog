@@ -50,9 +50,3 @@ On the topic of His Majesty's body, when the Swindler's proclaim the wish to gar
 First and foremost, I apologise if the wording gets clustered or verbose, these Swindlers indulge themselves in prolix politeness. Secondly, 御聖體 is usually read as and rendered in modern Japanese as 聖体 (seitai, "the holy body"), here an Imperial honorific for "the body of the Emperor" where it is here given an honorific and read differently as karada ("body"), thus pronounced okarada ("the honourable body"), but written oseitai ("the honourable holy imperial body"); thus, the Swindlers use the utmost decorous term to refer to the King's body, but garb it in a much less respectful - nevertheless polite - pronunciation for less nobility than that of the Monarch of the nation that they are currently working for.
 
 Lastly, the terms they use for the royal garbs: hakama, meshi and haori are - apart from meshi, which can also just refer to western clothes - terms used for traditional Japanese articles of clothing. The hakama are the long and baggy trousers of ancient court-wear and the haori is the formal jacket worn over the kimono. Thus he is understood by the native audience of the story to be wearing traditional robes and the finest of them as evident by the prefixation of the honorific o- on the words themselves. Meshi is also a courteous word for the food, garbs and articles that nobility own derived ultimately from the reverent multi-versatile verb mesu (召す, "the gentleman/madam wears/eats/drinks/sends for"), also appearing in most translations of the title of the story as omeshimono (御召物, "(the nobleman's) robes", lit. "honourable things to be worn"), though Takahashi opts for Ousama no shinishou (王様の新衣裳, "The King's New Clothes"), using the generic ishou (衣裳, "clothes"), rather than the honorific term.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

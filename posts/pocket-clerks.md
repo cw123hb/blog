@@ -92,9 +92,3 @@ Sono hoka ni watashidomo de Nani ka ochikara ni nareru koto wa?
 Nearly the same sentences, but! There are two decisive differences! With one being even more pivotal than the other, namely 1) A pointless addition of nanika ("anything else") to Generation II's message and 2) That Generation II couldn't bother with using watakushi in watakushidomo ("we humble lot") and instead used watashidomo, that is "watashi", a pronoun normally okay in regular politeness, but not in this case of the Clash of the Clerks, where they are supposed to doing their damnest in getting the Player's beneficience. Alas, Generation II Clerk slips and Generation I Clerk stands the supreme victor of decorous customer-relations.
 
 I may very well have wasted your time trying to enliven this article, but surely there must be an underground world of Fight Club in terms of out-polite'ing the other clerk and standing as the champion of ousting the other.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

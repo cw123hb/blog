@@ -34,9 +34,3 @@ Most interestingly Elisa becomes Tamaeda-hime, whose name literally breaks down 
 The name is also constructed akin to the name of actual nobleladies both fictional and real, whereof the former has the selenian Kaguya-hime, for example. The word hime does not necessarily refer to the daughter of a monarch, but can also refer to the daughter of nobility.
 
 The word itself is ultimately from a compound meaning "daughter of the sun" (Old Japanese "pi no me"), appearing as a common part of goddess names in Shintoism, and probably referencing its ancient usage as a title of nobility.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

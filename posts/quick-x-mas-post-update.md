@@ -14,9 +14,3 @@ I am bringing a much needed update as regards the posts, and when you can expect
 Stay safe, everyone.
 
 ご健康に
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

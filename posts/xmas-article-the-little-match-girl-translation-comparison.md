@@ -82,9 +82,3 @@ CONCLUSION
 Overall the translations showcased here show a transition not only orthographically with katakana being ditched in favour of hiragana as well as the characterisation of the girl changing from speaking in a stilted archaic fashion to polite to childishly informal. Likewise the terms evolve from kanji-heavy to straight up phonetic renderings of either loan-words or pre-existing ones.
 
 The rendering of her plea into a more informal register helps communicating her plight rather than having her speak in a stilted and extremely archaic manner that doesn't show her as this genuinely destitute little girl.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

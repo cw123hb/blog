@@ -20,9 +20,3 @@ Ootuski Sabuoru (大貫三郎, 1916-2003) uses the informal 2nd person pronomina
 オールド・スポート　男は酒・賭事などの道楽を持っているのでこう呼ぶ。従って女には用いない。非常な親しみをしめす。 Old Sport - Men who gamble and drink as pastimes call each other this. It cannot be used for women. It displays an extreme degree of familiarity.
 
 Nozaki Takashi (野崎孝, 1917-1995) uses 親友 (shin'yuu, "close friend, buddy, bosom friend, crony, chum", lit. "intimate friend"), which certainly reflexes the wide range of connotations that old sport has, and it does imply a closer level of intimacy than that of 旧友.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

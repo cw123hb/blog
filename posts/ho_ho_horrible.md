@@ -10,9 +10,3 @@ category: Anime, Manga & Fiction
 Meet Ak, the Master Woodsman of the World, and Supreme Immortal of Oz, the towering oldster in the background of the picture. This mechanical entity, looking like if Warhammer got hold of Father Christmas, stems from the 1996 animé adaptation of L. Frank Baum’s book “The Life & Adventures of Santa Claus”, wherein we follow the young Claus become Santa Claus. Ak, a “supreme immortal”, rules the forests of the world and appears in the original books as a towering Odin of sorts, whereas the anime portrays him as a crude cyborg giant that farts around leaving trails of smog behind, stemming from pipe-like protrusions on his back, and is occasionally escorted by his demented talking staff-imp, who frequently talks about Ak’s お成り (o-nari, "honourable becoming"),  whenever said monster makes his presence known.
 
 儂達 as a plural is uncommon compared to 儂等, but it appears often in children’s media. His usage of 我が愛しい子等 smacks of archaic speech, which suits him considering his status as essentially Father Christmas Supreme.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

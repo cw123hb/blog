@@ -174,9 +174,3 @@ Is it correspondent in semantics to the Western notion of the Majestic Plural? T
 It ought to be noticed that the pronominal uses the traditional Japanese genitive of わが for 我, but reads 輩 as はい corresponding to its Sino-Japanese reading (“on-yomi”), where its semantic-reading (“kun-yomi”)is やから, here a formal word meaning “fellow” or “person.”
 
 1https://www.nikkansan.com/column/post/1000001395
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

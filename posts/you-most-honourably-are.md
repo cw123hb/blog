@@ -78,9 +78,3 @@ Technically not a verb referring to animate states of being, such as is the case
 Here the main character, an energetic if eager knight-in-training, Spark, is in the audience of the king of his nation, thus he addresses himself and His Majesty in adequate terms. "Gozaimasu" here works as a decorous if humble way of saying "I am", but it can also mean "you are" or "it is" depending on context since it is literally the honorific version of most verbs meaning "to be."
 
 As mentioned I shall post more upon this topic later.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

@@ -20,9 +20,3 @@ This will be illuminated in the comparisons as we go through the three individua
 Jacob Marley:
 
 妖怪（スペウタア）
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

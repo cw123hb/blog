@@ -60,9 +60,3 @@ Nakajima Kotou is also no stranger to this blog when it comes to covering his wo
 Here the stork no longer speaks any specific ancient language, but merely endlessly gibbers the words that his mother had taught him. He is no longer wandering about, but is clearly "loitering", where the kanji 俳徊 (haikai, lit. loiter/roam/saunter) is given the furigana urotsui (to prowl, to wander about aimlessly). "Hither and thither" or alternatively "to and fro," translates こちらどちら (kochira dochira, lit. "here and where") and is used to denote aimless movement, here strengthening the stork's seemingly brainless meandering and babbling.
 
 Thus, Ueda's is the oldest and conveys the most, if adding something of his own, of the original Andersen text, and Nakajima simplifies things and removes entire details and renders the stork a perplexed mess of macrology and prowling.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

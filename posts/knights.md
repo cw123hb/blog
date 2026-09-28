@@ -22,9 +22,3 @@ Here he uses 我 (ware), a first person pronoun of Old Japanese stock, for theat
 Elsewhere he uses regular keigo, albeit with archaic pronominals such as おぬし (onushi, "thou"), そなた (sonata, "thou") and 貴公 (kikou, lit. "esteemed duke") the latter being a more formal and elevated mode of second person reference. One extremely favoured by the knights of From's Souls series as well as countless other fantasy themed games and media. "Onushi" and "sonata" are both semi-informal and still imply an air of respect from the speaker towards their audience, though "onushi" could be regarded as the most informal, akin to a modern お前 (omae).
 
 It should be noted that knights in English, too, stereotypically speak some quasi variety of Shakespearean or Chaucerian English – paralleling the affected archaic tone in the Japanese fiction.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

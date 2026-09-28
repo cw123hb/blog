@@ -64,9 +64,3 @@ Kusuyama: 「じゃあおらも、からすをやいてもらいましょうや�
 Both versions of Hans use polite language whereas  Kusuyama's continues to use the informal ora and Mitaku's is thorough in using boku, a far more polite if still informal first person pronoun, but still more fitting when meeting a royal. Hans, however, as proven throughout the story is quite something of his own, and Kusuyama even adds ya, a dialectal emphatic particle at the end, to add the colloquial nature of Hans' speech even when attempting at being polite. Furthermore, he uses moraimashou ("I'd like to have"), where the proper humble form would be itadakimashou ("I humbly would like to have), when requesting to have the crow roasted.
 
 Nevertheless, the Princess, who uses decorous if imperious language in both versions, grants him her hand in marriage after he impresses her with not just a crow casserole, but also his manner of serving it in a clog (his namesake) and spiced with a generous sprinkle of dirt. So wholly unlike Hans' two rigid brothers that the Princess prefer him over them.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

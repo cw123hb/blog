@@ -24,9 +24,3 @@ Is impactful simply because the one key word, the subject of the sentence is wri
 This is not just beholden to pronominal nouns, but in general switching from ideographic to phonetic or vice versa helps an author underline a word for its significance.
 
 For example, in the car-game series Grand Turismo, the word for car - usually written in kanji as 車, pronounced kuruma, can sometimes refer to any wheeled vehicle regardless of techonological or temporal modernity - is spelled out in katakana as クルマ, rendering distinct and thus standing out. Furthermore, this isolates it from its kanji counterparts other meanings. Katakana has furthermore associations with coolness, fashion or being "right-in-the-eyes." Converse hiragana is seens as cute, traditional or softer. Thus in hiragana くるま would serve the opposite purpose, along with the said associations, its writing would make it blend in with the other hiragana words in the sentence since katakana is otherwise "less" common than hiragana - since hiragana is used to write syntactical and grammatical components.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

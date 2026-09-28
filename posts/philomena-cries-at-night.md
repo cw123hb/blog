@@ -30,9 +30,3 @@ The bird is not purely a harbinger of death as much as a manner of pscyhopomp - 
 Spring comes and goes, being the season of revival and new life - freeing plants and animals from the throttle of Winter. Hence, the Uguisu of Japanese culture is a herald of Spring and of new life,  The deathly apparitions that haunt the Emperor during the end of the story are referred to in Japanese translation as shinigami, the equivalent of the grim-reaper, very much cementing how the Uguisu saves and soothes the Emperor during this moribund-induced nocturnal visitation.
 
 Proving that even man-made imitations of nature fail to capture to the truly transcendent life of nature.  
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

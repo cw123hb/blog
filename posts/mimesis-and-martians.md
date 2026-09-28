@@ -24,9 +24,3 @@ It came to me that I was upon this dark common, helpless, unprotected, and alone
 (Chapter 5, Book 1)
 
 This variant is typically called a tricolon - where it intensifies in three steps, reaching the ultimate horror of solitude.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

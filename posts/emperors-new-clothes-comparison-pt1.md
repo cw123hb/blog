@@ -92,9 +92,3 @@ Him using 余, but pronounced as ore, shows the elderly minister as a member of 
 He uses roumen sagete which I was a bit mystified as to what it meant, literally "hanging (one's) old face" as well as "removing the old face," which admittedly sound cryptic, it may be related to the saying dono tsura sagete (どの面さげて, "to have the nerve (to do something)", lit. "hanging with one's face"), or a pun on him feeling ashamed as such, but I came with as close as a guess I could to the meaning of this expression.
 
 We shall in the next part look at the Swindlers themselves and how the key scenes are translated.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

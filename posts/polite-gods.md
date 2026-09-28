@@ -38,9 +38,3 @@ Her status as stellar and ancient nobility prompts her to speak in such a old fa
 She, even when admonishing other gods or mortals for their immoral conduct keeps her courteous tone:
 
 (...)
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

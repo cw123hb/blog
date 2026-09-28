@@ -30,9 +30,3 @@ Uketamawaru (承る, "to humbly acquiesce, to humbly hear")
 This five syllable or kana long humble utterance is amongst the longest in the Japanese language and its kanji is used in words such as 承知 (shouchi, "knowledge, acceptance") thus underlining the meaning of the word's sense of humble acquiescence - i.e. accepting despite personally or mentally not wanting to, especially when talking to someone that is your superior.
 
 ADD MORE HISTORICAL LINGUISTIC CONTEXT FROM THE NORI
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

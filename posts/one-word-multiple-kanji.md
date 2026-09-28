@@ -50,9 +50,3 @@ Miru (みる) – “to see”
 The very last one in miru is quite rare, but nevertheless, you may encounter it in archaic literature. Suffice to say, these nuances are largely contextual in spoken language, but in the written language the kanji can clarify, what meaning is meant.
 
 In most cases they may just be written with a more commonly found kanji, regardless of these nuances, and instead the intended meaning is to be guaged from context.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

@@ -84,9 +84,3 @@ I have painstakingly transcribed most if not all of Raoh's lines, which amount t
 His, by far, most used is ore along with his own name and title. Other terms covered in the diagram are references to himself as Hokuto no Choukei ("Eldest Brother of the North Star"), which also appear during his moments of boastfulness, though not with the definite prefix, kono.
 
 His plural pronouns ore-tachi and warera are used contrasting, that is the former during his childhood and the latter during his last moments against Kenshiro. Ore-tachi is the default plural form of ore and is used when he as a child refers to himself and his little brother Toki as they swear a personal commitment to train their utmost in martial arts, and warera, an extremely formal and also here archaic plural pronominal, literally ware plus the plural suffix ra, thus giving hims speech what equates to Shakespearean gravitas in English.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

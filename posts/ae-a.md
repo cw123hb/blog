@@ -24,9 +24,3 @@ The verb "er" is strictly speaking derived from the third person singular rather
 The definite article is of much older heritage. Whereas most Germanic languages still have retained the pre-positioned definite article, i.e. German "der/die/das", the Scandinavian languages have the definite ending, based off the post-positioning of the article thæn. In Swedish there is double definite forms versus the "singular" definiteness of Danish.
 
 Taking care of the rest: "Å" represents a preposition, "å" as in "on" or "upon" and "å" means stream or brooklet. "Ø" means "island. "U" is a shortened form of "ud" meaning "out." "I" is the Standard Danish second person plural, hence my choice for translating it as "ye" for the sake of clarity even if it sounds archaic.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

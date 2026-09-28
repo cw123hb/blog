@@ -36,9 +36,3 @@ Indeed, a most loyal sentiment, but alas, whilst fighting said simian insurrecti
 His moribund exclamation is a wah! (わ…！！！, wa...!!!), perfectly encapsulating the finite lifespan of a villain in a Dragon Ball story-arc.
 
 Rest thou in peace, oh reptilian prince. May winged imps guide thee to an eternal place in the grand celestial choir of fictional Yes-men, amongst the august company of characters such as Mas Amedda, grand vizier of Emperor Palpatine of Star Wars fame, Grima Worm-tongue, fragile royal adviser of King Theoden of Rohan and Saruman the Istari, and numerous other erroneously-perceived-as-oleaginous helpers of figures of power.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

@@ -116,9 +116,3 @@ Gouki as a character is pretty much the warrior-poet despite his spartan exterio
 Capcom has otherwise done a superb job at conveying his personality, but have turned the four line poem into less of his personal credo and more a menacing oath for the opposing player to swear by.
 
 Matching the voice with the mouth flap, and owing to the concise nature of Japanese versus that of English does present a reason why some of these lines are localised as they are, but overall this rendition misses the mark of some of them, whilst keeping his archaic diction intact.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

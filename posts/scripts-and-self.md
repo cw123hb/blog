@@ -96,9 +96,3 @@ In hiragana - わし
 The elderly Jedi-mater Yoda, makes a guest appearance in the Japanese fighting game Soul Caibur IV, hence the original Japanese version features dialogue in the language. As seen above the Grandmaster uses わし (washi) in the hiragana form, befitting his venerable status. His language is otherwise ordinary Hiroshima dialect, unlike the Elizabethan inverted speech of the original.
 
 Coming up next time - We go through additional pronouns and see how they differ in terms of how they are written.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

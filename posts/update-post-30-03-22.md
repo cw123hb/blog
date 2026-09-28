@@ -24,9 +24,3 @@ Stay safe, everyone.
 Alex
 
 ご無事でありますように、皆様
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

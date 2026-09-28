@@ -104,9 +104,3 @@ If Dhalsim was more polite in his manner of teaching his opponents the error of 
 Bibliography:
 
 Matsui Yuuichi (ed.) et al, Gamest Mook - X-Men vs Street Fighter - Shinseisha Capcom, 30. 12. 1996. Japan.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

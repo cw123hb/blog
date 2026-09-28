@@ -58,9 +58,3 @@ As seen here Uesugi Kenshin, based off the same historical Japanese warlord, fro
 The pronoun is spelled with the kanji 貴公, literally "honourable duke," fitting in with other pronouns such as kikun (貴君, "honourable prince"), though this arose in part from confusing the pronunciation of kihou (貴方), an older pronunciation for anata. Nevertheless it belongs to the category of polite pronouns that use quasi-noble appellation in terms of equal to higher respect. The words kei (卿, "lord") and kimi (君, "prince") also belong to this category, though the latter has become a regular informal second person pronoun and the former an archaic formal second person pronoun.
 
 Thus, we came from the imperial and royal courts of China and Europe to those of Japan and then straight back to video games- which is what I cover the most here, though I will perhaps be delving more into history in the future.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

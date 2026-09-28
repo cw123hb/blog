@@ -34,9 +34,3 @@ They also use wareware-domo (我々ども) in the very beginning of the story, w
 When these Swindlers are ennobled by His Majesty they are in the original called Vævejunker ("Sartorial Junker") in Watanabe's version given the grand title of Teikoku Choutei Orimonoshi (帝國朝廷織物師, "The Emperor’s Weaving Master for the Imperial Court") and Takahashi merely states: kunshou wo tamawatte kizoku  (勲賞を賜はって貴族, "awarded them the title of nobility"), thus skipping the whole process of translating their new title of office - though he and another translator, as we shall later see, are the only ones to omit the name of the office.
 
 Next, we shall look at key scenes.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

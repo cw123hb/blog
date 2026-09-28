@@ -30,9 +30,3 @@ Other ways of saying "thank you":
 You can also create constructions, combining nouns and verbs such as suru (する, "to do") or itasu (致す, "to humbly do"), these are commonly paired with words such as 感謝 (kansha, "gratitude"). This one in particular is a bit more formal.
 
 Then there's verbose stuff like 勿体ない御言葉に甘えて御座います (Mottainai o-kotoba ni amaete gozaimasu, "I am most unworthy of Your magnanimous words, o lord/madam"), that you really only will either encounter in historical fiction, fantasy or extremely formlaic letters from companies.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

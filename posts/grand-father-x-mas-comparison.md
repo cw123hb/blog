@@ -50,9 +50,3 @@ The jolly Nick uses washi, ja as well as a rare plural form of kimi, the informa
 In case you were curious about how Santa Claus looks when he is a Frost Gigas, have the classic Super Famicom sprite of him:
 
 Who, as well, uses the Hiroshima dialect, albeit a bit more imperative in his ordering the player to "begone (立ち去れ, tachisare)" or "sod off," as old codgers are want to say in our day.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

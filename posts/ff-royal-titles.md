@@ -18,9 +18,3 @@ The name in the Japanese original is:
 ガーネット・ティル・アレクサンドロス17世 Gânetto Tiru Arekusandorosu Juunana-sei "Garnet Til Alexandros the 17th"
 
 ティル (tiru) also fits with how the Danish is close in pronunciation to the English word "till", albeit with a lighter "i" sound.    
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

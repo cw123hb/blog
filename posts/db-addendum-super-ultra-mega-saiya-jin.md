@@ -74,9 +74,3 @@ And here is Toriyama's line for good measure and comparison:
 "Whatever you said sounded rather neat... Something super something that surpassed something? Whatever that is..." (volume 40, Toriyama)
 
 Which doesn't quite hit the same sarcasm and ridiculing of the superlative naming scheme with the "super" element, though Lysmand's adds a new scathing level to it.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

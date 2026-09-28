@@ -16,9 +16,3 @@ This has been infamously translated as "retard" by Stephen Simmons as the offici
 The term is more ordinarily spelled 薄鈍 literally meaning "diluted (and) foolish", but translating to "simpleton/halfwit/fool."
 
 Whether not any newer releases of the series have changed this is something I do not know.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

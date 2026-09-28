@@ -144,9 +144,3 @@ Line 3:
 [http://chugokugo-script.net/kanshi/heishakou.html](http://chugokugo-script.net/kanshi/heishakou.html)
 
 [https://100tangpoems.wordpress.com/2020/01/19/the-ballad-of-war-carts-%E5%85%B5%E8%BB%8A%E8%A1%8C-du-fu/](https://100tangpoems.wordpress.com/2020/01/19/the-ballad-of-war-carts-%E5%85%B5%E8%BB%8A%E8%A1%8C-du-fu/)
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

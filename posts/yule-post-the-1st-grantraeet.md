@@ -76,9 +76,3 @@ Sono toki tsubame ga waki kara, "Kono hou nara watashi ga shitteru yo, watashi m
 The sparrow-turned-swallow is once more chirpy and less courteous than some of their literary successors, though they still use watashi, the gender-neutral pronoun which here when coupled with informal speech could suggest a female speaker since there is also an absence of polite speech outside of o-hanashi, an honorific version of hanashi (speech/story). There is an expansion of the decorations of the tree, though overall only the cakes remain and the apples are overall gone. Furthermore there is some playful usage of furigana - ruby text used to indicate the reading of words, such as more uncommon ones - where here words like mukau ("nearby") uses the kanji 彼方 meaning "beyond/across/yonder", omocha ("toy\[s\]") uses the kanji 玩弄品 ("playthings", lit. "toy articles", which a counter-word indicating items), heya ("room") is using 室 ("room", though more general than just "living room", can also be "chamber"), where the kanji normally used for these three words would, in respective order of mentioning, 向, 玩具 and 部屋.
 
 All in all the prolix bird, be it a sparrow or a swallow, provides the tantalising description that emboldens the fir-tree to his fatal living-room sojourn.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

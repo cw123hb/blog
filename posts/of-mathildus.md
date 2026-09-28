@@ -46,9 +46,3 @@ Alphonsus Petrus Johannes Mathildus Maria van der Stee (“Fons”, 1928 – 199
 Carl Frederik Vilhelm Mathildus Rosenberg (1829 – 1885) – Danish literature historian.
 
 Warnardus Cornelis Mathildus Begram (1823 – 1890) – Dutch politician.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

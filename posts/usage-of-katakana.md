@@ -62,9 +62,3 @@ Bibliography:
 Street Fighter Zero 2 (ストリートファイターZERO2). Multiplatform. Capcom. 1996. Japan.
 
 Robertson, Wes. Writing another's tongue -  Orthographic Representations of Non-Fluency in Japanese Manga from pp. 161 - 178, in Manga Vision - Cultural and Communcative Perspectives. Monash University Publishing. 2016. Australia.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

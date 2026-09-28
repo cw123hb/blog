@@ -98,9 +98,3 @@ Indeed. Yamanaka's translation is more of an abridged adaptation for children, r
 Yamamoto (1948): 下司な男 Gesu na otoko "Churlish man"
 
 Whereas the other Marleys at least were ominous and archaic in their diction, this one outright calls Scrooge a git - indeed, 下司 can also mean a "sleazebag, boor, churl" and thus "git" fits the bill, as well. It anciently referred to anyone of a lower, menial rank as compared to the upper-class - such as Marley being a member of the higher echelons of business society and therefore - his ghostly status notwithstanding - entitled to berate and call his friend, a low-life git. Harsh and snobbish, perhaps, but as a upper-class twit, he is apparently his right.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

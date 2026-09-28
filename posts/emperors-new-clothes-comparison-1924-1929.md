@@ -142,9 +142,3 @@ Final: 「やあ、あのいと、なんに着ていないや。」 "Yaa, anoito
 Mitaku: 『陛下は何も着てゐないぢゃないか。』 "Heika wa nani mo kite nai janai ka" "He's not wearing anything at all, is he?"
 
 Thus all three versions rendered in varying degrees of colloquial speech has the child marking the Emperor's obvious falling for the sartorial frauds.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

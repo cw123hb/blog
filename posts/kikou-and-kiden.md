@@ -16,9 +16,3 @@ The pronoun is spelled with the kanji 貴公, literally "honourable duke", thoug
 The title was used in Japan as a lordly honorific with a loose sense of the addressee having an actual position of power or have had it in the past thus earning them the respect.
 
 Honourable Hall- "Kiden"
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

@@ -72,9 +72,3 @@ Two things of note, his usage of "ke" is sounds akin creepy laughter and the Jap
 The English localisation makes it sound as if Gen'an is asking the foe to join in a strange manner of dance.
 
 Thus, we see SNK's brand of weird localisation is as strong as ever. I will perhaps cover more of their quotes in the future.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

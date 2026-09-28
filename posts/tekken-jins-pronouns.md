@@ -28,9 +28,3 @@ When Heihachi, his paternal grandfather, questions about his reason for seeking 
 Boku is used here by him prior to his training with Mishima and anta underlines a less polite variation of anata, showing his frustration towards his paternal grandfather – having not shown much hospitality when Jin has barely survived against from the monster, and his mother sacrificed herself to blow it up.
 
 Elsewhere boku resurfaces when he talks to an old friend of his. Ore is otherwise his main go to pronoun in terms of projecting the more mature/hardened persona of his.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

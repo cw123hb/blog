@@ -32,9 +32,3 @@ In the former quote his speech is peppered with keigo, i.e. polite register, exp
 He completely drops this and switches over to the medieval mode of the latter quote with 余 (yo, “I, the lord/lady”) here rendered with the Royal We to give the flavour of his speech, along with the second person そなた (sonata, “thou”) and お前 (omae), where the former is used towards Yoda, Kylo Ren and Rei – but お前 is used exclusively towards Vader and Luke showing a lessened respect. そなた was historically a fashionable way of referring to your social lesser or equals back in medieval Japan – equivalent to the modern 君, though modern authors in Japan tend to use it as an archaic あなた (anata), the standard polite pronominal. Both are etymologically connected to a sense of “that (person) in the direction”, but usage-wise they differed wildly in formality – Amidala uses this in her regal guise in the official dub of Episode I, coupled with keigo.
 
 Owing to the nature of the Lego games, Palpatine acts at times silly in the IX episode especially referring to himself, when talking to Rey, as おじいちゃん (ojiichan, “\[your\] gramps”), presumably because cloning technology has already deteriorated what his old age had in way of brains – and his social graces may have waned from his chancellor days, now being the ripe old age of 117 years.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

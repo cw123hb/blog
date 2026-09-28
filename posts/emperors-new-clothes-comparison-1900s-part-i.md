@@ -150,9 +150,3 @@ Rather straightforward, do not that wa is not the same as the emphatic particle 
 "What! The King is totally not wearing anything"
 
 A bit more forceful, but the point is still communicated across, albeit reduced in terms of Kimura abridging and adapting the story to suit his own version.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

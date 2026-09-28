@@ -46,9 +46,3 @@ From's video game director Hidetaka Miyazaki has also admitted that he is a huge
 Having the help from one of the great fantasy writers of modern times, George R. R. Martin, also helped helped with creating the high fantasy, if also Gothic, framework for the game's setting, even if Miyazaki's role playing games to begin with heavily featured Gothic fantasy elements.
 
 EDIT: A friend of mine mentioned this article to me, wherein it is very much confirmed that all of the major characters have their names begin with the same initial letters as the initials of George R. R. Martin's name, hence Godrick, Radagon, Radahn, Miqeula and so on.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

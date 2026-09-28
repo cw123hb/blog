@@ -30,9 +30,3 @@ HAL 9000 from 2001: A Space Odyssey, is all to human in his programming, having 
 The Architect is patronising, benevolently bending the rule of not being able to hurt humans to then merely turning them into living batteries – thus serving his service to be humanity’s servant if also executioner. HAL 9000 on the other hand starts benevolent, but turns paranoid after the astronauts’ plan on turning him off. Two extremes. One is as non-human as possible, the other as close to us as possible – hence acting like anyone would when in mortal danger. Its narrative is the “us versus them”, be they aliens or computers.
 
 During the course of Science Fiction’s development, you could ask yourself, when did or did the transition of portraying AI go from purely logical monsters to emphatic emotional beings ever occur, or were they already present in fiction?
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

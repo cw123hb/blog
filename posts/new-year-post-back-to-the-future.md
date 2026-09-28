@@ -42,9 +42,3 @@ Dub and subtitles: 次元転位装置 (Jigen ten’i souchi, “Dimensional Tran
 Both describe aptly what the device does, making time travel possible, but as for in what way it achieves this is where the translations differ - the former implies that the Flux Capacitor warps the dimensions in order for the car to travel through time, whereas the latter literally transcends time to warp the car to its chosen temporal destination.
 
 You could say that "flux" as in "be in flux," to be in fluid motion, would imply that the machine allows the car to use the capacitor to reign in the energy of fluctuating temporal flows, but this is perhaps overthinking what amounts to a mystical bit of science fiction technology.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

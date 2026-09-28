@@ -48,9 +48,3 @@ It is later revealed that his real idenitity is that of Malekith, a lupine knigh
 His speech patterns are genuinely archaic, resorting to ware (我), an first person pronominal of Old Japanese stock, and onusihi (お主), an informal old-fashioned pronoun that isn't too disrespectful either. Overall his tone is that of an ancient being.
 
 (QUOTE GOES HERE, PERHAPS INCLUDE ONES WHERE HE REFERS TO QUEEN MARIKA HERSELF TO SHOW THE HONORIFICS THAT HE USES)
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

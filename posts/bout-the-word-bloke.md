@@ -16,9 +16,3 @@ The feminine form "blokess" only appears in the early 2000s within New Zealand E
 Ultimately in 1918 it also became a generic reflexive pronoun, "oneself".
 
 This mirrors the way that many other underworld slang terms have since joined the daily vocabulary of World Englishes, whose origins tend to be either forgotten or wholly obscured due to daily usage.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

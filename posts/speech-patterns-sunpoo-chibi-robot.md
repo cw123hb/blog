@@ -30,9 +30,3 @@ Mitsu o mottekoi! Hana no mitsu o!! Sassato to motte konee to tada ja okanee zo!
 “Bring me some honey! Flower honey! Just shut the hell up and bringme now! All flower honey ya’ve got,! Pour it over my body!! Even, if yer ain’t able to bloody do so!”
 
 As evident his calmer self uses 僕 (boku), or more often ぼく, its hiragana variant that conveys a softer impression of the pronominal noun that is used by younger speakers and conveys a sense of childishness, fitting for teddy bear. He also uses あなた方 (anata-gata), the most formal way of essentially expressing “you guys.” He ends all of his sentences with ぷー (pû, “pooh”), as an eccentric copula that may very well be a reference to another fictional teddy bear of the same name. Compare this to オレ (ore), an assertive and highly male way of speaking of his raging self, coupled with his ねぇ (nee), the rougher negation compared to the usual ない that also appears in his calmer self’s lines. Here he otherwise uses regular Japanese copula such as だ (da), rather than だぷー (dapû).
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

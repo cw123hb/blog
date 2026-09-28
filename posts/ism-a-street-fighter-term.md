@@ -14,9 +14,3 @@ X-ISM - Derived from 'Super Street Fighter 2 X', and is subtitled as シンプ�
 Z-ISM - Derived from the Zero moniker of the Alpha series in Japan. Three levels of super combos. Referred to as スタンダード (standard). This is changed in the western releases to "A-ISM", i.e. "Alpha-ism".
 
 V-ISM - Derived from "variation", and it is also subtitled as such in the guide as バリエーション (variation), essentially custom combos, where the guage's level determines how long your combo's duration is.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

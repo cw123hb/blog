@@ -62,9 +62,3 @@ The chaotic spirit also has habit of dishing out imperatives in the formal mode 
 The imperative being お行きなさい (oyukinasai), with nasai imperatives (derived from nasaru) being polite if bossy, and the added o gives it and even stuffier tone to it. He expects you to perform your duty as a Tarnished One – like some imperious if incorporeal headmaster, that has the habit of possessing the bodies of old knackered blokes.
 
 Overall, Shabriri seems gloatingly polite towards the player, whereas Yura in contrast is amiable if gruff.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

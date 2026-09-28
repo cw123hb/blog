@@ -14,9 +14,3 @@ Yukidaruma (雪達磨, lit. "snow Bodhidharma") - Literally referring to one of 
 Yukiningyou (雪人形, lit. "snow doll") - Another term albeit not see as often.
 
 Sunooman (スノーマン, "snowman") - Literally from the English word, one that is popular, and it is also used for the official rendering of the British animated film featuring the flying member of this sapient species of water molecules.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

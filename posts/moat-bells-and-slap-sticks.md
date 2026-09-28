@@ -24,9 +24,3 @@ Ito and Wilson's translation renders this with "moat-bell" and "meat-ball", wher
 Unfortunately, this completely misses the point with the joke being a pun on slapstick comedy and instead merely convey's Kangestsu's facetious ridicule of him.
 
 Other translations entirely forego this and either explain the literal word or annotate it, which certainly is a workable solution even though it breaks the flow of the story's comedy with the intrusion of an intertextual comment.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

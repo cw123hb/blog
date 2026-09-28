@@ -42,9 +42,3 @@ Note that he uses the hiragana おれ rather than 俺, which is the kanji-form o
 The angular nature of the script and the fact that katakana is sometimes used to convey robotic speech adds to the creepy tone of her voice, being a being composed purely of sentient flesh-eating bee-demons. I have rendered this in all-caps to illustrate the effect in English, which in the official translation is nigh-identical in meaning, but is written in regular casing.
 
 This concludes a short sampling of the weird and wonderful diction of the fighters in the game.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

@@ -28,9 +28,3 @@ The Japanese news media reporting on the late monarch's passing uses mostly the 
 Vogue's Japanese sister-site uses 崩御 as well, as in a translation from the original English article.
 
 BBC News Japan is one of the news media that uses shikyo (死去) as well as naku-naru (亡くなる), when reporting on not just the matter, but also translating the official royal news regarding Elizabeth II's passing.  
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

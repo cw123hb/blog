@@ -46,9 +46,3 @@ And,
 As well as him also referring to his mother with the honorific kaa-sama (母さま), really renders him an a times utterly despairing character, whose lot in life is greatly rendered fortunate by the player themself showing the mercy and attention to Boc by allowing him to become their personal seamer, whereby the player then can modify their armour.
 
 His final fate however of wanting to become beautiful is left for the player to decide.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

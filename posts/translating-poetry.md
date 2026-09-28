@@ -40,9 +40,3 @@ The poem is written in iambic meter, the first and third lines of each regular s
 That is, it's written in the signature style of Shakespeare and his compeers, but written in a time hundreds of years after the Bard's death and in a very archaic style, conciously evoking an ancient language fit for its narrator and protagonist.
 
 (...)
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

@@ -18,9 +18,3 @@ As such, Grimm & Reed are both from the 1910s, Stark and Castle are from the 193
 Nick Fury in particular was a prominent comic-book hero, whose career stretches from WW2 to the Vietnam War and has along with Steve “Captain America” Rogers had the unique exception of keeping their original eras of birth.
 
 Rendering them as permanent inhabitants of a world of a sliding time-scale deprives the characters of their backstory and narrative purpose. Immortal and stagnant rather than lively and exciting.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

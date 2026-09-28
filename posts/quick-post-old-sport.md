@@ -43,9 +43,3 @@ Returning to sonkou (尊公), the Japanese  online dictionary repository, Kotob
 It then goes on to quote from a comedy from the early 1800s.
 
 Which shows that this term is of even greater antiquity than old sport, but nevertheless shares its old fashioned nuances of gentlemanly formality which is also coupled with his polite speech patterns.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

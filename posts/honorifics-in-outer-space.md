@@ -46,9 +46,3 @@ So, all in all what did we learn?
 It's a fantasy tale set in a galaxy far, far away and thinking overly much about the actual etymological, historical and real-life importance of concepts within the Star Wars universe will set it crumbling apart.
 
 Presumably the titles are very much just an homage to the science fiction stories of old and especially the pulp fiction that George Lucas was fond of and created Star Wars as an homage to that golden era of weird adventure fiction, where you would slap an aristocratic title to an intergalactic villain and it would be nothing more than to suggest the ominous nature of them more than anything else.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

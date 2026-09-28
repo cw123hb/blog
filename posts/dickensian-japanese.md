@@ -36,9 +36,3 @@ Key aspects of the character analysis are mainly pronominal aspects, unique expr
 This master-post will be updated running as new posts are added to the bulk of the analyses, over the coming Christmas days.
 
 1st Stave - Phrases and Terms.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

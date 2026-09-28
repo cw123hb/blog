@@ -24,9 +24,3 @@ Things of note: Warawa (妾, lit. concubine) - Translated here as the royal we, 
 Most of these traits will be found in other queens, noblewomen and similar members of aristocracy in Japanese media, such as:
 
 Fortune (Magic Drop) Hosokawa Gracia (Sengoku Musou) Mother (Wild Arms) Shutara Senjumaru (Bleach) Queen Zeal (Chrono Trigger)
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

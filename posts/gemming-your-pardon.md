@@ -24,9 +24,3 @@ Here the good knight is daydreaming and supplicating his imaginary princess to p
 Also present is mairasu, an otherwise obsolete archaic humble verb meaning "to endeavour humbly to perform," related to the modern mairu (参る, "to humbly go forth") and serves as a precursor to the modern multi-purpose verbal ending -masu.
 
 I will be covering more of the Don Quixote translations in future posts.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

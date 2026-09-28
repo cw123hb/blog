@@ -20,9 +20,3 @@ On a related note 聖 can also archaically be read as hijiri, referring to virtu
 The UK version of the gift-giver, Father Christmas is also rendered in katakana as ファーザー・クリスマス (Fâzâ Kurisumasu), though it is quite obscure compared to the name of his American colleague, Santa Claus - I could only really find articles referencing to how Australia celebrates Christmas as well as a very passing mention of the name, but not directly in Wikipedia's Japanese entry on the character, it itself merely being a re-direct.
 
 In the film Arthur Christmas, the 136 year old grandfather voiced by Bill Nighy, is affectionately called "Grandsanta" by those around him, which is translated in the subtitles as おじサンタ (Ojisanta, "Grampa Santa") and in the dub itself merely as おじいちゃん (ojiichan, "gramps/grandad"), thus foregoing the nickname entirely, for the regular informal word for one's own grandfather.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

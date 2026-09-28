@@ -34,9 +34,3 @@ Using the archaic passive-respectful imperative of makaseru (to entrust; to leav
 It appears that using ore is a firm part of Akechi's characterisation in this game being a more assertive and macho version of his previous self?
 
 This is not the first time that this happens in the game nor the series, something which I shall look into in a future post.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

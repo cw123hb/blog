@@ -146,9 +146,3 @@ Kondou: 『お父さん！　私の目には天皇陛下の衣服なんど見え
 Notably Kondou gives the child extra dialogue and giver her the informal if dialectal version of watashi, namely atai as well as referring to her father with the honorific form otousan.
 
 Next we shall look at a new decade and its translations.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

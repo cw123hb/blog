@@ -22,9 +22,3 @@ In both cases the original sense of “fucking \[something\] up” has been rend
 It removes the snappy roughness of the line, especially when coming from Leonidas who is otherwise a character denoted for his meeker demeanour than that of his peers.
 
 The verb in question is, for those interested fakku suru, literally using the loan word fakku (ファック) from the English “fuck” in its sense of “destroy/mess up”, by applying the universal verb-suffix, suru (“to do”).
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

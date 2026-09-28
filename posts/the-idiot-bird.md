@@ -26,9 +26,3 @@ What happened with the kanji, whose reading would usually be しんてんおう 
 As with most zoological names in Japanese, it is a case of a native Japanese word being paired with an already existing or descriptive kanji name, often such words are called jukujikun, i.e. the kanji are used purely for their meaning rather than reading - the opposite would be ateji, where the kanji lend their reading rather than meaning.
 
 Such as for the cuckoo there's 時鳥 ("time bird") read as ほととぎす (hototogisu), presumably in imitation of the bird's call.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

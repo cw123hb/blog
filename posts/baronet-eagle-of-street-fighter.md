@@ -22,9 +22,3 @@ Eikoku kitte no baunzaa, Iiguru karei naru boujutsu no tatsujin. Sono kokoro ni 
 One thing that struck me is that "Dalyell" and "Dyueru" (duel) could simply be a translation error owing to the similarity of the two words. And there is, indeed, an actual Scottish baronecy, featuring members such as Sir Thomas Dalyell, 11th Baronet (1923 - 2017).
 
 I don't actually believe this to be the case with Mr. Eagle, though, since he seems more like the type of chap wanting to travel the world in search of the "elegant duel", and working parttime as a bodyguard for the rich and famous.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

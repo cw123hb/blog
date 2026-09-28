@@ -22,9 +22,3 @@ Watakushi wa C-3PO to iu saibôgu de gozaimasu. Taihen na koto ni narimashita. W
 "I am a cyborg called C-3PO. Something terrible has happened, sir. My partner, R2-D2 has been completely captured by a tribe of Jawa."
 
 Zooming in we get “私はＣー３ＰＯというサイボーグでございます。”, “I am a cyborg called C-3PO”. The translator in question gave up halfway adapting the nonsense and outright called him a cyborg despite the fact that he is a machine-translation service on two legs, a robot.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

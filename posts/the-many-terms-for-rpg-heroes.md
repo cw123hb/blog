@@ -78,9 +78,3 @@ The strategy RPG, World of Warcraft 3 features not the three regular Japanese wo
 Said term has usually more connotations of American superheroes than those heroes of fantasy and mythology, but it may as well also be to fit in with the game terminology of "hero" being the name of the special units in the game that possess greater capabilities than regular soldiers.
 
 Thus it seems to have rounded itself off.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

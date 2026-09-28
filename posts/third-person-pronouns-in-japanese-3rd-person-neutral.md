@@ -34,9 +34,3 @@ In Modern Japanese, you see kare and kanojo being used as slang for “boyfriend
 Notes:
 
 \*The previously mentioned ‘long form’ corresponds to other Old Japanese pronouns such as われ (我・吾, “I, we”) and なれ (汝・爾, “thou”), with the pluralised forms われら (warera) and なれら (narera), as well as genitive わが (waga) and なが (naga).
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

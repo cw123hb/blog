@@ -64,9 +64,3 @@ Ore, Jâ-Jâ-Binkusu da. Ookina kikai no oto ga suru! Kakawariauno wa gomen da!
 I am Jar Jar Binks. There was this great sound of machines! I am so sorry to have wrapped you up in this! (Star Wars Episode I: The Phantom Menace \[PS1-version\])
 
 Regular male speech, right down to ore (俺), the standard masculine informal first person singular pronoun.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

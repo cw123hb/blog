@@ -38,9 +38,3 @@ Watashi wa anokata wo koko ni oyobimoushite watashi no nigatsukimo wo ippen goch
 "I would like to most humbly summon him hither and have him sample on some of my bitterness! Then, there will be ample to feast upon for him!"
 
 苦つ膽 here is an obscure term originating in traditional Chinese medicine, literally meaning "bitter liver/innards", but can also refer to bitterness, agony or pain in general - this being the proverbial "peace of mind" that Scrooge can feast upon. She is also notably more polite in this version, using oyobimousu "to humbly summon", and meshiagaru "the gentleman/madam drinks/eats". Hence she increases the politeness to an extreme degree if just to mock Scrooge being the "Founder of the Feast."
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

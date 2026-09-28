@@ -38,9 +38,3 @@ His other quotes are as follows:
 　げんげつに　ぬれる我が骸も　美かんなり　　　右京 Gengetsu ni nureru waga mukuro mo bi kan nari "By the crescent moon, my own soaked corpse, becomes beautiful" SNK: EVEV IF YOU IMITATE ME, YOU STILL CAN'T GET A DATE!
 
 斬勝利 　ちりてのち　のざらす者の　悲しさよ　　　　　右京 　(THE MOMENT I DREW MY SWORD, THE FIGHT WAS OVER. HO-HUM.) 必殺技勝利 　ほろよいの　しらねの美酒に　べにはがね　　　右京 　(A PERFECT ATTACK AND DEADLY HANDSOME. I AM TOO MUCH!) その他勝利 　あぶくよに　つなぐ脈こそ　かんろかな　　　　右京 　(YOU ALMOST SCRATCHED MY PERFECT FACE. OOOH, TO THINK OF IT!) エンディング 　命脈が　ありて我が剣　かがやけり　　　　　　右京 　(LIFE IS A STEWED PEACH IN A LOT OF SYRUP･･･ UKYO.)
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

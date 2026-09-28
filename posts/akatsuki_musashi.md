@@ -22,9 +22,3 @@ Case in point, some of his victory quotes:
 それがし (soregashi, “this one”) being his first personal pronominal noun is a humble one and was historically in a same manner as the modern わたくし (watakushi, “this private one”), i.e. only when talking to one’s superiors or in extremely formal correspondence.
 
 He uses そなた (sonata), an elegant if somewhat informal pronoun, used akin to 君 (kimi) in modern Japanese, when speaking to one’s social equals or below. He also uses the existential verb おる (oru), which in modern times is either used in humble speech or in some dialects, along with ぬ (nu), an archaic verbal negation.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

@@ -102,9 +102,3 @@ Furthermore, Vader's "you should not have come back" in the original becomes a c
 Vader's speech as well as Obi Wan's is much more archaic. Vader uses the existential verb oru and couples it with the positive particle yoi to produce orebayoi (you would/should be better have been), therefore giving him the grave aura of a lord of the Sith, and adding more gravitas to his confrontation with Obi Wan, who here uses the volitional negative wakarumai (does not want to know), along with Vader using the archaic negation nu rather than nai, as seen in one of the previous versions.
 
 I prefer this version in some regards even if it is more an adaptation of Lucas' original script, since it adds a bit more depth to the characters and their personalities as former apprentice and master become more evident in the way that they interact with each other.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

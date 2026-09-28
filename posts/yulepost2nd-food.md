@@ -134,9 +134,3 @@ We can therefore see that a great amount of creativity has gone into making thes
 I sincerely hope that everyone have a most merry, splendid and convivial winter-time, whether you call it Christmas, Yule, Festivius, Saturnalis or otherwise!
 
 I shall now take a long and much needed winter respite.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

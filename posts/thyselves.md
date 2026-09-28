@@ -32,9 +32,3 @@ Let us take a look,
 What is archaic is her usage of the verbal negation nu, rather than the modern nai, Nevertheless her using waga itoshiko uses the archaic if formal waga (my/mine) rather than watashi no or any other modern genetive construction.
 
 Of other linguistic note is that the Japanese word kotodama (言霊, lit. "word spirit" or "language soul") is used translated/localised in the English version as "own words" and elsewhere as "spoken echoes", which on one hand completely skips entirely the word's Shintoistic connotations - which on the other hand and to be fair is a difficult word to find any one English translation for, which is why "spoken echoes" is one way of conveying kotodama's nuances of mysteriousness that it may have for the Japanese gamer.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

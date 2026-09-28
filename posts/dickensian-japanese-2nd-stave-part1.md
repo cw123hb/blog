@@ -82,9 +82,3 @@ Scrooge, in Hayata's version, is particularly ill-tempered when his wishing the 
 In four of the versions Fred uses watashi (私), the gender-neutral standard polite pronoun, and only boku (僕), the standard informal male pronoun, in a single one - this gives Fred a youthful tone to his speech. The uncle, however, uses ore (俺), the assertive informal male pronoun to yell at his impertinent nephew, in all of the translations - where his other usual pronoun is washi (わし), the generic senior pronoun.
 
 To be continued in Part 2.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

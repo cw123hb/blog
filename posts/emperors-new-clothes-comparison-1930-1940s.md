@@ -108,9 +108,3 @@ And similarly Oohata gives us:
 With irassharu once more appearing in the negative and the question word nani is here doubled as nanni like a "whaat" or an elongated or enforced sense of surprise.
 
 Thus we have taken care of these two decades and are now moving on to the last step in our analysis of the translations of the fairy-tale, wherewith we will also encounter Oohata's final translation.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

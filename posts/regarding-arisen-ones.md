@@ -21,9 +21,3 @@ In the original Japanese version this term is 覚者 (kakusha, lit. “awakened 
 Source: Kotobank ([https://kotobank.jp/word/%E8%A6%9A%E8%80%85-460305](https://kotobank.jp/word/%E8%A6%9A%E8%80%85-460305))
 
 Hence, the role of the Arisen isn’t mere a commander of heroes, but also one is who gradually becomes learned in the ways of the universe and hence a candidate to become its new god.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

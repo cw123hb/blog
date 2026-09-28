@@ -80,9 +80,3 @@ Key: CE = Common Era, i.e. a secular mode based off the Gregorian one; R = Ratio
 70000s CE – Skies of Arcadia
 
 150000 CE – Battle Star Galactica
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

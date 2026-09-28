@@ -32,9 +32,3 @@ In usage:
 伝説の暗殺拳も、この程度か！ Densetsu no ansatsuken mo, kono teido ka! The legendary Assasin's Fist only amounts to this?
 
 Said by waterfowl-named Geese Howard in the game SNK vs Capcom: Chaos, where he is not all too impressed by the efforts of characters such as Ryu, a practicioner of said deadly martial art.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

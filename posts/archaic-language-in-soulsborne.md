@@ -170,9 +170,3 @@ Applying the second person singular ending to the past tense of a verb that alon
 Our Lord has returneds
 
 Despite its lack of the cases of Old, Middle and Elizabethan English, the sentence still looks utterly aberrant. The case could be made, "well, English -s only applies to the present tense of the third person, not the past tense," well my dear imaginary critic that obscures the point that I am trying to make, and -s derives from a dialectal transposing the 2nd person case unto the 3rd person, but that is another story for another time.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

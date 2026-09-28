@@ -68,9 +68,3 @@ The third person is use much more sparingly in the translations, specifically wh
 Nakajima uses shokun ("gentlemen") when referring to the poor that the Charity Workers talk about when they try to persuade Scrooge to give amnesty for the destitute, Nakayama foregoes this formality with merely using the neutral hito-tachi ("persons").
 
 All of them use the honorific san, when talking to Scrooge.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

@@ -136,9 +136,3 @@ Som der kan ses i ovenstående så er banderiet i de danske udgaver overdrevet e
 Med denne overdrevne grad af bandeord til side er oversættelsen stadigvæk tro mod Toriyamas originaltekst, som kan ses fra oversættelserne i kursiv, der er mine egne. Jeg har skam slet ikke personligt noget imod en god og sund omgang mundsvolv når det kommer til eder og banderi, men samtidigt var dette ikke den oprindelige ordtone i Dragon Ball.
 
 Endvidere bør man sige at det er ikke et konkret faktum at bandeord gøre en serie mere voksen blot fordi de bruges i overflåd.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

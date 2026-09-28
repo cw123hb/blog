@@ -26,9 +26,3 @@ Kusano Shibaji:
 "Aa, sayou gozaru ka. Hajime no ohanashi ja, ijou iroiro no mono ni, nani ka nanjou ga awatte (...)"
 
 THIS PROMPTEÞ A RE-WRITE.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

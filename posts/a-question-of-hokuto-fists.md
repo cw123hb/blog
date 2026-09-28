@@ -56,9 +56,3 @@ Notes:
 1 [https://kotobank.jp/word/%E5%89%9B%E3%83%BB%E8%B1%AA-259707#E7.B2.BE.E9.81.B8.E7.89.88.20.E6.97.A5.E6.9C.AC.E5.9B.BD.E8.AA.9E.E5.A4.A7.E8.BE.9E.E5.85.B8](https://kotobank.jp/word/%E5%89%9B%E3%83%BB%E8%B1%AA-259707#E7.B2.BE.E9.81.B8.E7.89.88.20.E6.97.A5.E6.9C.AC.E5.9B.BD.E8.AA.9E.E5.A4.A7.E8.BE.9E.E5.85.B8)
 
 2 [https://kotobank.jp/word/%E6%9F%94-144457](https://kotobank.jp/word/%E6%9F%94-144457)
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

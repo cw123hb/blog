@@ -36,9 +36,3 @@ No. It sounds sufficiently science-fiction'y, but "transmission" could literally
 The Japanese wikipedia article on the topic of teleportation lists not only shunkan idou as the actual Japanese translation for this concept, but also the loan word terepôtêshon (テレポーテーション), literally from the same English word.
 
 So, in short a needlessly verbose translation on a technique or word that already has an existing translation.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

@@ -74,9 +74,3 @@ I will return to the speech patterns of the cast of God of War at some point, si
 In conclusion:
 
 Marvel's is overly theatrical, Record's is quite reticent and God of War's is closer to the original source, but a broken one that tries to come to terms with his past.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

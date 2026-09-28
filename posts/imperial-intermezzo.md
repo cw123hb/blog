@@ -50,9 +50,3 @@ Swedish: ers kejserliga majestät Your Imperial Majesty.
 \*I have used two translations for the Czech version, thus the numerals denote these as they appear on the Wikisource pages.
 
 French once more drills it into the reader that the ruler is a mere archducal noble - not like his international translational royal and imperial peers.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

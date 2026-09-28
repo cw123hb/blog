@@ -16,9 +16,3 @@ Mars, the author and creator of The Mad SNK Project has an on-going project of c
 I by all means urge you to check his stuff out.
 
 You will in all likelihood be seeing a new article within next week.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

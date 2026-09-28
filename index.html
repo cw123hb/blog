@@ -13,113 +13,138 @@ if (location.hostname === "myriadleaves.eu") {
 <meta name="description" content="A gathering of a myriad of leaves — translations and thoughts.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;600;700&family=Zen+Kaku+Gothic+New:wght@400;500&display=swap" rel="stylesheet">
 <style>
+  /* Japanese concept: washi paper, sumi ink, a vermilion seal (hanko),
+     Mincho serif type and plenty of empty space (ma). */
   :root {
-    --ink: #15171a; --body: #3a3d42; --paper: #fff; --muted: #8a8d91; --rule: #e6e6e6;
-    --thumb: #f0f0f0; --thumb-text: #e2e2e2; --accent: #b0332a;
-    --sans: "Poppins", -apple-system, "Hiragino Sans", "Yu Gothic", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-    /* To use your Pexels photo, save it as hero.jpg next to this file. */
+    --ink: #1f1b16; --body: #3d372f; --paper: #f5efe3; --paper-2: #ece3d2; --muted: #8c8173; --rule: #d9cdb8;
+    --accent: #b7282e; --gold: #a8844a; --wave: rgba(31,27,22,.07);
+    --serif: "Shippori Mincho", "Noto Serif JP", "Hiragino Mincho ProN", "Yu Mincho", Georgia, serif;
+    --sans: "Zen Kaku Gothic New", "Hiragino Sans", "Yu Gothic", -apple-system, "Segoe UI", sans-serif;
     --hero-img: url("hero.jpg");
   }
   @media (prefers-color-scheme: dark) {
-    :root { --ink: #f2f2f2; --body: #c9cbcf; --paper: #15171a; --muted: #92959a; --rule: #2c2f33;
-            --thumb: #23262a; --thumb-text: #30343a; --accent: #e0685c; }
+    :root { --ink: #ece4d4; --body: #cfc5b3; --paper: #16130f; --paper-2: #211c16; --muted: #978b79; --rule: #3a3228;
+            --accent: #e0533f; --gold: #c9a56a; --wave: rgba(236,228,212,.05); }
   }
   * { box-sizing: border-box; }
   html { background: var(--paper); }
-  body { margin: 0; color: var(--ink); background: var(--paper); font-family: var(--sans); font-size: 17px; line-height: 1.6; }
+  body { margin: 0; color: var(--ink); font-family: var(--serif); font-size: 17px; line-height: 1.8;
+         background: var(--paper) radial-gradient(circle at 20% 10%, var(--paper-2), transparent 60%); }
   a { color: inherit; text-decoration: none; }
   button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
   :focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 
-  /* Top bar */
-  .top { height: 100px; background: var(--paper); position: relative; }
-  .top-in { height: 100%; display: flex; align-items: center; padding: 0 36px; gap: 44px; }
-  .logo { font-size: 24px; font-weight: 700; letter-spacing: -.02em; white-space: nowrap; }
-  #nav { display: flex; align-items: center; gap: 28px; font-size: 16px; font-weight: 500; flex: 1; position: relative; }
-  #nav > a, #nav > button { padding: 4px 0; white-space: nowrap; }
+  /* Top bar: seal logo, centred title, nav between thin double rules */
+  .top { position: relative; padding: 40px 20px 0; text-align: center; }
+  .top-in { max-width: 1040px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; gap: 22px; }
+  .logo { display: inline-flex; align-items: center; gap: 16px; font-size: 30px; font-weight: 600; letter-spacing: .08em; }
+  .seal { width: 52px; height: 52px; flex: none; display: grid; place-items: center; background: var(--accent); color: #fbf4e8;
+          border-radius: 6px; font-size: 26px; line-height: 1; transform: rotate(-4deg); box-shadow: inset 0 0 0 3px rgba(255,255,255,.18); }
+  .logo small { display: block; font: 500 11px var(--sans); letter-spacing: .5em; color: var(--muted); text-align: left; }
+  .navbar { width: 100%; display: flex; align-items: center; gap: 12px; border-top: 3px double var(--rule); border-bottom: 3px double var(--rule); padding: 6px 0; }
+  #nav { display: flex; justify-content: center; align-items: center; gap: 30px; font: 500 14px var(--sans); letter-spacing: .12em; flex: 1; position: relative; }
+  #nav > a, #nav > button { padding: 6px 0; white-space: nowrap; position: relative; }
+  #nav > a::after { content: ""; position: absolute; left: 50%; bottom: 0; width: 5px; height: 5px; margin-left: -2.5px; border-radius: 50%; background: var(--accent); opacity: 0; transition: opacity .2s; }
   #nav a:hover, #nav a.active { color: var(--accent); }
+  #nav > a.active::after { opacity: 1; }
   .more { position: relative; }
   .dots { display: flex; gap: 3px; align-items: center; height: 24px; }
   .dots i { width: 4px; height: 4px; border-radius: 50%; background: currentColor; }
-  .menu { display: none; position: absolute; top: 38px; right: 0; min-width: 220px; padding: 10px 0; background: var(--paper);
-          border: 1px solid var(--rule); border-radius: 8px; box-shadow: 0 12px 30px rgba(0,0,0,.14); z-index: 20; }
+  .menu { display: none; position: absolute; top: 40px; right: 0; min-width: 230px; padding: 10px 0; background: var(--paper); text-align: left;
+          border: 1px solid var(--rule); border-top: 3px solid var(--accent); box-shadow: 0 14px 30px rgba(0,0,0,.12); z-index: 20; }
   .menu.open { display: block; }
-  .menu a { display: block; padding: 7px 20px; font-size: 15px; }
+  .menu a { display: block; padding: 7px 22px; font-size: 14px; }
   .icon { width: 36px; height: 36px; display: grid; place-items: center; border-radius: 50%; }
   .icon:hover { color: var(--accent); }
-  #searchForm { display: none; position: absolute; inset: 0 36px 0 auto; left: 279px; align-items: center; background: var(--paper); z-index: 10; }
+  #searchForm { display: none; position: absolute; left: 20px; right: 20px; bottom: 6px; height: 44px; max-width: 1040px; margin: 0 auto;
+                align-items: center; background: var(--paper); z-index: 10; }
   #searchForm.open { display: flex; }
-  #searchForm input { width: 100%; height: 44px; border: 0; border-bottom: 2px solid var(--ink); background: transparent; color: var(--ink);
-                      font: 500 18px var(--sans); outline: none; }
+  #searchForm input { width: 100%; height: 40px; border: 0; border-bottom: 1px solid var(--ink); background: transparent; color: var(--ink);
+                      font: 500 17px var(--serif); outline: none; padding-right: 40px; }
   #searchForm .icon { position: absolute; right: 0; }
 
-  /* Hero */
-  .hero { position: relative; height: 480px; overflow: hidden; background: #777; display: grid; place-items: center; padding: 0 24px; }
+  /* Hero: red sun over seigaiha waves, with vertical text beside the tagline */
+  .hero { position: relative; max-width: 1040px; margin: 36px auto 0; height: 380px; overflow: hidden; background: var(--paper-2); }
   .hero[hidden] { display: none; }
-  .hero svg, .hero .photo, .hero .shade { position: absolute; inset: 0; width: 100%; height: 100%; }
-  .hero .photo { background: var(--hero-img) center / cover no-repeat; filter: grayscale(1); }
-  .hero .shade { background: rgba(0,0,0,.22); }
-  .hero-text { position: relative; margin: 0; max-width: 680px; text-align: center; color: #fff; font-size: 24px; font-weight: 500; line-height: 1.5; }
+  .hero .scene { position: absolute; inset: 0; width: 100%; height: 100%; }
+  .hero .scene .sky { fill: var(--paper-2); }
+  .hero .scene .mountain { fill: var(--ink); opacity: .1; }
+  .hero .scene .water { fill: var(--wave); }
+  .hero .scene .gate { fill: var(--ink); }
+  .hero .scene .gate.reflection { opacity: .22; }
+  .hero .photo { position: absolute; inset: 0; background: var(--hero-img) center / cover no-repeat; filter: grayscale(1) sepia(.35); opacity: .35; mix-blend-mode: multiply; }
+  .hero-text { position: absolute; left: 64px; top: 48px; right: 64px; margin: 0; max-width: 520px; font-size: 30px; font-weight: 600; line-height: 1.55; letter-spacing: .02em; }
+  .hero-text::before { content: ""; display: block; width: 48px; height: 2px; background: var(--accent); margin-bottom: 20px; }
+  .tate { position: absolute; right: 40px; top: 50%; transform: translateY(-50%); display: flex; flex-direction: column; align-items: center; gap: 20px; font-size: 22px;
+          color: var(--ink); padding: 22px 10px; border-left: 1px solid var(--ink); border-right: 1px solid var(--ink); background: var(--paper); }
 
-  /* Post list */
-  .feed { max-width: 880px; margin: 0 auto; padding: 80px 20px 40px; }
-  .item { display: grid; grid-template-columns: 200px 1fr; gap: 32px; margin-bottom: 64px; }
-  .thumb { height: 150px; overflow: hidden; background: var(--thumb); border-radius: 4px; padding-left: 20px; display: flex; align-items: flex-end; }
-  .thumb span { font-size: 92px; font-weight: 700; line-height: .85; color: var(--thumb-text); white-space: nowrap; letter-spacing: -.03em; transform: translateY(22%); }
-  .meta { margin: 0 0 4px; font-size: 12px; font-weight: 600; letter-spacing: .02em; color: var(--muted); text-transform: uppercase; }
-  .item h2 { margin: 0 0 10px; font-size: 28px; line-height: 1.25; font-weight: 700; letter-spacing: -.02em; }
+  /* Post list: numbered entries with a kanji tile for the category */
+  .feed { max-width: 880px; margin: 0 auto; padding: 72px 20px 40px; counter-reset: entry; }
+  .item { display: grid; grid-template-columns: 60px 120px 1fr; gap: 28px; padding: 32px 0; border-bottom: 1px solid var(--rule); counter-increment: entry; }
+  .item:first-child { border-top: 1px solid var(--rule); }
+  .item::before { content: counter(entry, cjk-decimal); writing-mode: vertical-rl; font-size: 15px; letter-spacing: .3em; color: var(--muted); justify-self: center; }
+  .thumb { width: 120px; height: 120px; display: grid; place-items: center; border: 1px solid var(--rule); background: var(--paper-2); position: relative; }
+  .thumb span { font-size: 60px; line-height: 1; color: var(--ink); opacity: .85; }
+  .thumb::after { content: ""; position: absolute; right: 8px; bottom: 8px; width: 10px; height: 10px; background: var(--accent); }
+  .meta { margin: 0 0 6px; font: 500 12px var(--sans); letter-spacing: .18em; color: var(--muted); text-transform: uppercase; }
+  .item h2 { margin: 0 0 10px; font-size: 25px; line-height: 1.4; font-weight: 600; }
   .item:hover h2 { color: var(--accent); }
-  .item p { margin: 0; font-size: 16px; color: var(--body); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .item:hover .thumb span { color: var(--accent); }
+  .item p { margin: 0; font-size: 15.5px; color: var(--body); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
   .empty { text-align: center; color: var(--muted); }
 
   /* Article */
-  .post { max-width: 720px; margin: 0 auto; padding: 72px 20px 40px; }
-  .post h1 { margin: 0 0 8px; font-size: 42px; line-height: 1.2; font-weight: 700; letter-spacing: -.025em; }
-  .post .meta { margin-bottom: 40px; }
-  .post .body { font-size: 18px; line-height: 1.75; color: var(--body); }
-  .post h2, .post h3 { color: var(--ink); line-height: 1.3; letter-spacing: -.015em; margin: 2.2em 0 .6em; }
+  .post { max-width: 700px; margin: 0 auto; padding: 72px 20px 40px; }
+  .post h1 { margin: 0 0 12px; font-size: 40px; line-height: 1.35; font-weight: 700; }
+  .post .meta { margin-bottom: 44px; padding-bottom: 20px; border-bottom: 3px double var(--rule); }
+  .post .body { font-size: 18px; line-height: 1.95; color: var(--body); }
+  .post h2, .post h3 { color: var(--ink); line-height: 1.4; margin: 2.2em 0 .6em; padding-left: 14px; border-left: 4px solid var(--accent); }
   .post a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
-  .post img { max-width: 100%; height: auto; border-radius: 4px; }
-  .post blockquote { margin: 1.6em 0; padding: 2px 0 2px 20px; border-left: 3px solid var(--accent); color: var(--muted); }
-  .post pre { overflow-x: auto; background: var(--thumb); padding: 14px; border-radius: 4px; }
+  .post img { max-width: 100%; height: auto; }
+  .post blockquote { margin: 1.8em 0; padding: 14px 22px; background: var(--paper-2); border-left: 2px solid var(--gold); color: var(--body); }
+  .post pre { overflow-x: auto; background: var(--paper-2); padding: 14px; }
   .post table { border-collapse: collapse; display: block; overflow-x: auto; font-size: 16px; }
   .post td, .post th { border: 1px solid var(--rule); padding: 6px 12px; }
-  .post th { background: var(--thumb); }
-  .back { display: inline-block; margin-top: 40px; font-weight: 500; color: var(--accent); }
+  .post th { background: var(--paper-2); }
+  .back { display: inline-block; margin-top: 44px; font: 500 14px var(--sans); letter-spacing: .12em; color: var(--accent); }
 
-  footer { padding: 40px 20px 56px; text-align: center; font-size: 13px; color: var(--muted); border-top: 1px solid var(--rule); max-width: 880px; margin: 0 auto; }
+  footer { max-width: 880px; margin: 40px auto 0; padding: 40px 20px 56px; text-align: center; font: 13px var(--sans); letter-spacing: .12em; color: var(--muted); border-top: 3px double var(--rule); }
+  footer::before { content: "葉"; display: block; width: 34px; height: 34px; margin: 0 auto 14px; line-height: 34px; background: var(--accent); color: #fbf4e8; font: 18px/34px var(--serif); border-radius: 4px; }
   footer a:hover { color: var(--accent); }
 
-  /* The full menu needs about 1150px, so the bar wraps onto its own scrollable
-     row below that; the rest of the layout folds at 860px. */
-  @media (max-width: 1160px) {
-    .top { height: auto; }
-    .top-in { flex-wrap: wrap; padding: 16px 20px 6px; gap: 8px 16px; }
-    .logo { font-size: 22px; flex: 1; }
-    #nav { order: 3; flex: 0 0 100%; overflow-x: auto; gap: 22px; padding-bottom: 8px; }
+  @media (max-width: 1000px) {
+    #nav { justify-content: flex-start; overflow-x: auto; gap: 22px; padding: 0 4px; }
     .menu { position: fixed; top: auto; left: 20px; right: 20px; margin-top: 8px; }
-    #searchForm { left: 20px; right: 20px; inset: 0 20px; }
   }
-  @media (max-width: 860px) {
-    .hero { height: 340px; }
-    .hero-text { font-size: 20px; }
-    .feed { padding-top: 48px; }
-    .item { grid-template-columns: 1fr; gap: 14px; margin-bottom: 44px; }
-    .thumb { height: 120px; }
-    .post h1 { font-size: 32px; }
+  @media (max-width: 760px) {
+    .top { padding-top: 24px; }
+    .logo { font-size: 23px; gap: 12px; }
+    .seal { width: 42px; height: 42px; font-size: 21px; }
+    .hero { margin: 24px 16px 0; height: 320px; }
+    .hero-text { left: 24px; top: 32px; right: 90px; font-size: 21px; }
+    .tate { right: 14px; font-size: 16px; padding: 14px 6px; gap: 14px; }
+    .feed { padding-top: 40px; }
+    .item { grid-template-columns: 72px 1fr; gap: 16px; }
+    .item::before { display: none; }
+    .thumb { width: 72px; height: 72px; }
+    .thumb span { font-size: 36px; }
+    .item h2 { font-size: 20px; }
+    .post h1 { font-size: 30px; }
   }
 </style>
 </head>
 <body>
 <header class="top">
   <div class="top-in">
-    <a class="logo" href="#/">Myriad of Leaves</a>
-    <nav id="nav" aria-label="Main"></nav>
-    <button class="icon" id="searchBtn" aria-label="Search">
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
-    </button>
+    <a class="logo" href="#/"><span class="seal" aria-hidden="true">葉</span><span>Myriad of Leaves<small>万葉 · MAN'YŌ</small></span></a>
+    <div class="navbar">
+      <nav id="nav" aria-label="Main"></nav>
+      <button class="icon" id="searchBtn" aria-label="Search">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+      </button>
+    </div>
   </div>
   <form id="searchForm" role="search">
     <input id="searchInput" type="search" placeholder="Search posts" aria-label="Search posts">
@@ -128,28 +153,27 @@ if (location.hostname === "myriadleaves.eu") {
 </header>
 
 <section class="hero" id="hero">
-  <!-- Drawn stand-in for the photo. It shows until hero.jpg exists. -->
-  <svg viewBox="0 0 1600 750" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+  <!-- A torii gate reflected in still water, echoing the_original.png. -->
+  <svg class="scene" viewBox="0 0 1600 750" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
     <defs>
-      <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8b8b8b"/><stop offset="1" stop-color="#c3c3c3"/></linearGradient>
-      <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b4b4b4"/><stop offset="1" stop-color="#8e8e8e"/></linearGradient>
       <filter id="soft"><feGaussianBlur stdDeviation="3"/></filter>
-      <g id="gate" fill="#2e2e2e">
+      <g id="gateShape">
         <path d="M640 372Q800 398 960 372L954 394Q800 418 646 394Z"/>
         <rect x="662" y="400" width="276" height="10"/>
         <rect x="670" y="432" width="260" height="14"/>
         <path d="M688 404h24l3 186h-30zM888 404h24l3 186h-30z"/>
       </g>
     </defs>
-    <rect width="1600" height="750" fill="url(#sky)"/>
-    <path d="M0 548L120 532 260 545 420 528 560 542 700 530 900 544 1080 526 1240 542 1400 530 1600 546V566H0Z" fill="#7c7c7c" opacity=".75"/>
-    <rect y="562" width="1600" height="188" fill="url(#sea)"/>
-    <use href="#gate" transform="translate(0 1180) scale(1 -1)" opacity=".28" filter="url(#soft)"/>
-    <use href="#gate"/>
+    <rect class="sky" width="1600" height="750"/>
+    <path class="mountain" d="M0 548L120 532 260 545 420 528 560 542 700 530 900 544 1080 526 1240 542 1400 530 1600 546V566H0Z"/>
+    <rect class="water" y="562" width="1600" height="188"/>
+    <use class="gate reflection" href="#gateShape" transform="translate(0 1180) scale(1 -1)" filter="url(#soft)"/>
+    <use class="gate" href="#gateShape"/>
   </svg>
+  <!-- If hero.jpg exists next to this file, it shows as a faint ink-wash layer. -->
   <div class="photo"></div>
-  <div class="shade"></div>
   <p class="hero-text" id="heroText"></p>
+  <p class="tate" aria-hidden="true" title="A myriad of leaves"><span>万</span><span>の</span><span>葉</span></p>
 </section>
 
 <main id="main"><p class="empty">Loading…</p></main>
@@ -164,6 +188,9 @@ const TAGLINE = "Translations, thoughts and musings from the Hall of a Myriad Le
 // posts.json contains goes into the "..." menu, so the menus together always
 // match the categories and never link to one that no longer exists.
 const MAIN_CATEGORIES = ["Musings", "Danish", "Language & Speech", "Translation Comparisons"];
+// One kanji per category, shown on each post's tile.
+const KANJI = { "Musings": "想", "Danish": "丁", "Language & Speech": "言", "Translation Comparisons": "訳",
+  "Games": "遊", "Anime, Manga & Fiction": "画", "Poetry & Stories": "詩", "Site Updates": "報", "Christmas & Yule": "祭" };
 const catHref = name => `#/category/${encodeURIComponent(name)}`;
 const main = document.getElementById("main");
 const hero = document.getElementById("hero");
@@ -210,7 +237,7 @@ function setHero(text) { hero.hidden = !text; heroText.textContent = text || "";
 function renderList(posts, emptyMsg) {
   if (!posts.length) return `<div class="feed"><p class="empty">${esc(emptyMsg)}</p></div>`;
   return `<div class="feed">${posts.map(p => {
-    const word = p.title.split(/\s+/)[0] || "";
+    const word = KANJI[p.category] || "葉";
     return `<a class="item" href="#/${encodeURIComponent(p.slug)}">
       <div class="thumb" aria-hidden="true"><span>${esc(word)}</span></div>
       <div><p class="meta">${esc([fmtDate(p.date), p.category].filter(Boolean).join(" · "))}</p>

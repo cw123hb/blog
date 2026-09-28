@@ -52,9 +52,3 @@ It is true that kuso (糞, "dung/shit/faeces") can mean literally "shit," but it
 (...) 'tel on, a devel wey!/Thou art a fool, thy wit is overcome.' (By the Devil, do continue! Thou art a fool, thy wit is extreme.")
 
 Where in our day and age "by the devil," is not only fairly mild, but it is outright archaic and you would probably only encounter it it Dickensian works at the utmost, when it comes to modern works.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

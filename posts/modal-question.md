@@ -34,9 +34,3 @@ Le Morte D'Arthur, VII.
 Here "will" expresses its most basic aspect of willing, wishing or wanting to do something, we might in English instead rephrase it as "I want you to know, sister, that he is a wholly noble knight", where "want" has replaced the Middle English modal verb in its sense wishing or wanting something of someone.
 
 We seen still this aspect in Danish, where the quote can be translated as "Jeg vil gerne have at du skal vide at han er en komplet ædel ridder." What is worth noting is that the adverb "gerne" (to want to, to be desirous of doing) is added to strengthen the aspect of the speaker's desire to inform the interlocutor, his sister, "at du skal/bør vide" is added as a subordinate to strengthen the informational aspect of the sentence, but it is nevertheless proof that this ancient usage has not fully become obsolete in Germanic languages. It is possible to render it as "Jeg vil (at) du ved (at) han er en helt (igennem) ædel ridder", but this can sound archaic hence the adverbial verbs needed to render it in a more modern register.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

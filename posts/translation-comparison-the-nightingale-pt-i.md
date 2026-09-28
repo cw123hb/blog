@@ -54,9 +54,3 @@ it is however written as if it was the gerund form of saimu (苛む, "to scold, 
 He uses, as mentioned in the previous paragraphs, the pronoun chin, hence the choice of the Majestic Royal in translation. Otherwise it is using the plain if archaic forms for the copula dearu, thus giving the Emperor the lofty and formal diction of a ruler.
 
 A critical scene that shows a complete redemption of the Emperor, where he is also delivered from the moribund fate of Death and the ghosts slowly dooming him for his past sins, by the Nightingale.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

@@ -154,9 +154,3 @@ BOB let forth a eerie vibration from his interior and the ball vibrated accordin
 “VERY WELL”
 
 Everything howled around their ears and the ball absorbed both of them. Both were stretched to unfathomable lengths across cosmic latitudes. Around him he could see phantasmagorical visions. Nebulae. Worlds orbiting impossible constellations. Myriads of eyes peering at him, beholding him from the forbidden beginning of times. His mind was almost torn asunder. But it did not. Suddenly he felt squashed. His entire being, body and essence compressed to an infinitesimally minute point. Less than a particle and then instantaneously they were there. The Plurality.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

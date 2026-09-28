@@ -30,9 +30,3 @@ Well, outside of the realm of fiction, where such rules are defenstrated for the
 But you could at one point during the Old Japanese period, as Frellesvig points out in the quote use a mode of absolute respect that only counts for the speaker to exhibit extreme self-confidence or ethos for that matter, fittingly as the speaker in the cited example is a god.
 
 This mode has since become obsolete over the many centuries that has passed, so your only chance of even being remotely, formally assertive, if also regal, in Japanese language is rather limited, indeed.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

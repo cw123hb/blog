@@ -36,9 +36,3 @@ Ma masaka ...! Sonna chikara nan ka nokottemasenyo ...! Sanzan shugyou shitansuk
 "That... That can't be...! I have no such power left in me...! Since, I've been thorough training... Now it seems as if I can surpass my limits..! Ha ha..."
 
 Kuririn, the perennial warrior-monk chum of Son Goku, hero of the Dragon Ball manga by Akira Toriyama uses in a few instances this slangy and informal variety of Keigo, with -su, but more than often uses -desu and the proper forms, though he tends towards using ore in the later parts of the manga, regardless of to whom he is speaking.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

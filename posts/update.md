@@ -16,9 +16,3 @@ I am currently working on something special for the final weeks of Christmas, wh
 Is it Santa Claus as a samurai who is fighting spirits, or merely some other Christmas themed martial arts epic?
 
 Only time shall tell!
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

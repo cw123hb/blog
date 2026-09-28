@@ -58,9 +58,3 @@ Sonkeigo words include: Omenikakaru - To honourably be before, to meet someone -
 These function as to elevate the position of the interlocutor, in this case the last of the three Ghosts. The literal meaning of omenikakaru is "the honourable eyes are made upon (me)," and like uketamawaru is only found in the most formal of circumstances.
 
 Standard teineigo forms found here are imasu of iru (to be) and the regular anata, that here communicates a neutral politeness, but is augmented by the previously mentioned decorous forms.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

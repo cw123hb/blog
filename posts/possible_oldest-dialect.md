@@ -44,9 +44,3 @@ European Spanish and Latin Spanish has seen the Latin second person plural and l
 And the list could go on, this is of course only touching upon the topic of vocabulary, then there is the question possible archaic syntactical and phonological traits.
 
 It is an interesting question that would be worth looking deeper into, in terms of ancient languages and their relationship to the varieties back then.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

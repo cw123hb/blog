@@ -36,9 +36,3 @@ Furthermore, if we go in further detail with the line inheritor of my brother's 
 The first term 遺志 (ishi, lit. "bequeath-intention") is used for a "dying wish" or the "wishes of a decased person," the next term 継ぎ (tsugi, "inheritor/successor/heir"), is literally a noun form of the verb 継ぐ (tsugu, "to succeed a person/position, to inherit a position/thing, to take over, to follow") and thus have various meanings, but all relating to the personal act of continuance of a thing or position.
 
 The entire expression however is also ideomatic referring to fulfilling someone's dying wish.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

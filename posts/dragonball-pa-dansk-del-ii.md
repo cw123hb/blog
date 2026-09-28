@@ -142,9 +142,3 @@ John Lysmand give os dette:
 "Lille ven" bruges her på samme måde som "kære ven" blev brugt med hensyn til kimi, for at illustrere Freezers opblæsthed, men Lysmand formår desværre ikke at kommunikere gennemslags kraften af gozonji i den danske oversættelse.
 
 Heraf kan det dermed siges at Lysmand bevare selve visse personlighedstræk for galleriet af heltene og skurkene, men de mere konkrete nuancer er tabt i oversættelsesprocessen, hvorfor det er en skam med hensyn til Carlsen Comics tidligere udtalelser om at være hundrede procent loyale over for originalteksten.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

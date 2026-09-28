@@ -22,9 +22,3 @@ I chose to translate "sama" as "lord", which it fits in terms of formality. Yûw
 Shukumei can mean both "fate" and "destiny", but "predestination" fits the dramatic overtones of it, originally stemming from Buddhism.
 
 "Great one" isn't a reference to eldritch, cosmic beings, but rather translating the word "o-kata", lit. "august/esteemed personage", which despite its grand literal meaning is merely a formal alternative to hito (person). Similarly, the beginning which says "Lord Miquella hath said", literally uses "ossharu", the honorific way of referring to when someone speaks, thus fitting together with "o-kata" and the overall tone of what appears to be Miquella's loyal knights.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

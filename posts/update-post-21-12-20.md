@@ -12,9 +12,3 @@ So, whilst writing I found out that one of the versions that I am using for the 
 It may be delayed by a few more days than what was originally intended.
 
 Pardon the slight delay, otherwise there will be other posts in the meanwhile.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

@@ -22,9 +22,3 @@ Which grossly mistranslates the original line and turns this ending into somethi
 I am honestly not sure why this happened, and why the localisation would warp the Japanese ending in this.
 
 In the subsequent games in the series, she would be revealed to be the genetic clone of Vega and hence serve as a member of his personal army of soldiers to one day become his next host body.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

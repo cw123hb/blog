@@ -68,9 +68,3 @@ That is indeed true, their reliance upon you Has grown weak, that means not that
 Few things of note here, namely Theoden himself is also a washi user and refers to himself and his royal household with the formal warera. He also uses the formal possessive waga to refer to his royal lineage. Gandalf overall uses the amiable anta towards Theoden, whereas anata, whence the informal second person pronoun stems, would be more fitting when referring to a king or perhaps even anatasama.
 
 Gandalf also uses the emphatic particle no which corresponds to the standard Japanese ne that adds an element of friendly assurance or questioning. He uses the respectful passive tense with mamorareta (you have protected the throne) in reference to Theoden having warded off the attackers. Gandalf prior to this uses yoi corresponding to ii in standard speech in conjunction with a seneba construction to imply an imperative or cohortative, that is a wish or command, in order to instil a sense of confidence in the despondent king.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

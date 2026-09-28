@@ -52,9 +52,3 @@ In the first stage of the game where Jedis Qui-Gon Jinn and Obi-Wan Kenobi are a
 総督が遅れている旨お詫び申し上げます。直ちに参りますので少々お待ちください。 Soutouku ga okurete iru mune owabi moushiagemasu. Tadachi ni mairimasunode shoushou omachi kudasai. "My most humble apologies as it would seem that the Viceroy is delayed. He shall be here in but a few moments, if you would please wait, Your Excellencies."
 
 Androids be they from the far-flung future or the distant past are incapable of communicating in anything but hyper-polite keigo, well not all of them, as we have seen above.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

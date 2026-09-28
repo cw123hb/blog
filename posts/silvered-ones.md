@@ -24,9 +24,3 @@ There is also a rare English adjective auric that means anything appertaining to
 Thereby the translators of this game essentially created a brand new Latin derived compound noun to translate the Japanese word, thus creating the name for these elusive people.
 
 It is worth remembering that the kanji 人, read as hito on its own and as -bito, -jin and -nin, when it compound nouns typically is used in demonyms (英国人, eikokujin - Englishman, lit. "England Person") or word describing a profession (職人, shokunin, "craftsman", lit. "employment person").
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

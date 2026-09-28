@@ -24,9 +24,3 @@ His unusual first name Emmett also fits the trend of other "eccentric" scientist
 Plus there is the echo of pulp magasine heroes in it, as well.
 
 With that in mind, have a Happy New Year!
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

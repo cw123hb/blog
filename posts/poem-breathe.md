@@ -28,9 +28,3 @@ Clear
 Reborn
 
 For a new morn
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

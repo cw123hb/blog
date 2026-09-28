@@ -36,9 +36,3 @@ The name for the first and easiest difficulty level, the slang phrase here very 
 The braggart giving his own self-evaluation, which the Japanese translation renders as Chikushou, ore tte sugee ze! ("Damn! I s'pose, I'm awesome!"), with chikushou beng an all-purpose expletive, using the assertive male pronoun ore and sugee, a colloquial pronunciation of sugoi ("awesome/cool"), all topped off with ze, the assertive emphatic particle.
 
 Thus, Duke Nukem's egocentricity is carried across in translation.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

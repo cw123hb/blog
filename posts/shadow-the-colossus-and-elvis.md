@@ -36,9 +36,3 @@ For the sake of comparison here is the original quote from the guidebook:
 The translation is again the same as Glitter Berri made, one detail that is worth mentionin is that the name is Îbsu, i.e. with an elongated initial "i" sound, which sounds faintly like Elvis in Japanese, i.e. Eruvisu (エルヴィス) - though phonetically a rendering like Irubisu (イルビス), would be a bit closer to the name of the musician himself. Hence the rendering of it as "Evis", and also its name within the unused data of the game itself. Alternatetively it may just be the English words "evil" (イービル, îbiru) and Elvis (エルヴィス, Eruvisu) combined to create the anti-establishment pun/reference/joke that they mentioned in the guidebook.
 
 The God of Rock and Roll, indeed!
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

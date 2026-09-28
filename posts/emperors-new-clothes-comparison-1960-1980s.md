@@ -120,9 +120,3 @@ I will in the future perhaps write an article in regards to the dizzying amount 
 Thank you for being the literary travelling companion - and no that is not a reference to an upcoming project.
 
 心から、ブロッゴポストをご耽読くださいましてありがとうございます, 皆々様 Thank you very much, for having thoroughly read these blog-posts, ladies and gentlemen!
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

@@ -36,9 +36,3 @@ The move itself takes usually, in the games, the form of Gouki floating towards 
 UPDATE:
 
 This has also been covered quite thoroughly on Eventhubs, though there are a few errors such as translating Gouki's name as "proud demon" rather than "mighty oni".
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

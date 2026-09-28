@@ -24,9 +24,3 @@ Den første høflighedspronomen til at nå danske bredder kommer direkte fra det
 Senere kom tredjeperson maskulinum og femininum (med de tilsvarende titler "herre/frue"), som høflighedstiltale per tysk model, disse var på lige fod med andenperson pluralis, men snart ville også disse blive opslugt i hvad der skulle blive til standardsvarianten "De", tredjeperson pluralis efter tysk model, hvor også i tyskland havde denne overskygget de eksisterende former, også selvom "I/Euch" fortsat var i brug.
 
 Brug i oversættelser:
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

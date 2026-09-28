@@ -32,9 +32,3 @@ We can conclude that the compound means that the stardust consist of a chemical 
 Yet, our quest continues!
 
 Star dust, or presolar grains, to use its exact name, consist of varying minerals varying from diamonds to titanium, since the actual particular structure of such cosmic dust differ greatly from star to star. Can we with a certain amount of leeway say that it may possibly exist within the boundless depths of the universe, or am I merely spending too much time pondering what is basically technobabble in a family Christmas film?
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

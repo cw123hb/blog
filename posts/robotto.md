@@ -26,9 +26,3 @@ We will return to how exactly these video game terms are translated into Japanes
 Overall, another term that appeared during the 1930s and 1940s was kikaijin (機械人 "Machine Person"), which whilst fitting with Isaac Asimov's idea of "mechanical men", was earliest used in Sanjugo Naoki (直木 三十五, 1891 - 1934)'s Robotto no Beddo no Juuryou (ロボットとベッドの重量, The Robot and the Weight of the Bed") from 1931.
 
 There is therefore a varied field of words to use when translating the term and even then each series has its old particular nomenclature for its artificial beings such as the Rock Man X games and their reploids, literally in Japanese Repurioido (レプリロイド) from "Replicant" and "Android." Replicant again a rather popular term for the artificial humans from the classical novel by American author Phillip K. Dick (1928 - 1982), Do Androids Dream of Electric, and the later Blade Runner films, which adapted the story.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

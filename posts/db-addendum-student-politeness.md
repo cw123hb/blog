@@ -70,9 +70,3 @@ Ore appears now more frequently in Tenshinhan's informal and formal speech patte
 When the cast rejoin after years apart, for the next Tenka'ichi Budoukai, we get these exchanges:
 
 <INSERT DIALOGUE FROM THE 14TH, 15TH, 16TH AND 17TH VOLUMES>
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

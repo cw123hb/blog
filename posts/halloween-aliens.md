@@ -24,9 +24,3 @@ UCHÛJIN (宇宙人)
 EIRIAN (エイリアン)
 
 Literally a spelling of the English word "alien" into the katakana system. This is also used as the name for the Xenomorphs of that famous series of science fiction films. This term has a bit of a more international flair.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

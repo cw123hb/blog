@@ -16,9 +16,3 @@ Alexander the Iron Fist, self-styled Warrior Jar and Champion, is the game's jov
 Alexander is part Humpty Dumpty and part Roman clay-ware. A fragile exterior that hides the bodies and souls of many brave heroes that fule the peculiar construct, of which there are many.
 
 (Write more about his relation to the character of British children's rhymes.)
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

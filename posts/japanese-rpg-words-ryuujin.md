@@ -26,9 +26,3 @@ Ryuu sugata o katadotta harubaado, suirai no chikara o obite iru. Ryuujinhei wa,
 Thus artificially created dragons, but malformed ones that never fully realise the potential of the actual wyverns and bosses popilating the game's vast world.
 
 Other prominent examples include the Digimon franchise where an entire race of monsters are named as such, including the armoured WarGreymon.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

@@ -18,9 +18,3 @@ Cool off with a cool cuppa Even in the heat – blazes from the street Stress wa
 It’s gotta have that Swing
 
 Don’t give me all that jizz about not liking jazz I wanna have that music with the grand pizzazz Groving and moving to all those old time tunes Beneath all the passing suns and the moons Till every star bursts out dancing in the black Yeah, w’regular, real, regal, right moves, no slack Let’s then dance you and I, Until the day dawns, till the working day bids You and I goodbye Oh, but I know a thing or to About that they call “the Swing”
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

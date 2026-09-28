@@ -16,9 +16,3 @@ Fell in English is an archaic word meaning "ruthless, savage" (derived from Midd
 But my heart forbodes that, ere all is ended, you, Frodo son of Drogo, will know more of these fell things than Gildor Inglorion. (Lord of the Rings - Fellowship of the Ring, Tolkien)
 
 "Fell things" here referring to the hordes of Mordor, warped and cursed beings that all serve the eponymous Lord of the Rings, Sauron.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

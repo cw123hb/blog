@@ -14,9 +14,3 @@ The character Mokujin is an animated wooden training dummy having been brought t
 This arboreal martial-arts manikin has kanji etched into his back, enumerating the amount of direct hits (punches and kicks) that he has received or performed, written with the character of 正 ("correct, straight, right"), but in Karate possibly signifying a direct punch (正拳, seiken). The Tekken Wikia seems to suggest that the character is due to its stroke-order being five, hence used for counts of five and thus five hits. He sports 10 of these in Tekken 3.
 
 Wiktionary amongst other sources points towards its usage as a tally marker hence its usage in martial arts as such, thus poor Mokujin has been either marking his losses or victories on his back. We shall never know.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

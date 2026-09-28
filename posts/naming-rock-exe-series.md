@@ -100,9 +100,3 @@ Higure Yamitarou ("Higsby"):
 日暮 – “twilight” (“sun” + “livelihood”) 闇太郎 - “darkness” + “thick” + “son”
 
 Fitting names for an eccentric character whose fishy nature is apparent at the start of the game where he pretends to be a maths-teacher, but later reveals to be a member of the criminal WWW organisation, where most of the villains in the series stem from. 太郎 (tarou, “thick” + “son”, thick here in the sense of healthy) is typically given as a suffix to the name of the eldest son of a family. The English name is yet another Anglicization of the Japanese original name.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

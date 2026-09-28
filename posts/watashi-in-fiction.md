@@ -94,9 +94,3 @@ Wareware Furon wa, kyouiteki na saikokineshisu (PK) nouryoku o shinka sarete kit
 Wareware is a highly formal way of expressing the first person plural pronoun, the rest of his vocabulary, as said, is highly formal and gives off an impression of standoffish gloating.
 
 As we thus have seen watashi encompasses quite the range of characters and archetypes in Japanese fiction and media, be they noble gods, annoyed scientists or wish-granting dragons.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

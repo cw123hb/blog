@@ -16,9 +16,3 @@ Middagens fremmarch, azurblå himler, skyfrie tanker, blåt, åbent og æterisk.
 Eftermiddagens okkupation, rødlige nuancer, den sidste ild.
 
 Kvældets opgivning. Stjerneklare vidder. Sindet atter tomt. Klar til morgendagen.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

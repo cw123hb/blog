@@ -85,9 +85,3 @@ Other than slight rephrasings and wordings it is very much the same, apart from 
 The Comparison between the Gaping Dragon and Placidusax:
 
 Last, but not least, addressing the question in the beginning, in regards to the titles of the Gaping Dragon, in the flavour text of his axe, and that of Placidusax. The weapon is in the English localisation "Dragon King Greataxe" and in the original Japanese version 竜王の大斧, (Ryuu'ou no daifu, "Great Axe of the Dragon King"), which plainly demonstrates that they both have the same epithet.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

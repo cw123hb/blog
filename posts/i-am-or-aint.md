@@ -18,9 +18,3 @@ This glorious chimera of existential and operative verbs would flourish in multi
 Should we then accept "ain't" as a part of formal, academic English? It seems rather improbable due to the rigid standards of that particular variety of English, but otherwise say it ain't so, for this particular contraction. Hell, I an't done with talking about it, though!
 
 (ADD STUFF ABOUT PREJUDICE CONCERNING THE CONTRACTION, ALSO ADD MORE SOURCES THAT ARE NOT WIKIPEDIA, SINCE THIS MAY BE VERY AD VERBIM)
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

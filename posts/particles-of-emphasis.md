@@ -28,9 +28,3 @@ Wa (わ)
 Decisively female in modern Standard Japanese, but gender-neutral in older dialects. The variant wai (わい) is even more old-fashioned.
 
 All of these can however be combined as one pleases, since language is ever immutable, but nevertheless take heed not to sound all too old fashioned or hip.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

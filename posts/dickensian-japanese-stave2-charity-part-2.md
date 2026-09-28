@@ -73,9 +73,3 @@ Yamamoto Masaki: お祝い (oiwai) - Congratulations, gift. A common word.
 (1)Scrooge interrupts the Charity Worker before he can finish his sentence, but from the context it is clear that this word was intended.
 
 This concludes the section about the Charity Workers. Moving onwards we will be taking care of Scrooge, his nephew and the ghosts (Marley and the Christmas Ghosts), though not in that particular order.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

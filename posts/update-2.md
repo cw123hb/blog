@@ -18,9 +18,3 @@ The current massive translation comparison projects, one of which namely is the 
 As mentioned, I will also be taking care of smaller blog posts - not just appertaining to linguistics, but as of now that is the main focus on this blog and the bulk of my interests.
 
 Indeed, schedules may shift to something more propitious, but as of now taking it at a slower if easier pace helps me allocate the time spent on various projects more evenly.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

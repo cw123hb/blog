@@ -12,9 +12,3 @@ Lo, a micro translation-comparison sort of thing. In the 11th volume of Vinland 
 冬至祭（ユル）には毎年　私どもの育てた豚をお召し上がりになっていらしたそうでして　ハイ Yuru ni wa maitoshi, watakushi-domo no sodate buta o o-meshiagari ni natte irashita sou deshite hai "Every year at the "The Festival of the Winter Solstice ("Jól")", do Your Majesty eat of the pork that we most humbly have bred, Your Majesty. Oh, yes."
 
 冬至祭 would, if it was a regular word, be read as toujisai, but here it has got the non-standard reading yuru applied to it to approximate the Old Norse word in question, thereby telling Japanese readers of what the Old Norse meant by the festival and also what it was called at the historical time, when the story takes place.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

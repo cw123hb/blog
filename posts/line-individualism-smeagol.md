@@ -70,9 +70,3 @@ He uses the regular existential verb iru (いる, “to be”) rather than the o
 The dialogue of the games are in direct relation to the official Japanese dubs in terms of speech patterns and voice actors.
 
 In regards to the books, I have unfortunately not been able to find a copy, but it seems that his speech patterns are essentially the same there as they are in the games and films.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

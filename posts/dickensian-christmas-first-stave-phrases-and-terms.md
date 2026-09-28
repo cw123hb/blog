@@ -76,9 +76,3 @@ Kusano Shibaji: 祝日 (shukujitsu, "national/public holiday") This mostly appea
 Yaguchi Tatsu, Nakajima Kotou and Hataya Masao: They all use the loan word.
 
 Morita Souhei: 降誕祭 (koutansai, "The Nativity", lit. "Festival of the Regal Birth") Other than this Morita also uses 聖降誕祭 (seikoutansai, "Holy Christmas", lit.  "Holy Festival of the Regal Birth"), read as a regular word rather than with the loan-word reading Kurisumasui, and this is most often also used in conjunction with people's felicitations, thus "Merry Christmas" is rendered as "聖降誕祭でお目出とう (Seikoutansai de omedetou, lit. "An Auspicious Holy Festival of the Regal Birth \[to you\]").
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

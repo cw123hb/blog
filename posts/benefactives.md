@@ -24,9 +24,3 @@ These do in general go at the end of a verb (or a noun, in some cases) to transf
 Or in the case of noun-based verbs: 了承する ->  ご了承ください Ryoushou suru -> Goryoushou kudasai "To understand" -> "Please understand"
 
 In some cases it could also be phrased goryoushu shite kudasai, where the shite is less formal, than the above, but still polite, where the shite is the so-called "te" form, or a combinatory form of sorts to connect verbs and create things such as compounds.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

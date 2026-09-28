@@ -28,9 +28,3 @@ For the pertinent bit, which leans closer towards the actual Latinate form of th
 We needn't wait for that, however, as Wikipedia gives us Caroline as the proper adjective for the period of regency of Charles III's predecessors.
 
 There we go.
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱

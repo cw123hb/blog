@@ -18,9 +18,3 @@ That being said, I will return to them, especially the fairy-tale ones. A Christ
 As always thanks for your continued patience and readership.
 
 貴覧とご辛抱を心よりありがとうございます、皆様方。
-
-last updated: 2026-01-26
-
-**myriadleaves.eu 2026**
-
-朱
