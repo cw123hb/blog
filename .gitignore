@@ -3,3 +3,4 @@ recap.md
 .jekyll-cache/
 .jekyll-metadata
 __pycache__/
+.claude/
